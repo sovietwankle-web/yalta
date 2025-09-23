@@ -1,0 +1,175 @@
+[072月2025 13:11:45.610] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[072月2025 13:11:45.615] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 22.0.1 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[072月2025 13:11:46.093] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[072月2025 13:11:46.164] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/lizuo/Desktop/forge/Forge%201.20.1/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[072月2025 13:11:47.736] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\Desktop\forge\Forge 1.20.1\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.0\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[072月2025 13:11:47.741] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\Desktop\forge\Forge 1.20.1\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.0\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[072月2025 13:11:47.745] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\Desktop\forge\Forge 1.20.1\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.0\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[072月2025 13:11:47.749] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\Desktop\forge\Forge 1.20.1\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.0\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[072月2025 13:11:47.865] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[072月2025 13:11:47.866] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[072月2025 13:11:49.108] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[072月2025 13:11:49.132] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[072月2025 13:11:49.505] [main/WARN] [mixin/]: Error loading class: xfacthd/framedblocks/common/blockentity/doubled/FramedAdjustableDoubleBlockEntity (java.lang.ClassNotFoundException: xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity)
+[072月2025 13:11:49.505] [main/WARN] [mixin/]: @Mixin target xfacthd.framedblocks.common.blockentity.doubled.FramedAdjustableDoubleBlockEntity was not found createbigcannons.mixins.json:compat.FramedAdjustableDoubleBlockEntityAccessor
+[072月2025 13:11:49.979] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/slab/CopycatSlabBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock)
+[072月2025 13:11:49.980] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.slab.CopycatSlabBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
+[072月2025 13:11:49.983] [main/WARN] [mixin/]: Error loading class: com/copycatsplus/copycats/content/copycat/board/CopycatBoardBlock (java.lang.ClassNotFoundException: com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock)
+[072月2025 13:11:49.984] [main/WARN] [mixin/]: @Mixin target com.copycatsplus.copycats.content.copycat.board.CopycatBoardBlock was not found create_connected.mixins.json:compat.CopycatBlockMixin
+[072月2025 13:11:49.992] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[072月2025 13:11:50.026] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER
+[072月2025 13:11:50.027] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/gui/AbstractSimiScreen (java.lang.RuntimeException: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER)
+[072月2025 13:11:50.028] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.gui.AbstractSimiScreen was not found create_connected.mixins.json:sequencedgearshift.AbstractSimiScreenAccessor
+[072月2025 13:11:50.069] [main/WARN] [mixin/]: Error loading class: earth/terrarium/botarium/forge/BotariumForge (java.lang.ClassNotFoundException: earth.terrarium.botarium.forge.BotariumForge)
+[072月2025 13:11:50.070] [main/WARN] [mixin/]: @Mixin target earth.terrarium.botarium.forge.BotariumForge was not found create_central_kitchen.mixins.json:common.botarium.BotariumForgeMixin
+[072月2025 13:11:50.072] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/integration/MoreRedIntegration (java.lang.ClassNotFoundException: dan200.computercraft.shared.integration.MoreRedIntegration)
+[072月2025 13:11:50.073] [main/WARN] [mixin/]: @Mixin target dan200.computercraft.shared.integration.MoreRedIntegration was not found create_central_kitchen.mixins.json:common.computercraft.MoreRedIntegrationMixin
+[072月2025 13:11:50.158] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[072月2025 13:11:50.158] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin
+[072月2025 13:11:50.160] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[072月2025 13:11:50.161] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor
+[072月2025 13:11:50.161] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[072月2025 13:11:50.161] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin
+[072月2025 13:11:50.162] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[072月2025 13:11:50.162] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin
+[072月2025 13:11:50.250] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[072月2025 13:11:54.298] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
+[072月2025 13:11:54.331] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[072月2025 13:11:54.332] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[072月2025 13:11:55.405] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[072月2025 13:11:55.528] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[072月2025 13:11:55.536] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
+[072月2025 13:11:55.558] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[072月2025 13:11:55.560] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[072月2025 13:11:55.560] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[072月2025 13:11:55.561] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[072月2025 13:11:55.563] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[072月2025 13:11:55.563] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[072月2025 13:11:55.564] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[072月2025 13:11:55.565] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[072月2025 13:11:55.565] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[072月2025 13:11:56.857] [main/INFO] [journeymap/]: Initializing Packet Registries
+[072月2025 13:11:56.961] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[072月2025 13:11:56.976] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[072月2025 13:11:56.980] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[072月2025 13:11:57.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[072月2025 13:11:58.445] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[072月2025 13:11:58.645] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
+[072月2025 13:11:58.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[072月2025 13:11:59.414] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/lizuo/Desktop/forge/Forge%201.20.1/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23121!/assets/.mcassetsroot' uses unexpected schema
+[072月2025 13:11:59.415] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/lizuo/Desktop/forge/Forge%201.20.1/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23121!/data/.mcassetsroot' uses unexpected schema
+[072月2025 13:11:59.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.10-7 Target: null
+[072月2025 13:11:59.537] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[072月2025 13:12:00.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.1 Target: 5.10.3
+[072月2025 13:12:00.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Starting version check at https://raw.githubusercontent.com/hlysine/create_connected/main/update.json
+[072月2025 13:12:00.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_connected] Found status: OUTDATED Current: 0.8.2-mc1.20.1 Target: 0.9.4-mc1.20.1
+[072月2025 13:12:00.543] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_slab_compat as it's serializer returned null
+[072月2025 13:12:00.544] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_compat as it's serializer returned null
+[072月2025 13:12:00.551] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_fence_gate_compat as it's serializer returned null
+[072月2025 13:12:00.562] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_vertical_step_compat as it's serializer returned null
+[072月2025 13:12:00.570] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_wall_compat as it's serializer returned null
+[072月2025 13:12:00.571] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_block_compat as it's serializer returned null
+[072月2025 13:12:00.583] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_beam_compat as it's serializer returned null
+[072月2025 13:12:00.594] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_board_compat as it's serializer returned null
+[072月2025 13:12:00.603] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe create_connected:crafting/palettes/copycat_stairs_compat as it's serializer returned null
+[072月2025 13:12:00.608] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 30 recipes
+[072月2025 13:12:00.621] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bottles_from_bucket: Unknown item id 'create_central_kitchen:sap_bucket'
+[072月2025 13:12:00.646] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement create_central_kitchen:recipes/crafting/sap_bucket_from_bottles: Unknown item id 'autumnity:sap_bottle'
+[072月2025 13:12:00.716] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3226 advancements
+[072月2025 13:12:02.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[072月2025 13:12:02.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[072月2025 13:12:02.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[072月2025 13:12:02.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[072月2025 13:12:02.264] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[072月2025 13:12:02.283] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[072月2025 13:12:02.455] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[072月2025 13:12:02.455] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[072月2025 13:12:02.455] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[072月2025 13:12:02.457] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[072月2025 13:12:02.476] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[072月2025 13:12:02.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[072月2025 13:12:03.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[072月2025 13:12:05.155] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[072月2025 13:12:05.173] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[072月2025 13:12:05.177] [Worker-Main-11/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[072月2025 13:12:05.183] [Worker-Main-10/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[072月2025 13:12:05.357] [Worker-Main-18/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[072月2025 13:12:05.841] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[072月2025 13:12:06.354] [Worker-Main-7/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[072月2025 13:12:06.722] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3385 ms
+[072月2025 13:12:06.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.251s)! For help, type "help"
+[072月2025 13:12:06.749] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[072月2025 13:20:24.540] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shambalabala[/127.0.0.1:54123] logged in with entity id 502 at (38.79046229558877, 88.0, -18.09384437130782)
+[072月2025 13:20:24.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shambalabala joined the game
+[072月2025 13:20:24.696] [Server thread/INFO] [Jade/]: Syncing config to Shambalabala (d11ae246-dc9e-34e4-aa8d-c8393f6c784f)
+[072月2025 13:30:41.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.3841559538202546
+[072月2025 13:30:41.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.8922441108290968
+[072月2025 13:31:43.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.3956171359074574
+[072月2025 14:21:28.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.32953390749883205
+[072月2025 14:21:50.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.4101944874871606
+[072月2025 15:07:29.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.37104106940348913
+[072月2025 15:07:57.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.38187808390051714
+[072月2025 15:07:57.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.897540060795933
+[072月2025 15:11:20.293] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.2626854898144302
+[072月2025 15:11:20.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.4712446807327524
+[072月2025 15:11:20.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.48454955784995946
+[072月2025 15:11:20.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.49166873232456965
+[072月2025 15:11:20.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.4954780606449276
+[072月2025 15:11:20.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.4975163562794478
+[072月2025 15:11:20.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 1.0089789084256608
+[072月2025 15:11:20.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.5019804681305686
+[072月2025 15:11:20.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.5094640930769856
+[072月2025 15:11:20.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 1.0366679826192922
+[072月2025 15:11:20.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.5169856733796223
+[072月2025 15:11:20.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.5183968551964426
+[072月2025 15:11:20.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.5187605018500108
+[072月2025 15:11:20.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.518865497774641
+[072月2025 15:11:21.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 1.050642721287204
+[072月2025 15:11:21.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.5187006743378788
+[072月2025 15:11:21.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.5144167488197127
+[072月2025 15:11:21.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.49947356303641754
+[072月2025 15:11:21.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.9904602647918637
+[072月2025 15:11:21.287] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.43658669626438495
+[072月2025 15:11:21.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.7736949410316356
+[072月2025 15:11:21.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.2641450186893053
+[072月2025 15:11:21.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.7876571871574924
+[072月2025 15:11:21.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.3043661605836405
+[072月2025 15:14:43.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.2972232119477667
+[072月2025 15:14:48.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.2683765547940311
+[072月2025 15:14:48.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.45999753358614726
+[072月2025 16:51:51.956] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/26095, l='ServerLevel[world]', x=1884.48, y=68.00, z=-851.30] died, message: 'Cartographer was slain by Zombie'
+[072月2025 16:54:27.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.3913890097968533
+[072月2025 16:54:27.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.8587680077621371
+[072月2025 17:07:05.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.40755422071447356
+[072月2025 17:07:05.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.897504075201482
+[072月2025 17:07:05.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.33027315144295244
+[072月2025 17:07:05.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Shambalabala) moved wrongly! 0.7307896081829313
+[072月2025 17:13:58.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shambalabala lost connection: Disconnected
+[072月2025 17:13:58.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shambalabala left the game
+[072月2025 19:37:40.897] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sailor2568[/127.0.0.1:61929] logged in with entity id 48455 at (-73.63296603969904, 95.0, 8.707249244762435)
+[072月2025 19:37:40.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sailor2568 joined the game
+[072月2025 19:37:41.051] [Server thread/INFO] [Jade/]: Syncing config to Sailor2568 (870293fd-9723-302d-8652-4157e97a9012)
+[072月2025 21:17:12.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shambalabala[/127.0.0.1:49984] logged in with entity id 64100 at (35.77764503149709, 88.0, -19.82182005030767)
+[072月2025 21:17:12.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shambalabala joined the game
+[072月2025 21:17:12.380] [Server thread/INFO] [Jade/]: Syncing config to Shambalabala (d11ae246-dc9e-34e4-aa8d-c8393f6c784f)
+[072月2025 21:38:47.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shambalabala lost connection: Disconnected
+[072月2025 21:38:47.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shambalabala left the game
+[072月2025 21:39:01.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shambalabala[/127.0.0.1:50125] logged in with entity id 68487 at (19.214484806139815, 95.75, 6.42438818800451)
+[072月2025 21:39:01.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shambalabala joined the game
+[072月2025 21:39:01.542] [Server thread/INFO] [Jade/]: Syncing config to Shambalabala (d11ae246-dc9e-34e4-aa8d-c8393f6c784f)
+[072月2025 22:09:36.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shambalabala lost connection: Disconnected
+[072月2025 22:09:36.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shambalabala left the game
+[072月2025 22:10:00.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xijinping[/127.0.0.1:63315] logged in with entity id 74514 at (-79.0171968264511, 95.0, -125.19103809395271)
+[072月2025 22:10:00.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xijinping joined the game
+[072月2025 22:10:00.346] [Server thread/INFO] [Jade/]: Syncing config to xijinping (ab65bd0c-32ff-3003-b72a-1a0ffbc2c105)
+[072月2025 22:14:22.817] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Shambalabala[/127.0.0.1:63408] logged in with entity id 75459 at (-20.36818493165998, 96.0, 10.271612686952784)
+[072月2025 22:14:22.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shambalabala joined the game
+[072月2025 22:14:22.889] [Server thread/INFO] [Jade/]: Syncing config to Shambalabala (d11ae246-dc9e-34e4-aa8d-c8393f6c784f)
+[072月2025 22:37:35.698] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sailor2568 lost connection: Timed out
+[072月2025 22:37:35.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sailor2568 left the game
+[072月2025 22:44:01.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xijinping hit the ground too hard
+[072月2025 22:44:47.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported xijinping to -72.500000, -59.000000, 117.500000
+[072月2025 22:47:48.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Shambalabala lost connection: Disconnected
+[072月2025 22:47:48.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Shambalabala left the game
+[072月2025 22:52:52.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xijinping lost connection: Disconnected
+[072月2025 22:52:52.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xijinping left the game
