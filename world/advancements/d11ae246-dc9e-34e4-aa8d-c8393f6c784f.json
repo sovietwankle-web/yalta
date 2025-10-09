@@ -659,6 +659,7 @@
       "minecraft:phantom": "2025-09-13 11:12:26 +0800",
       "minecraft:witch": "2025-02-07 15:14:05 +0800",
       "minecraft:husk": "2025-02-05 22:40:06 +0800",
+      "minecraft:piglin": "2025-10-02 21:38:16 +0800",
       "minecraft:enderman": "2024-08-04 22:06:28 +0800",
       "minecraft:silverfish": "2025-02-04 22:31:16 +0800",
       "minecraft:zombie": "2024-07-31 21:43:58 +0800",
@@ -7096,6 +7097,2730 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-09-19 20:08:04 +0800"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-10-02 14:45:45 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-10-02 16:07:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-10-02 16:07:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-10-02 16:07:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-10-02 16:07:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-10-02 16:07:46 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/jungle_window": {
+    "criteria": {
+      "has_ingredient": "2025-10-02 16:07:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-10-02 16:07:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-10-02 16:07:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-10-02 16:07:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-10-02 16:07:46 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_slab_from_panels": {
+    "criteria": {
+      "has_item": "2025-10-02 16:28:36 +0800"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_jungle_trapdoor": "2025-10-02 17:24:32 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_block_from_slabs": {
+    "criteria": {
+      "has_item": "2025-10-02 17:29:04 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-10-02 18:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/link_and_pin": {
+    "criteria": {
+      "has_item": "2025-10-02 18:23:21 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/small_buffer": {
+    "criteria": {
+      "has_item": "2025-10-02 18:23:21 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/transportation/conductor_vent_from_industrial_iron_block_stonecutting": {
+    "criteria": {
+      "has_industrial_iron_block": "2025-10-02 18:23:21 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/copycat_headstock_link_and_pin": {
+    "criteria": {
+      "has_item": "2025-10-02 18:23:51 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/wooden_headstock_link_and_pin": {
+    "criteria": {
+      "has_item": "2025-10-02 18:23:51 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/big_buffer": {
+    "criteria": {
+      "has_item": "2025-10-02 18:26:25 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 20:55:26 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:12 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:14 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:17 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/brass_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-02 21:07:20 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_slab_from_steps": {
+    "criteria": {
+      "has_item": "2025-10-02 21:51:07 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_vertical_step_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-02 21:51:07 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:00:36 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2025-10-02 22:03:42 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_box": {
+    "criteria": {
+      "has_item": "2025-10-02 22:17:37 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_catwalk": {
+    "criteria": {
+      "has_item": "2025-10-02 22:17:37 +0800"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_welder_mirrored": {
+    "criteria": {
+      "has_blaze_burner": "2025-10-03 12:23:15 +0800"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-10-03 12:23:15 +0800"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_welder": {
+    "criteria": {
+      "has_blaze_burner": "2025-10-03 12:23:15 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dark_oak_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-10-03 12:24:56 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:41:18 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/pink_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/brown_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/green_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_gray_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_gray_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/white_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/purple_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/green_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/orange_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/purple_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/light_blue_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/light_blue_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/red_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/brown_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/blue_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/red_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/white_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/magenta_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/gray_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/yellow_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/black_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/lime_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/orange_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/pink_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/gray_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/yellow_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/cyan_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/magenta_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/lime_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/blue_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_1x/cyan_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/dyeing_8x/black_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-03 12:57:38 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_slab_from_beams": {
+    "criteria": {
+      "has_item": "2025-10-03 13:03:28 +0800"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2025-10-03 13:39:07 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/fluid_vessel": {
+    "criteria": {
+      "has_item": "2025-10-03 13:47:58 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-10-03 13:47:58 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo": {
+    "criteria": {
+      "has_item": "2025-10-03 13:47:58 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-10-03 13:47:58 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/light_gray_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/light_gray_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/light_gray_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/light_gray_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/light_gray_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/light_gray_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/light_gray_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:09 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/white_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:16 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/white_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:16 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/white_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:16 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/white_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:16 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/white_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:16 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/white_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:16 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/white_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 11:21:16 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 13:40:21 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 13:40:21 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 13:40:21 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 13:40:21 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 13:40:21 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-04 13:40:21 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/gray_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-04 13:40:21 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/white_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 13:47:33 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/white_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 13:47:33 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/white_brass_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 13:47:33 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/light_gray_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 13:48:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/light_gray_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 13:48:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/light_gray_brass_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 13:48:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/blue_brass_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 14:04:39 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/blue_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-10-04 14:04:39 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/blue_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 14:04:39 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/blue_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 14:04:39 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/blue_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-10-04 14:04:39 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/blue_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 14:04:39 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/blue_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 14:04:39 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/blue_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 14:04:39 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/blue_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 14:04:39 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/blue_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 14:04:39 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/palettes/copycat_step_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-04 14:31:35 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/gray_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 20:01:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_candle": {
+    "criteria": {
+      "has_purple_dye": "2025-10-04 20:05:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-10-04 19:08:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_purple_dye": "2025-10-04 20:05:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-10-04 19:25:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-04 19:08:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-04 19:08:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-04 19:08:41 +0800"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/basin_foundry_lid": {
+    "criteria": {
+      "has_basin": "2025-10-04 18:53:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-10-04 19:08:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/gray_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 20:01:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-04 20:05:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-04 20:05:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-04 19:25:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-10-04 19:08:41 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/gray_brass_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-10-04 20:01:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_purple_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-10-04 20:05:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-10-04 19:25:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-10-04 19:25:40 +0800"
     },
     "done": true
   },
