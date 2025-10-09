@@ -2,6 +2,7 @@
 git add .
 git commit -m "%date% %time%"
 git push origin master
+start "" "C:\Users\lizuo\Desktop\games\SakuraFrp.lnk"
 REM Forge requires a configured set of both JVM and program arguments.
 REM Add custom JVM arguments to the user_jvm_args.txt
 REM Add custom program arguments {such as nogui} to this file in the next line before the %* or
