@@ -5667,5 +5667,29 @@
     },
     "done": true
   },
+  "create_connected:recipes/crafting/kinetics/vertical_six_way_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-10-24 19:40:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-10-25 02:25:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-10-25 02:25:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-10-25 02:25:51 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
