@@ -2361,6 +2361,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-10-26 18:30:22 +0800",
       "sugar_cane": "2025-07-22 22:48:25 +0800",
       "red_mushroom": "2025-07-22 22:52:10 +0800",
       "wheat": "2025-10-20 00:04:09 +0800"
@@ -5748,6 +5749,18 @@
   "create:stressometer": {
     "criteria": {
       "0": "2025-10-25 16:48:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-26 21:57:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-10-26 21:57:15 +0800"
     },
     "done": true
   },
