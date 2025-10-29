@@ -1,113 +1,101 @@
-[2810月2025 00:00:15.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8045ms or 160 ticks behind
-[2810月2025 00:00:38.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7857ms or 157 ticks behind
-[2810月2025 00:01:00.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7463ms or 149 ticks behind
-[2810月2025 00:01:23.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7515ms or 150 ticks behind
-[2810月2025 00:01:45.798] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7361ms or 147 ticks behind
-[2810月2025 00:02:07.937] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7151ms or 143 ticks behind
-[2810月2025 00:02:30.181] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7245ms or 144 ticks behind
-[2810月2025 00:02:52.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7732ms or 154 ticks behind
-[2810月2025 00:03:15.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7288ms or 145 ticks behind
-[2810月2025 00:03:37.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7605ms or 152 ticks behind
-[2810月2025 00:04:00.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7565ms or 151 ticks behind
-[2810月2025 00:04:22.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7557ms or 151 ticks behind
-[2810月2025 00:04:45.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7489ms or 149 ticks behind
-[2810月2025 00:05:07.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7556ms or 151 ticks behind
-[2810月2025 00:05:30.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7415ms or 148 ticks behind
-[2810月2025 00:05:52.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7113ms or 142 ticks behind
-[2810月2025 00:06:14.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7014ms or 140 ticks behind
-[2810月2025 00:06:36.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7302ms or 146 ticks behind
-[2810月2025 00:06:58.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7294ms or 145 ticks behind
-[2810月2025 00:07:21.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7222ms or 144 ticks behind
-[2810月2025 00:07:43.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7786ms or 155 ticks behind
-[2810月2025 00:08:06.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8092ms or 161 ticks behind
-[2810月2025 00:08:29.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8083ms or 161 ticks behind
-[2810月2025 00:08:52.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7795ms or 155 ticks behind
-[2810月2025 00:09:15.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7375ms or 147 ticks behind
-[2810月2025 00:09:37.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7365ms or 147 ticks behind
-[2810月2025 00:09:59.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7112ms or 142 ticks behind
-[2810月2025 00:10:21.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7387ms or 147 ticks behind
-[2810月2025 00:10:44.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7556ms or 151 ticks behind
-[2810月2025 00:11:06.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7292ms or 145 ticks behind
-[2810月2025 00:11:28.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7029ms or 140 ticks behind
-[2810月2025 00:11:51.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7449ms or 148 ticks behind
-[2810月2025 00:12:13.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7293ms or 145 ticks behind
-[2810月2025 00:12:35.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7720ms or 154 ticks behind
-[2810月2025 00:12:58.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7147ms or 142 ticks behind
-[2810月2025 00:13:19.945] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6909ms or 138 ticks behind
-[2810月2025 00:13:41.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6977ms or 139 ticks behind
-[2810月2025 00:14:03.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6736ms or 134 ticks behind
-[2810月2025 00:14:25.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6865ms or 137 ticks behind
-[2810月2025 00:14:47.016] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6580ms or 131 ticks behind
-[2810月2025 00:15:08.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6840ms or 136 ticks behind
-[2810月2025 00:15:30.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6865ms or 137 ticks behind
-[2810月2025 00:15:52.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6991ms or 139 ticks behind
-[2810月2025 00:16:14.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6994ms or 139 ticks behind
-[2810月2025 00:16:36.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6896ms or 137 ticks behind
-[2810月2025 00:16:58.500] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7114ms or 142 ticks behind
-[2810月2025 00:17:20.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6886ms or 137 ticks behind
-[2810月2025 00:17:42.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6737ms or 134 ticks behind
-[2810月2025 00:18:03.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6326ms or 126 ticks behind
-[2810月2025 00:18:24.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5899ms or 117 ticks behind
-[2810月2025 00:18:45.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6150ms or 123 ticks behind
-[2810月2025 00:19:06.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6566ms or 131 ticks behind
-[2810月2025 00:19:28.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6652ms or 133 ticks behind
-[2810月2025 00:19:50.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6533ms or 130 ticks behind
-[2810月2025 00:20:11.793] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6757ms or 135 ticks behind
-[2810月2025 00:20:33.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6519ms or 130 ticks behind
-[2810月2025 00:20:54.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6489ms or 129 ticks behind
-[2810月2025 00:21:16.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6617ms or 132 ticks behind
-[2810月2025 00:21:37.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6557ms or 131 ticks behind
-[2810月2025 00:21:59.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6575ms or 131 ticks behind
-[2810月2025 00:22:21.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6772ms or 135 ticks behind
-[2810月2025 00:22:42.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6569ms or 131 ticks behind
-[2810月2025 00:23:04.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7134ms or 142 ticks behind
-[2810月2025 00:23:27.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7194ms or 143 ticks behind
-[2810月2025 00:23:48.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6731ms or 134 ticks behind
-[2810月2025 00:24:10.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6525ms or 130 ticks behind
-[2810月2025 00:24:31.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6804ms or 136 ticks behind
-[2810月2025 00:24:53.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6762ms or 135 ticks behind
-[2810月2025 00:25:15.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6863ms or 137 ticks behind
-[2810月2025 00:25:37.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6553ms or 131 ticks behind
-[2810月2025 00:25:58.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6814ms or 136 ticks behind
-[2810月2025 00:26:20.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7030ms or 140 ticks behind
-[2810月2025 00:26:42.789] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6852ms or 137 ticks behind
-[2810月2025 00:27:04.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7105ms or 142 ticks behind
-[2810月2025 00:27:27.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7247ms or 144 ticks behind
-[2810月2025 00:27:49.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7299ms or 145 ticks behind
-[2810月2025 00:28:11.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7066ms or 141 ticks behind
-[2810月2025 00:28:22.147] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xijinping lost connection: Disconnected
-[2810月2025 00:28:22.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xijinping left the game
-[2810月2025 00:41:55.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xijinping[/[::1]:54183] logged in with entity id 195559 at (1763.1660463528826, 49.0, -731.3000000119209)
-[2810月2025 00:41:55.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xijinping joined the game
-[2810月2025 00:41:55.732] [Server thread/INFO] [Jade/]: Syncing config to xijinping (ab65bd0c-32ff-3003-b72a-1a0ffbc2c105)
-[2810月2025 00:41:58.303] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2968ms or 59 ticks behind
-[2810月2025 00:42:25.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11975ms or 239 ticks behind
-[2810月2025 00:43:00.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20025ms or 400 ticks behind
-[2810月2025 00:43:38.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23671ms or 473 ticks behind
-[2810月2025 00:44:18.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24219ms or 484 ticks behind
-[2810月2025 00:44:57.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24545ms or 490 ticks behind
-[2810月2025 00:45:34.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21531ms or 430 ticks behind
-[2810月2025 00:46:10.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21885ms or 437 ticks behind
-[2810月2025 00:46:52.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26095ms or 521 ticks behind
-[2810月2025 00:47:28.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21088ms or 421 ticks behind
-[2810月2025 00:48:03.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20886ms or 417 ticks behind
-[2810月2025 00:48:38.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 19212ms or 384 ticks behind
-[2810月2025 00:49:16.991] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23904ms or 478 ticks behind
-[2810月2025 00:50:02.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30874ms or 617 ticks behind
-[2810月2025 00:50:47.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 29879ms or 597 ticks behind
-[2810月2025 00:51:33.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30533ms or 610 ticks behind
-[2810月2025 00:51:57.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xijinping lost connection: Disconnected
-[2810月2025 00:51:57.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xijinping left the game
-[2810月2025 00:52:01.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13284ms or 265 ticks behind
-[2810月2025 00:56:22.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[2810月2025 00:56:22.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[2810月2025 00:56:22.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[2810月2025 00:56:22.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[2810月2025 00:56:22.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[2810月2025 00:56:22.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[2810月2025 00:56:22.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[2810月2025 00:56:22.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[2810月2025 00:56:22.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[2810月2025 00:56:22.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[2810月2025 00:56:22.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[2810月2025 00:56:22.522] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[2910月2025 00:00:12.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6917ms or 138 ticks behind
+[2910月2025 00:00:34.521] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7002ms or 140 ticks behind
+[2910月2025 00:00:56.563] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7045ms or 140 ticks behind
+[2910月2025 00:01:19.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7864ms or 157 ticks behind
+[2910月2025 00:01:41.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6645ms or 132 ticks behind
+[2910月2025 00:02:03.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7225ms or 144 ticks behind
+[2910月2025 00:02:25.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7660ms or 153 ticks behind
+[2910月2025 00:02:48.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7531ms or 150 ticks behind
+[2910月2025 00:03:11.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8041ms or 160 ticks behind
+[2910月2025 00:03:34.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7782ms or 155 ticks behind
+[2910月2025 00:03:55.957] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6888ms or 137 ticks behind
+[2910月2025 00:04:18.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7122ms or 142 ticks behind
+[2910月2025 00:04:39.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6889ms or 137 ticks behind
+[2910月2025 00:04:58.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[2910月2025 00:05:21.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7329ms or 146 ticks behind
+[2910月2025 00:05:42.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6644ms or 132 ticks behind
+[2910月2025 00:06:04.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6937ms or 138 ticks behind
+[2910月2025 00:06:26.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7107ms or 142 ticks behind
+[2910月2025 00:06:49.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7210ms or 144 ticks behind
+[2910月2025 00:07:11.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7256ms or 145 ticks behind
+[2910月2025 00:07:33.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7341ms or 146 ticks behind
+[2910月2025 00:07:56.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7432ms or 148 ticks behind
+[2910月2025 00:08:18.154] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7185ms or 143 ticks behind
+[2910月2025 00:08:40.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6981ms or 139 ticks behind
+[2910月2025 00:09:02.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7198ms or 143 ticks behind
+[2910月2025 00:09:24.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7489ms or 149 ticks behind
+[2910月2025 00:09:46.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6614ms or 132 ticks behind
+[2910月2025 00:10:08.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6784ms or 135 ticks behind
+[2910月2025 00:10:30.145] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7127ms or 142 ticks behind
+[2910月2025 00:10:52.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6919ms or 138 ticks behind
+[2910月2025 00:11:13.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6897ms or 137 ticks behind
+[2910月2025 00:11:36.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7132ms or 142 ticks behind
+[2910月2025 00:11:58.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7094ms or 141 ticks behind
+[2910月2025 00:12:19.930] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6912ms or 138 ticks behind
+[2910月2025 00:12:41.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6748ms or 134 ticks behind
+[2910月2025 00:13:03.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6898ms or 137 ticks behind
+[2910月2025 00:13:25.221] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6752ms or 135 ticks behind
+[2910月2025 00:13:46.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6740ms or 134 ticks behind
+[2910月2025 00:14:08.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6652ms or 133 ticks behind
+[2910月2025 00:14:30.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6431ms or 128 ticks behind
+[2910月2025 00:14:51.725] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6756ms or 135 ticks behind
+[2910月2025 00:15:13.865] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7147ms or 142 ticks behind
+[2910月2025 00:15:35.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6879ms or 137 ticks behind
+[2910月2025 00:15:57.415] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6747ms or 134 ticks behind
+[2910月2025 00:16:19.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7016ms or 140 ticks behind
+[2910月2025 00:16:41.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7215ms or 144 ticks behind
+[2910月2025 00:17:03.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6948ms or 138 ticks behind
+[2910月2025 00:17:24.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6447ms or 128 ticks behind
+[2910月2025 00:17:45.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6089ms or 121 ticks behind
+[2910月2025 00:18:07.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6335ms or 126 ticks behind
+[2910月2025 00:18:29.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6893ms or 137 ticks behind
+[2910月2025 00:18:51.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7051ms or 141 ticks behind
+[2910月2025 00:19:13.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7122ms or 142 ticks behind
+[2910月2025 00:19:35.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6898ms or 137 ticks behind
+[2910月2025 00:19:57.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7010ms or 140 ticks behind
+[2910月2025 00:20:18.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6867ms or 137 ticks behind
+[2910月2025 00:20:40.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6849ms or 136 ticks behind
+[2910月2025 00:21:02.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6822ms or 136 ticks behind
+[2910月2025 00:21:24.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6640ms or 132 ticks behind
+[2910月2025 00:21:45.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6284ms or 125 ticks behind
+[2910月2025 00:22:06.702] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6333ms or 126 ticks behind
+[2910月2025 00:22:28.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6740ms or 134 ticks behind
+[2910月2025 00:22:50.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7044ms or 140 ticks behind
+[2910月2025 00:23:12.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7176ms or 143 ticks behind
+[2910月2025 00:23:34.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7256ms or 145 ticks behind
+[2910月2025 00:23:57.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7555ms or 151 ticks behind
+[2910月2025 00:24:19.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7048ms or 140 ticks behind
+[2910月2025 00:24:41.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7085ms or 141 ticks behind
+[2910月2025 00:25:03.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7247ms or 144 ticks behind
+[2910月2025 00:25:25.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7042ms or 140 ticks behind
+[2910月2025 00:25:47.302] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6733ms or 134 ticks behind
+[2910月2025 00:26:09.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6996ms or 139 ticks behind
+[2910月2025 00:26:30.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6527ms or 130 ticks behind
+[2910月2025 00:26:52.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6938ms or 138 ticks behind
+[2910月2025 00:27:14.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7362ms or 147 ticks behind
+[2910月2025 00:27:37.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7132ms or 142 ticks behind
+[2910月2025 00:27:59.492] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7423ms or 148 ticks behind
+[2910月2025 00:28:21.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7300ms or 146 ticks behind
+[2910月2025 00:28:43.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7115ms or 142 ticks behind
+[2910月2025 00:29:06.116] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7248ms or 144 ticks behind
+[2910月2025 00:29:28.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7194ms or 143 ticks behind
+[2910月2025 00:29:50.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6871ms or 137 ticks behind
+[2910月2025 00:30:12.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6967ms or 139 ticks behind
+[2910月2025 00:30:34.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7067ms or 141 ticks behind
+[2910月2025 00:30:56.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7613ms or 152 ticks behind
+[2910月2025 00:31:19.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7540ms or 150 ticks behind
+[2910月2025 00:31:41.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7259ms or 145 ticks behind
+[2910月2025 00:32:03.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7052ms or 141 ticks behind
+[2910月2025 00:32:25.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7150ms or 143 ticks behind
+[2910月2025 00:32:49.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8577ms or 171 ticks behind
+[2910月2025 00:33:13.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9602ms or 192 ticks behind
+[2910月2025 00:33:39.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10690ms or 213 ticks behind
+[2910月2025 00:34:04.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9985ms or 199 ticks behind
+[2910月2025 00:34:30.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10938ms or 218 ticks behind
+[2910月2025 00:34:56.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11123ms or 222 ticks behind
+[2910月2025 00:35:22.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11289ms or 225 ticks behind
+[2910月2025 00:35:48.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11040ms or 220 ticks behind
+[2910月2025 00:36:14.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10915ms or 218 ticks behind
+[2910月2025 00:36:40.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11114ms or 222 ticks behind
+[2910月2025 00:36:51.851] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xijinping lost connection: Disconnected
+[2910月2025 00:36:51.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xijinping left the game
