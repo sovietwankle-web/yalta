@@ -9827,5 +9827,71 @@
     },
     "done": true
   },
+  "railways:recipes/misc/stonecutting/palettes/cycling/black_plated_locometal": {
+    "criteria": {
+      "has_item": "2025-11-15 14:39:13 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/black_locometal_pillar": {
+    "criteria": {
+      "has_item": "2025-11-15 14:39:13 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/black_iron_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-11-15 14:39:13 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/item_silo_from_conversion": {
+    "criteria": {
+      "has_item": "2025-11-15 14:23:31 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/black_flat_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-11-15 14:39:13 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/black_copper_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-11-15 14:39:13 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/black_riveted_locometal": {
+    "criteria": {
+      "has_item": "2025-11-15 14:39:13 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/palettes/wrapping/black_brass_wrapped_locometal": {
+    "criteria": {
+      "has_item": "2025-11-15 14:39:13 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/black_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-11-15 14:39:13 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/black_flat_slashed_locometal": {
+    "criteria": {
+      "has_item": "2025-11-15 14:39:13 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/palettes/cycling/black_locometal_smokebox": {
+    "criteria": {
+      "has_item": "2025-11-15 14:39:13 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
