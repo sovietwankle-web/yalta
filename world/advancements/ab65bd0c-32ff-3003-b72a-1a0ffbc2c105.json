@@ -454,6 +454,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-07-30 19:41:16 +0800",
       "minecraft:flower_forest": "2025-06-16 23:54:38 +0800",
       "minecraft:old_growth_birch_forest": "2025-06-10 02:39:50 +0800",
+      "minecraft:deep_dark": "2025-11-22 22:48:24 +0800",
       "minecraft:meadow": "2025-06-09 21:51:03 +0800",
       "minecraft:savanna": "2025-06-10 00:25:45 +0800",
       "minecraft:plains": "2025-06-07 23:17:21 +0800"
@@ -5952,12 +5953,6 @@
     },
     "done": true
   },
-  "create:clockwork_bearing": {
-    "criteria": {
-      "0": "2025-11-09 21:28:50 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-11-09 19:56:06 +0800"
@@ -5967,18 +5962,6 @@
   "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-11-09 19:56:06 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-11-09 21:13:30 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_carved_pumpkin": "2025-11-09 20:49:15 +0800"
     },
     "done": true
   },
@@ -6006,12 +5989,6 @@
     },
     "done": true
   },
-  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_conversion": {
-    "criteria": {
-      "has_item": "2025-11-09 22:21:32 +0800"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-11-09 19:56:06 +0800"
@@ -6033,12 +6010,6 @@
   "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-11-09 19:56:06 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
-    "criteria": {
-      "has_carved_pumpkin": "2025-11-09 20:49:15 +0800"
     },
     "done": true
   },
@@ -6072,9 +6043,141 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-11-09 20:49:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-11-09 20:49:15 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-11-09 21:13:30 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-11-09 21:13:30 +0800"
+    },
+    "done": true
+  },
+  "create:clockwork_bearing": {
+    "criteria": {
+      "0": "2025-11-09 21:28:50 +0800"
+    },
+    "done": true
+  },
+  "create_connected:recipes/crafting/kinetics/six_way_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-11-09 22:21:32 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_light_gray": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_cyan": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_red": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_magenta": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_light_blue": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_brown": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_yellow": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/conductor_whistle": {
+    "criteria": {
+      "has_item": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_pink": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_purple": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_gray": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_green": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_white": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_blue": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_orange": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_lime": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/combat/dying_existing_cap_black": {
+    "criteria": {
+      "hasitem": "2025-11-22 22:41:30 +0800"
     },
     "done": true
   },

@@ -1,3 +1,14 @@
-[2211月2025 02:41:12.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[2211月2025 02:41:12.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[2211月2025 02:41:12.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[2311月2025 01:04:10.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xijinping lost connection: Disconnected
+[2311月2025 01:04:10.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xijinping left the game
+[2311月2025 01:04:18.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[2311月2025 01:04:18.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[2311月2025 01:04:18.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[2311月2025 01:04:18.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[2311月2025 01:04:18.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[2311月2025 01:04:18.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[2311月2025 01:04:18.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[2311月2025 01:04:18.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[2311月2025 01:04:18.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[2311月2025 01:04:18.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[2311月2025 01:04:18.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[2311月2025 01:04:19.016] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
