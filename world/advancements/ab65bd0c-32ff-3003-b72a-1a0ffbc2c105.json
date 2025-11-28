@@ -6181,5 +6181,65 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2025-11-23 23:06:15 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2025-11-23 23:06:15 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2025-11-23 23:06:15 +0800"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/crafting/track_coupler": {
+    "criteria": {
+      "has_item": "2025-11-23 23:06:15 +0800"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2025-11-23 23:26:17 +0800"
+    },
+    "done": true
+  },
+  "create:train_roadkill": {
+    "criteria": {
+      "0": "2025-11-24 01:22:11 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2025-11-23 23:06:15 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2025-11-23 23:06:15 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2025-11-23 23:06:15 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2025-11-23 23:06:15 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
