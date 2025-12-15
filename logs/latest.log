@@ -1,8 +1,4 @@
-[0712月2025 00:27:25.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[0712月2025 00:27:25.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[0712月2025 00:27:25.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[0712月2025 00:27:25.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[0712月2025 00:27:25.147] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Exception handling console input
+[0812月2025 01:05:12.969] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Exception handling console input
 java.io.IOException: 管道的另一端上无任何进程。
 	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
 	at java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
@@ -19,3 +15,6 @@ java.io.IOException: 管道的另一端上无任何进程。
 	at java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
 	at java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
 	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:89) ~[server-1.20.1-20230612.114412-srg.jar%23125!/:?]
+[0812月2025 01:05:19.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[0812月2025 01:05:19.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[0812月2025 01:05:19.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
