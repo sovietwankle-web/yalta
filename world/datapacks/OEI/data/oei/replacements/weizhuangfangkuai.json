@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "create_connected:copycat_block",
+      "copycats:copycat_block"
+    ],
+    "resultItems": "create_connected:copycat_block"
+  }
+]

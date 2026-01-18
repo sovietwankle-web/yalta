@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "createdeco:iron_coin",
+      "thermal:iron_coin"
+    ],
+    "resultItems": "createdeco:iron_coin"
+  }
+]

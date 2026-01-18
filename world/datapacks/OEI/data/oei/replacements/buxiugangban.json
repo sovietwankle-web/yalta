@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "destroy:stainless_steel_sheet",
+      "gtceu:stainless_steel_plate"
+    ],
+    "resultItems": "gtceu:stainless_steel_plate"
+  }
+]

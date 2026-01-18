@@ -1,0 +1,13 @@
+[
+  {
+    "matchItems": [
+      "mekanism:block_lead",
+      "destroy:lead_block",
+      "thermal:lead_block",
+      "unify:lead_block",
+      "gtceu:lead_block",
+      "immersiveengineering:storage_lead"
+    ],
+    "resultItems": "gtceu:lead_block"
+  }
+]

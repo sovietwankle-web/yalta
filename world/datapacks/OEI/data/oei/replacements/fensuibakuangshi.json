@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "destroy:crushed_raw_palladium",
+      "gtceu:crushed_palladium_ore"
+    ],
+    "resultItems": "gtceu:crushed_palladium_ore"
+  }
+]

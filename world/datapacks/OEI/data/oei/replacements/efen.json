@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:osmium_dust",
+      "mekanism:dust_osmium"
+    ],
+    "resultItems": "gtceu:osmium_dust"
+  }
+]

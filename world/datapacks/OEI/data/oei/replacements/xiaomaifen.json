@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "pneumaticcraft:wheat_flour",
+      "create:wheat_flour"
+    ],
+    "resultItems": "create:wheat_flour"
+  }
+]

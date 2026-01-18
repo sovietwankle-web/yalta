@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "createaddition:electrum_ingot",
+      "thermal:electrum_ingot",
+      "gtceu:electrum_ingot",
+      "immersiveengineering:ingot_electrum"
+    ],
+    "resultItems": "gtceu:electrum_ingot"
+  }
+]

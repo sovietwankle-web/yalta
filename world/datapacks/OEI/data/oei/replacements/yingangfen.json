@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:invar_dust",
+      "thermal:invar_dust"
+    ],
+    "resultItems": "gtceu:invar_dust"
+  }
+]

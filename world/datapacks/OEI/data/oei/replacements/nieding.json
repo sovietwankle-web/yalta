@@ -1,0 +1,13 @@
+[
+  {
+    "matchItems": [
+      "gtceu:nickel_ingot",
+      "unify:nickel_ingot",
+      "thermal:nickel_ingot",
+      "cosmos:nickle_ingot",
+      "immersiveengineering:ingot_nickel",
+      "destroy:nickel_ingot"
+    ],
+    "resultItems": "gtceu:nickel_ingot"
+  }
+]

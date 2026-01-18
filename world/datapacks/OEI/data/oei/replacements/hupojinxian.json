@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:wire_electrum",
+      "createaddition:electrum_wire"
+    ],
+    "resultItems": "createaddition:electrum_wire"
+  }
+]

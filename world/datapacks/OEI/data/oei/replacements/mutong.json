@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "minecraft:barrel",
+      "gtceu:wood_drum",
+      "immersiveengineering:wooden_barrel"
+    ],
+    "resultItems": "minecraft:barrel"
+  }
+]

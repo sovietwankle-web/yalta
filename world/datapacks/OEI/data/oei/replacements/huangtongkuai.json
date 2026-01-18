@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "create:brass_block",
+      "gtceu:brass_block"
+    ],
+    "resultItems": "create:brass_block"
+  }
+]

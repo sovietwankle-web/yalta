@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:venus_gold_ore",
+      "ad_astra:venus_gold_ore"
+    ],
+    "resultItems": "gtceu:venus_gold_ore"
+  }
+]

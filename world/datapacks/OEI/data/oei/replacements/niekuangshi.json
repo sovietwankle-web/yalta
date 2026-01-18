@@ -1,0 +1,12 @@
+[
+  {
+    "matchItems": [
+      "unify:nickel_ore",
+      "thermal:nickel_ore",
+      "destroy:nickel_ore",
+      "immersiveengineering:ore_nickel",
+      "gtceu:nickel_ore"
+    ],
+    "resultItems": "gtceu:nickel_ore"
+  }
+]

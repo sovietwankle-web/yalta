@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:apatite_block",
+      "thermal:apatite_block"
+    ],
+    "resultItems": "gtceu:apatite_block"
+  }
+]

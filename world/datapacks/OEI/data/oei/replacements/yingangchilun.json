@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:invar_gear",
+      "thermal:invar_gear"
+    ],
+    "resultItems": "gtceu:invar_gear"
+  }
+]

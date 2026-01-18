@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.red_sandstone_slab",
+    "additionalplacements:minecraft.cut_red_sandstone_slab",
+    "additionalplacements:minecraft.smooth_red_sandstone_slab"
+  ]
+}

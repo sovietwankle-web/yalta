@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:electron_tube",
+      "gtceu:vacuum_tube"
+    ],
+    "resultItems": "gtceu:vacuum_tube"
+  }
+]

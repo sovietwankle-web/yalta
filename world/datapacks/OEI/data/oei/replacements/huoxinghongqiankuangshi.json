@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal_and_space:mars_lead_ore",
+      "gtceu:mars_lead_ore"
+    ],
+    "resultItems": "gtceu:mars_lead_ore"
+  }
+]

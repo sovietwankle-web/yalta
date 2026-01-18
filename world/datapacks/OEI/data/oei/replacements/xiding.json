@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "unify:tin_ingot",
+      "thermal:tin_ingot",
+      "mekanism:ingot_tin",
+      "gtceu:tin_ingot"
+    ],
+    "resultItems": "gtceu:tin_ingot"
+  }
+]

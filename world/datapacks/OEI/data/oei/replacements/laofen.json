@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "destroy:rhodium_powder",
+      "gtceu:rhodium_dust"
+    ],
+    "resultItems": "gtceu:rhodium_dust"
+  }
+]

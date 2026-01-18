@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:bronze_ingot",
+      "unify:bronze_ingot",
+      "thermal:bronze_ingot",
+      "mekanism:ingot_bronze"
+    ],
+    "resultItems": "gtceu:bronze_ingot"
+  }
+]

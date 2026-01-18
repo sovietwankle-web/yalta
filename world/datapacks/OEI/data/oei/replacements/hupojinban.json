@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:electrum_plate",
+      "createaddition:electrum_sheet",
+      "thermal:electrum_plate",
+      "immersiveengineering:plate_electrum"
+    ],
+    "resultItems": "gtceu:electrum_plate"
+  }
+]

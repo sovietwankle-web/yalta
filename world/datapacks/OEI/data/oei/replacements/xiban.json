@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:tin_plate",
+      "unify:tin_sheet",
+      "thermal:tin_plate"
+    ],
+    "resultItems": "gtceu:tin_plate"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:ore_uranium",
+      "mekanism:uranium_ore",
+      "unify:uranium_ore"
+    ],
+    "resultItems": "unify:uranium_ore"
+  }
+]

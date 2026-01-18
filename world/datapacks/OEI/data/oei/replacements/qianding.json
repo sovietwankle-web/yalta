@@ -1,0 +1,13 @@
+[
+  {
+    "matchItems": [
+      "destroy:lead_ingot",
+      "gtceu:lead_ingot",
+      "mekanism:ingot_lead",
+      "thermal:lead_ingot",
+      "immersiveengineering:ingot_lead",
+      "unify:lead_ingot"
+    ],
+    "resultItems": "gtceu:lead_ingot"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:invar_nugget",
+      "thermal:invar_nugget"
+    ],
+    "resultItems": "thermal:invar_nugget"
+  }
+]

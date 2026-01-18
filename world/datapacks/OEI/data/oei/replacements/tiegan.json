@@ -1,0 +1,13 @@
+[
+  {
+    "matchItems": [
+      "industrialrenewal:stick_iron",
+      "gtceu:iron_rod",
+      "immersiveengineering:stick_iron",
+      "thermal_extra:iron_rod",
+      "createaddition:iron_rod",
+      "ad_astra:iron_rod"
+    ],
+    "resultItems": "gtceu:iron_rod"
+  }
+]

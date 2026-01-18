@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:iron_gear",
+      "thermal:iron_gear",
+      "industrialforegoing:iron_gear"
+    ],
+    "resultItems": "gtceu:iron_gear"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "unify:constantan_rod",
+      "thermal_extra:constantan_rod"
+    ],
+    "resultItems": "unify:constantan_rod"
+  }
+]

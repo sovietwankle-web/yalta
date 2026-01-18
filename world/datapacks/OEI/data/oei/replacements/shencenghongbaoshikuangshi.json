@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:deepslate_ruby_ore",
+      "thermal:deepslate_ruby_ore"
+    ],
+    "resultItems": "gtceu:deepslate_ruby_ore"
+  }
+]

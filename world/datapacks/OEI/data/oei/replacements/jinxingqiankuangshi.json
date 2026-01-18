@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "mekanismaaa:venus_lead_ore",
+      "thermal_and_space:venus_lead_ore",
+      "gtceu:venus_lead_ore"
+    ],
+    "resultItems": "gtceu:venus_lead_ore"
+  }
+]

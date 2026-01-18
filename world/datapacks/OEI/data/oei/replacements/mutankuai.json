@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "thermal:charcoal_block",
+      "mekanism:block_charcoal",
+      "gtceu:charcoal_block"
+    ],
+    "resultItems": "gtceu:charcoal_block"
+  }
+]

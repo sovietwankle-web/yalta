@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "unify:constantan_sheet",
+      "immersiveengineering:plate_constantan",
+      "thermal:constantan_plate"
+    ],
+    "resultItems": "unify:constantan_sheet"
+  }
+]

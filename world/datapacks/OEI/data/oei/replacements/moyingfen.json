@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "ae2:ender_dust",
+      "thermal:enderium_dust"
+    ],
+    "resultItems": "thermal:enderium_dust"
+  }
+]

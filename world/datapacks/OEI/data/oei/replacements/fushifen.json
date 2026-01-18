@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gcyr:fluorite_dust",
+      "mekanism:dust_fluorite"
+    ],
+    "resultItems": "gcyr:fluorite_dust"
+  }
+]

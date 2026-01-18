@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:venus_tin_ore",
+      "thermal_and_space:venus_tin_ore"
+    ],
+    "resultItems": "gtceu:venus_tin_ore"
+  }
+]

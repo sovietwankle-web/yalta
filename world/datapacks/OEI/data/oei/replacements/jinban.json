@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:gold_plate",
+      "create:golden_sheet",
+      "immersiveengineering:plate_gold",
+      "thermal:gold_plate"
+    ],
+    "resultItems": "create:golden_sheet"
+  }
+]

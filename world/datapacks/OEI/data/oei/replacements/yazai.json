@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "vs_clockwork:ballast",
+      "vs_eureka:ballast",
+      "vs_tournament:ballast"
+    ],
+    "resultItems": "vs_clockwork:ballast"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:concrete",
+      "industrialrenewal:concrete"
+    ],
+    "resultItems": "immersiveengineering:concrete"
+  }
+]

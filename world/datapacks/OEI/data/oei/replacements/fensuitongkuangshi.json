@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:crushed_copper_ore",
+      "create:crushed_raw_copper"
+    ],
+    "resultItems": "create:crushed_raw_copper"
+  }
+]

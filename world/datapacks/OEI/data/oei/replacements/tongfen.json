@@ -1,0 +1,12 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:dust_copper",
+      "mekanism:dust_copper",
+      "thermal:copper_dust",
+      "destroy:copper_powder",
+      "gtceu:copper_dust"
+    ],
+    "resultItems": "gtceu:copper_dust"
+  }
+]

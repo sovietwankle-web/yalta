@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:gasoline_bucket",
+      "pneumaticcraft:gasoline_bucket",
+      "createdieselgenerators:gasoline_bucket"
+    ],
+    "resultItems": "gtceu:gasoline_bucket"
+  }
+]

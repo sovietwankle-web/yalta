@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:deepslate_cinnabar_ore",
+      "thermal:deepslate_cinnabar_ore"
+    ],
+    "resultItems": "gtceu:deepslate_cinnabar_ore"
+  }
+]

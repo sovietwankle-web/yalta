@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:venus_ruby_ore",
+      "thermal_and_space:venus_ruby_ore"
+    ],
+    "resultItems": "gtceu:venus_ruby_ore"
+  }
+]

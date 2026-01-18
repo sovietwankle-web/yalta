@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:certus_quartz_gem",
+      "ae2:certus_quartz_crystal"
+    ],
+    "resultItems": "gtceu:certus_quartz_gem"
+  }
+]

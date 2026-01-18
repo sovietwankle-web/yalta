@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "unify:tin_ore",
+      "gtceu:tin_ore",
+      "thermal:tin_ore",
+      "mekanism:tin_ore"
+    ],
+    "resultItems": "gtceu:tin_ore"
+  }
+]

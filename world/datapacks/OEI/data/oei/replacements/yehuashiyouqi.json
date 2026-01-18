@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "pneumaticcraft:lpg_bucket",
+      "gtceu:lpg_bucket"
+    ],
+    "resultItems": "gtceu:lpg_bucket"
+  }
+]

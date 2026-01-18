@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:diamond_dust",
+      "thermal:diamond_dust",
+      "mekanism:dust_diamond",
+      "createaddition:diamond_grit"
+    ],
+    "resultItems": "gtceu:diamond_dust"
+  }
+]

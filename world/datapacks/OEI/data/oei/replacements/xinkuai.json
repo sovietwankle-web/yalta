@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "create:zinc_block",
+      "gtceu:zinc_block"
+    ],
+    "resultItems": "create:zinc_block"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:lead_rod",
+      "unify:lead_rod",
+      "thermal_extra:lead_rod"
+    ],
+    "resultItems": "gtceu:lead_rod"
+  }
+]

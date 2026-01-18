@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:emerald_dust",
+      "thermal:emerald_dust",
+      "mekanism:dust_emerald"
+    ],
+    "resultItems": "gtceu:emerald_dust"
+  }
+]

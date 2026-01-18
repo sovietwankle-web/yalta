@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "thermal:sulfur_dust",
+      "gtceu:sulfur_dust",
+      "cosmos:sulpher_dust",
+      "mekanism:dust_sulfur"
+    ],
+    "resultItems": "gtceu:sulfur_dust"
+  }
+]

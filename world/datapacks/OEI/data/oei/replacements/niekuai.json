@@ -1,0 +1,13 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:storage_nickel",
+      "unify:nickel_block",
+      "cosmos:nickle_block",
+      "destroy:nickel_block",
+      "thermal:nickel_block",
+      "gtceu:nickel_block"
+    ],
+    "resultItems": "gtceu:nickel_block"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:rubber_block",
+      "gtceu:rubber_block"
+    ],
+    "resultItems": "gtceu:rubber_block"
+  }
+]

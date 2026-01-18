@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "thermal:deepslate_tin_ore",
+      "unify:deepslate_tin_ore",
+      "mekanism:deepslate_tin_ore",
+      "gtceu:deepslate_tin_ore"
+    ],
+    "resultItems": "gtceu:deepslate_tin_ore"
+  }
+]

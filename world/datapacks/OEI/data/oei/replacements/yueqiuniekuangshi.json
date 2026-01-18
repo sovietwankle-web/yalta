@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:moon_nickel_ore",
+      "thermal_and_space:moon_nickel_ore"
+    ],
+    "resultItems": "gtceu:moon_nickel_ore"
+  }
+]

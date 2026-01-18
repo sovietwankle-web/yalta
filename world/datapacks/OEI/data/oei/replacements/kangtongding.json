@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "thermal:constantan_ingot",
+      "unify:constantan_ingot",
+      "immersiveengineering:ingot_constantan"
+    ],
+    "resultItems": "unify:constantan_ingot"
+  }
+]

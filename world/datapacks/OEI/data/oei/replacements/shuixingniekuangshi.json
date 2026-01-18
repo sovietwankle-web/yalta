@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal_and_space:mercury_nickel_ore",
+      "gtceu:mercury_nickel_ore"
+    ],
+    "resultItems": "gtceu:mercury_nickel_ore"
+  }
+]

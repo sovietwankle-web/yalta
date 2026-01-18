@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:platinum_dust",
+      "destroy:platinum_powder"
+    ],
+    "resultItems": "gtceu:platinum_dust"
+  }
+]

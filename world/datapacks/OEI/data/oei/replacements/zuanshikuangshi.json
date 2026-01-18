@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "minecraft:diamond_ore",
+      "gtceu:diamond_ore"
+    ],
+    "resultItems": "minecraft:diamond_ore"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "mekanism_extras:block_raw_naquadah",
+      "gtceu:raw_naquadah_block"
+    ],
+    "resultItems": "gtceu:raw_naquadah_block"
+  }
+]

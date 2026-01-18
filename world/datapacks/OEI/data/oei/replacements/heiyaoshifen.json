@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:obsidian_dust",
+      "mekanism:dust_obsidian",
+      "thermal_extra:obsidian_dust",
+      "create:powdered_obsidian"
+    ],
+    "resultItems": "create:powdered_obsidian"
+  }
+]

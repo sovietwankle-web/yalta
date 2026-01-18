@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:diamond_drill_head",
+      "industrialrenewal:drill_diamond",
+      "pneumaticcraft:drill_bit_diamond"
+    ],
+    "resultItems": "gtceu:diamond_drill_head"
+  }
+]

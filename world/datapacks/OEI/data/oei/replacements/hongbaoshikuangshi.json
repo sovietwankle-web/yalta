@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:ruby_ore",
+      "thermal:ruby_ore"
+    ],
+    "resultItems": "gtceu:ruby_ore"
+  }
+]

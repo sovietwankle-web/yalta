@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:axe_steel",
+      "mekanismtools:steel_axe",
+      "gtceu:steel_axe",
+      "cosmos:steel_axe"
+    ],
+    "resultItems": "gtceu:steel_axe"
+  }
+]

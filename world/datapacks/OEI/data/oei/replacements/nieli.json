@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "unify:nickel_nugget",
+      "thermal:nickel_nugget",
+      "immersiveengineering:nugget_nickel",
+      "gtceu:nickel_nugget"
+    ],
+    "resultItems": "gtceu:nickel_nugget"
+  }
+]

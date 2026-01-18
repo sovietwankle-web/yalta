@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "mekanismaaa:mars_tin_ore",
+      "thermal_and_space:mars_tin_ore",
+      "gtceu:mars_tin_ore"
+    ],
+    "resultItems": "gtceu:mars_tin_ore"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:chromium_dust",
+      "destroy:chromium_powder"
+    ],
+    "resultItems": "gtceu:chromium_dust"
+  }
+]

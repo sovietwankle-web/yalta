@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "minecraft:diamond_shovel",
+      "gtceu:diamond_shovel"
+    ],
+    "resultItems": "minecraft:diamond_shovel"
+  }
+]

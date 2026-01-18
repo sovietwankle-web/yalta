@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "thermal:lapis_dust",
+      "mekanism:dust_lapis_lazuli",
+      "gtceu:lapis_dust"
+    ],
+    "resultItems": "gtceu:lapis_dust"
+  }
+]

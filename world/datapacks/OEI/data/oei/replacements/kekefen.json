@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "create_confectionery:cocoa_powder",
+      "flavor_immersed_daily:cocoapowder",
+      "gtceu:cocoa_dust"
+    ],
+    "resultItems": "gtceu:cocoa_dust"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "mekanismtools:steel_shovel",
+      "immersiveengineering:shovel_steel",
+      "gtceu:steel_shovel"
+    ],
+    "resultItems": "gtceu:steel_shovel"
+  }
+]

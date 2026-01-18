@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:salt_ore",
+      "flavor_immersed_daily:saltoriginblock"
+    ],
+    "resultItems": "gtceu:salt_ore"
+  }
+]

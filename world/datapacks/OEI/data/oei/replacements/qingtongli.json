@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "unify:bronze_nugget",
+      "thermal:bronze_nugget",
+      "gtceu:bronze_nugget",
+      "mekanism:nugget_bronze"
+    ],
+    "resultItems": "gtceu:bronze_nugget"
+  }
+]

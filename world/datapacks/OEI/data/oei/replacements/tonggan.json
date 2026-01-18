@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "industrialrenewal:stick_copper",
+      "thermal_extra:copper_rod",
+      "gtceu:copper_rod",
+      "createaddition:copper_rod"
+    ],
+    "resultItems": "gtceu:copper_rod"
+  }
+]

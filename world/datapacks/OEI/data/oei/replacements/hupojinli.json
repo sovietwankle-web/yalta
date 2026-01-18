@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "createaddition:electrum_nugget",
+      "gtceu:electrum_nugget",
+      "immersiveengineering:nugget_electrum",
+      "thermal:electrum_nugget"
+    ],
+    "resultItems": "gtceu:electrum_nugget"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:rhodium_ingot",
+      "destroy:rhodium_ingot"
+    ],
+    "resultItems": "gtceu:rhodium_ingot"
+  }
+]

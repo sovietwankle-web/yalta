@@ -1,0 +1,18 @@
+[
+  {
+    "matchItems": [
+      "thermal:creosote_bucket",
+      "gtceu:creosote_bucket",
+      "immersiveengineering:creosote_bucket"
+    ],
+    "resultItems": "gtceu:creosote_bucket"
+  },
+  {
+    "matchItems": [
+      "thermal:creosote_bucket",
+      "gtceu:creosote_bucket",
+      "immersiveengineering:creosote_bucket"
+    ],
+    "resultItems": "gtceu:creosote_bucket"
+  }
+]

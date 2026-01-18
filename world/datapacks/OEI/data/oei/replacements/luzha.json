@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:slag",
+      "destroy:slag"
+    ],
+    "resultItems": "thermal:slag"
+  }
+]

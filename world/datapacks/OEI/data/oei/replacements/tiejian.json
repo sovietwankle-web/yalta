@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:iron_sword",
+      "minecraft:iron_sword"
+    ],
+    "resultItems": "minecraft:iron_sword"
+  }
+]

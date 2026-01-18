@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:deepslate_copper_ore",
+      "minecraft:deepslate_copper_ore"
+    ],
+    "resultItems": "minecraft:deepslate_copper_ore"
+  }
+]

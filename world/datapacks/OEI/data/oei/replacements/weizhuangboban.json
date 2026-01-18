@@ -1,0 +1,16 @@
+[
+  {
+    "matchItems": [
+      "create_connected:copycat_board",
+      "copycats:copycat_board"
+    ],
+    "resultItems": "create_connected:copycat_board"
+  },
+  {
+    "matchItems": [
+      "create_connected:copycat_board",
+      "copycats:copycat_board"
+    ],
+    "resultItems": "create_connected:copycat_board"
+  }
+]

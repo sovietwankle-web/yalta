@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:sapphire",
+      "gtceu:sapphire_gem"
+    ],
+    "resultItems": "gtceu:sapphire_gem"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "thermal:sawdust",
+      "mekanism:sawdust",
+      "immersiveengineering:dust_wood"
+    ],
+    "resultItems": "thermal:sawdust"
+  }
+]

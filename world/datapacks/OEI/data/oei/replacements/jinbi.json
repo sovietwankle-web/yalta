@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "createdeco:gold_coin",
+      "thermal:gold_coin",
+      "gtceu:gold_credit"
+    ],
+    "resultItems": "gtceu:gold_credit"
+  }
+]

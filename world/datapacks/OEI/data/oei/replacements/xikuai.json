@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "unify:tin_block",
+      "mekanism:block_tin",
+      "gtceu:tin_block",
+      "thermal:tin_block"
+    ],
+    "resultItems": "gtceu:tin_block"
+  }
+]

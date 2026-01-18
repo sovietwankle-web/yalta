@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "mekanism:block_fluorite",
+      "destroy:fluorite_block",
+      "gcyr:fluorite_block"
+    ],
+    "resultItems": "gcyr:fluorite_block"
+  }
+]

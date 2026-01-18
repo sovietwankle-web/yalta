@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "unify:cast_iron_ingot",
+      "createbigcannons:cast_iron_ingot"
+    ],
+    "resultItems": "createbigcannons:cast_iron_ingot"
+  }
+]

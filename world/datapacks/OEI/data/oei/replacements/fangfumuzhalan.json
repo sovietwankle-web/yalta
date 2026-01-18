@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:treated_fence",
+      "gtceu:treated_wood_fence"
+    ],
+    "resultItems": "gtceu:treated_wood_planks"
+  }
+]

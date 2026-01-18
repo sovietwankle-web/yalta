@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal_and_space:mercury_niter_ore",
+      "gtceu:mercury_saltpeter_ore"
+    ],
+    "resultItems": "gtceu:mercury_saltpeter_ore"
+  }
+]

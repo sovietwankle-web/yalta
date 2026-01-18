@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:treated_wood_planks",
+      "immersiveengineering:treated_wood_horizontal"
+    ],
+    "resultItems": "gtceu:treated_wood_planks"
+  }
+]

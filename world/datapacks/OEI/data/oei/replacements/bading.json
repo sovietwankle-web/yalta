@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:palladium_ingot",
+      "destroy:palladium_ingot"
+    ],
+    "resultItems": "gtceu:palladium_ingot"
+  }
+]

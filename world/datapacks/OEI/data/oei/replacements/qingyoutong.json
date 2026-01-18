@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:oil_light_bucket",
+      "thermal:light_oil_bucket"
+    ],
+    "resultItems": "gtceu:oil_light_bucket"
+  }
+]

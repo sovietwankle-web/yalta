@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "farmersdelight:wheat_dough",
+      "flavor_immersed_daily:dough",
+      "gtceu:dough",
+      "create:dough"
+    ],
+    "resultItems": "create:dough"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:stainless_steel_rod",
+      "destroy:stainless_steel_rod"
+    ],
+    "resultItems": "gtceu:stainless_steel_rod"
+  }
+]

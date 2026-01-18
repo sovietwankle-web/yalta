@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:mekanismadditions.black_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.blue_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.green_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.cyan_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.dark_red_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.purple_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.orange_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.light_gray_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.gray_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.light_blue_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.lime_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.aqua_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.red_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.magenta_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.yellow_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.white_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.brown_plastic_transparent_slab",
+    "additionalplacements:mekanismadditions.pink_plastic_transparent_slab"
+  ]
+}

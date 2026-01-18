@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal_and_space:mars_ruby_ore",
+      "gtceu:mars_ruby_ore"
+    ],
+    "resultItems": "gtceu:mars_ruby_ore"
+  }
+]

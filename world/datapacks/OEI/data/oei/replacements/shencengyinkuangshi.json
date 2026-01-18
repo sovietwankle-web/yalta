@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "thermal:deepslate_silver_ore",
+      "immersiveengineering:deepslate_ore_silver",
+      "unify:deepslate_silver_ore",
+      "gtceu:deepslate_silver_ore"
+    ],
+    "resultItems": "gtceu:deepslate_silver_ore"
+  }
+]

@@ -1,0 +1,21 @@
+
+[Thrusters]
+	#Thruster Mode Toggling
+	thruster_mode_toggle = true
+	#Default Thruster Mode
+	thruster_default_mode = "POSITION"
+	#Thruster force multiplier. redstone * this (Newtons)
+	thruster_strength = 1000
+	#Air thruster force multiplier. redstone * this (Newtons)
+	air_thruster_strength = 100
+	#Powerful thruster force multiplier. redstone * this (Newtons)
+	powerful_thruster_strength = 5000
+
+[Misc]
+	#Max force the drag inducer can use to slow down
+	max_drag = 15000
+	#Limit speed thrusters can accelerate to. Recommended, as VS ships get funky at high speeds
+	limit_speed = true
+	#Max speed to limit to. Blocks/tick I think. Default is highly recommended
+	max_speed = 150
+

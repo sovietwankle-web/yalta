@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:mekanismadditions.black_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.blue_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.green_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.cyan_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.dark_red_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.purple_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.orange_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.light_gray_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.gray_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.light_blue_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.lime_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.aqua_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.red_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.magenta_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.yellow_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.white_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.brown_plastic_transparent_stairs",
+    "additionalplacements:mekanismadditions.pink_plastic_transparent_stairs"
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:bronze_rod",
+      "unify:bronze_rod",
+      "thermal_extra:bronze_rod"
+    ],
+    "resultItems": "gtceu:bronze_rod"
+  }
+]

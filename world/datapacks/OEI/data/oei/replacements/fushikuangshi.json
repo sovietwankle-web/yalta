@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gcyr:fluorite_ore",
+      "destroy:fluorite_ore",
+      "mekanism:fluorite_ore"
+    ],
+    "resultItems": "gcyr:fluorite_ore"
+  }
+]

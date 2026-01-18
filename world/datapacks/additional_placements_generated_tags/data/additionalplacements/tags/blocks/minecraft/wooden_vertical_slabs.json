@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.oak_slab",
+    "additionalplacements:minecraft.spruce_slab",
+    "additionalplacements:minecraft.birch_slab",
+    "additionalplacements:minecraft.jungle_slab",
+    "additionalplacements:minecraft.acacia_slab",
+    "additionalplacements:minecraft.cherry_slab",
+    "additionalplacements:minecraft.dark_oak_slab",
+    "additionalplacements:minecraft.mangrove_slab",
+    "additionalplacements:minecraft.bamboo_slab",
+    "additionalplacements:minecraft.crimson_slab",
+    "additionalplacements:minecraft.warped_slab",
+    "additionalplacements:thermal.rubberwood_slab",
+    "additionalplacements:immersiveengineering.slab_treated_wood_horizontal",
+    "additionalplacements:immersiveengineering.slab_treated_wood_vertical",
+    "additionalplacements:immersiveengineering.slab_treated_wood_packaged",
+    "additionalplacements:ad_astra.aeronos_slab",
+    "additionalplacements:ad_astra.strophar_slab",
+    "additionalplacements:ad_astra.glacian_slab",
+    "additionalplacements:gtceu.rubber_slab",
+    "additionalplacements:gtceu.treated_wood_slab",
+    "additionalplacements:domum_ornamentum.vanilla_slab_compat"
+  ]
+}

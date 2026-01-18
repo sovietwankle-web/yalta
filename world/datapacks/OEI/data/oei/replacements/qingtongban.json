@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "thermal:bronze_plate",
+      "gtceu:bronze_plate",
+      "unify:bronze_sheet"
+    ],
+    "resultItems": "gtceu:bronze_plate"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "mekanismtools:steel_boots",
+      "immersiveengineering:armor_steel_boots"
+    ],
+    "resultItems": "immersiveengineering:armor_steel_boots"
+  }
+]

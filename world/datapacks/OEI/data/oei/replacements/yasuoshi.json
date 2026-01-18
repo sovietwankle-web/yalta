@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "pneumaticcraft:compressed_stone",
+      "cosmos:compressed_stone"
+    ],
+    "resultItems": "cosmos:compressed_stone"
+  }
+]

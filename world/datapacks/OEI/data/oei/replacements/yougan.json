@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:uranium_rod",
+      "unify:uranium_rod"
+    ],
+    "resultItems": "gtceu:uranium_rod"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "mekanism:dust_bronze",
+      "thermal:bronze_dust",
+      "gtceu:bronze_dust"
+    ],
+    "resultItems": "gtceu:bronze_dust"
+  }
+]

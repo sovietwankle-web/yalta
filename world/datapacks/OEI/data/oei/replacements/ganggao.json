@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:steel_pickaxe",
+      "cosmos:steel_pickaxe",
+      "mekanismtools:steel_pickaxe",
+      "immersiveengineering:pickaxe_steel"
+    ],
+    "resultItems": "gtceu:steel_pickaxe"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "expatternprovider:silicon_block",
+      "gtceu:silicon_block"
+    ],
+    "resultItems": "gtceu:silicon_block"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:copper_nugget",
+      "immersiveengineering:nugget_copper",
+      "create:copper_nugget",
+      "thermal:copper_nugget"
+    ],
+    "resultItems": "create:copper_nugget"
+  }
+]

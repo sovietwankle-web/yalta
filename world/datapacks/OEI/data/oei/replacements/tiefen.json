@@ -1,0 +1,12 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:dust_iron",
+      "gtceu:iron_dust",
+      "destroy:iron_powder",
+      "thermal:iron_dust",
+      "mekanism:dust_iron"
+    ],
+    "resultItems": "gtceu:iron_dust"
+  }
+]

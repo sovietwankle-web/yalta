@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:crushed_iron_ore",
+      "create:crushed_raw_iron"
+    ],
+    "resultItems": "create:crushed_raw_iron"
+  }
+]

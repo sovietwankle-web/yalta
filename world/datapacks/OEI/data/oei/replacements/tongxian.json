@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "createaddition:copper_wire",
+      "immersiveengineering:wire_copper"
+    ],
+    "resultItems": "createaddition:copper_wire"
+  }
+]

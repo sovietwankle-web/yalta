@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:brass_plate",
+      "create:brass_sheet"
+    ],
+    "resultItems": "create:brass_sheet"
+  }
+]

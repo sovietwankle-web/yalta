@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:dust_coke",
+      "gtceu:coke_dust"
+    ],
+    "resultItems": "gtceu:coke_dust"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:steel_gear",
+      "gtceu:steel_gear"
+    ],
+    "resultItems": "gtceu:steel_gear"
+  }
+]

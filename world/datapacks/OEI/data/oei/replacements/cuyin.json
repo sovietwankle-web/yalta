@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:raw_silver",
+      "immersiveengineering:raw_silver",
+      "unify:raw_silver",
+      "thermal:raw_silver"
+    ],
+    "resultItems": "gtceu:raw_silver"
+  }
+]

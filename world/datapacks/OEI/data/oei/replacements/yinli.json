@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "thermal:silver_nugget",
+      "unify:silver_nugget",
+      "gtceu:silver_nugget",
+      "immersiveengineering:nugget_silver"
+    ],
+    "resultItems": "gtceu:silver_nugget"
+  }
+]

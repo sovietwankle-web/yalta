@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "thermal:silver_ingot",
+      "gtceu:silver_ingot",
+      "unify:silver_ingot",
+      "immersiveengineering:ingot_silver"
+    ],
+    "resultItems": "gtceu:silver_ingot"
+  }
+]

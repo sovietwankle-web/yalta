@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal_and_space:moon_sulfur_ore",
+      "gtceu:moon_sulfur_ore"
+    ],
+    "resultItems": "gtceu:moon_sulfur_ore"
+  }
+]

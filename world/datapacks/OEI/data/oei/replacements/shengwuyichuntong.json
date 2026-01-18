@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "mekanismgenerators:bioethanol_bucket",
+      "createaddition:bioethanol_bucket"
+    ],
+    "resultItems": "createaddition:bioethanol_bucket"
+  }
+]

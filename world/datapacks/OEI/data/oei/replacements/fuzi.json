@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "vs_eureka:floater",
+      "vs_tournament:floater"
+    ],
+    "resultItems": "vs_eureka:floater"
+  }
+]

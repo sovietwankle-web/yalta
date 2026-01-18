@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "destroy:platinum_ingot",
+      "gtceu:platinum_ingot"
+    ],
+    "resultItems": "gtceu:platinum_ingot"
+  }
+]

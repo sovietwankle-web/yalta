@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "createaddition:gold_rod",
+      "gtceu:gold_rod",
+      "industrialrenewal:stick_gold",
+      "thermal_extra:gold_rod"
+    ],
+    "resultItems": "gtceu:gold_rod"
+  }
+]

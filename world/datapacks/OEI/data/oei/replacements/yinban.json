@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "thermal:silver_plate",
+      "immersiveengineering:plate_silver",
+      "unify:silver_sheet",
+      "gtceu:silver_plate"
+    ],
+    "resultItems": "gtceu:silver_plate"
+  }
+]

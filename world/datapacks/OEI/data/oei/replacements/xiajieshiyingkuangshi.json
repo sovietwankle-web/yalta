@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "minecraft:nether_quartz_ore",
+      "gtceu:netherrack_nether_quartz_ore"
+    ],
+    "resultItems": "minecraft:nether_quartz_ore"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:brass_nugget",
+      "create:brass_nugget"
+    ],
+    "resultItems": "create:brass_nugget"
+  }
+]

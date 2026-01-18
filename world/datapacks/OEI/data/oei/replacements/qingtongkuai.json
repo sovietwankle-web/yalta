@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:bronze_block",
+      "thermal:bronze_block",
+      "unify:bronze_block",
+      "mekanism:block_bronze"
+    ],
+    "resultItems": "gtceu:bronze_block"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:wirecoil_steel",
+      "gtceu:hv_voltage_coil"
+    ],
+    "resultItems": "gtceu:hv_voltage_coil"
+  }
+]

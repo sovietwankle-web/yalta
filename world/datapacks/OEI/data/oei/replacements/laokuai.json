@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "destroy:rhodium_block",
+      "gtceu:rhodium_block"
+    ],
+    "resultItems": "gtceu:rhodium_block"
+  }
+]

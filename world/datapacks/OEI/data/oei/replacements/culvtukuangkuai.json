@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:raw_block_aluminum",
+      "gtceu:raw_bauxite_block"
+    ],
+    "resultItems": "gtceu:raw_bauxite_block"
+  }
+]

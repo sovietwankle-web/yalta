@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:moon_saltpeter_ore",
+      "thermal_and_space:moon_niter_ore"
+    ],
+    "resultItems": "gtceu:moon_saltpeter_ore"
+  }
+]

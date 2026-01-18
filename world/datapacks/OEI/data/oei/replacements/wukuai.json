@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "unify:tungsten_block",
+      "gtceu:tungsten_block"
+    ],
+    "resultItems": "gtceu:tungsten_block"
+  }
+]

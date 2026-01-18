@@ -1,0 +1,12 @@
+[
+  {
+    "matchItems": [
+      "gtceu:raw_nickel_block",
+      "thermal:raw_nickel_block",
+      "unify:raw_nickel_block",
+      "immersiveengineering:raw_block_nickel",
+      "destroy:raw_nickel_block"
+    ],
+    "resultItems": "gtceu:raw_nickel_block"
+  }
+]

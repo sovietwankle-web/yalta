@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal_and_space:venus_apatite_ore",
+      "gtceu:venus_apatite_ore"
+    ],
+    "resultItems": "gtceu:venus_apatite_ore"
+  }
+]

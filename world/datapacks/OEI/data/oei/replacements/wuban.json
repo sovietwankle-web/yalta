@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:tungsten_plate",
+      "unify:tungsten_sheet"
+    ],
+    "resultItems": "gtceu:tungsten_plate"
+  }
+]

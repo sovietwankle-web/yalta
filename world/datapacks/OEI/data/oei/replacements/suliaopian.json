@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "pneumaticcraft:plastic",
+      "industrialforegoing:plastic"
+    ],
+    "resultItems": "pneumaticcraft:plastic"
+  }
+]

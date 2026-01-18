@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "thermal:diamond_gear",
+      "industrialforegoing:diamond_gear",
+      "gtceu:diamond_gear"
+    ],
+    "resultItems": "gtceu:diamond_gear"
+  }
+]

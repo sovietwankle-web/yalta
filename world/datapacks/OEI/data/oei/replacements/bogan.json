@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "unify:platinum_rod",
+      "gtceu:platinum_rod"
+    ],
+    "resultItems": "gtceu:platinum_rod"
+  }
+]

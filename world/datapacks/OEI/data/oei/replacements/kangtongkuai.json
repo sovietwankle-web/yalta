@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:storage_constantan",
+      "unify:constantan_block",
+      "thermal:constantan_block"
+    ],
+    "resultItems": "unify:constantan_block"
+  }
+]

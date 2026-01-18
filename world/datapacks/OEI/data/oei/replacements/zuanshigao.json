@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "minecraft:diamond_pickaxe",
+      "gtceu:diamond_pickaxe"
+    ],
+    "resultItems": "minecraft:diamond_pickaxe"
+  }
+]

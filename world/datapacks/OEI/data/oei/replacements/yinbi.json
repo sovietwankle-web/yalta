@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:silver_credit",
+      "thermal:silver_coin"
+    ],
+    "resultItems": "gtceu:silver_credit"
+  }
+]

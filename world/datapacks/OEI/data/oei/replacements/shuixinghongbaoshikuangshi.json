@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:mercury_ruby_ore",
+      "thermal_and_space:mercury_ruby_ore"
+    ],
+    "resultItems": "gtceu:mercury_ruby_ore"
+  }
+]

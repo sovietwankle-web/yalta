@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "destroy:stainless_steel_ingot",
+      "gtceu:stainless_steel_ingot"
+    ],
+    "resultItems": "gtceu:stainless_steel_ingot"
+  }
+]

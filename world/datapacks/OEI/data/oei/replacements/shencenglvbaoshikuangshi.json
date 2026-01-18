@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:deepslate_emerald_ore",
+      "minecraft:deepslate_emerald_ore"
+    ],
+    "resultItems": "minecraft:deepslate_emerald_ore"
+  }
+]

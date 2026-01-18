@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:plantoil_bucket",
+      "createdieselgenerators:plant_oil_bucket",
+      "pneumaticcraft:vegetable_oil_bucket"
+    ],
+    "resultItems": "createdieselgenerators:plant_oil_bucket"
+  }
+]

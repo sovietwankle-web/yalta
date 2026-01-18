@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:chromium_block",
+      "destroy:chromium_block"
+    ],
+    "resultItems": "gtceu:chromium_block"
+  }
+]

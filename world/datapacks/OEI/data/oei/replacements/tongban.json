@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:plate_copper",
+      "gtceu:copper_plate",
+      "create:copper_sheet",
+      "thermal:copper_plate"
+    ],
+    "resultItems": "create:copper_sheet"
+  }
+]

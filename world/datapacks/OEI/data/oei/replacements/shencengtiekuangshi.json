@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "minecraft:deepslate_iron_ore",
+      "gtceu:deepslate_iron_ore"
+    ],
+    "resultItems": "minecraft:deepslate_iron_ore"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:moon_apatite_ore",
+      "thermal_and_space:moon_apatite_ore"
+    ],
+    "resultItems": "gtceu:moon_apatite_ore"
+  }
+]

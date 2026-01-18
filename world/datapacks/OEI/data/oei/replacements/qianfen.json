@@ -1,0 +1,12 @@
+[
+  {
+    "matchItems": [
+      "gtceu:lead_dust",
+      "destroy:lead_powder",
+      "mekanism:dust_lead",
+      "immersiveengineering:dust_lead",
+      "thermal:lead_dust"
+    ],
+    "resultItems": "gtceu:lead_dust"
+  }
+]

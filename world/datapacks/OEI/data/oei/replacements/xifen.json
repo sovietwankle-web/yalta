@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "mekanism:dust_tin",
+      "gtceu:tin_dust",
+      "thermal:tin_dust"
+    ],
+    "resultItems": "gtceu:tin_dust"
+  }
+]

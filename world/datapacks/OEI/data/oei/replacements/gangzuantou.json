@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "industrialrenewal:drill_steel",
+      "immersiveengineering:drillhead_steel",
+      "gtceu:steel_drill_head"
+    ],
+    "resultItems": "gtceu:steel_drill_head"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "mekanismtools:steel_helmet",
+      "immersiveengineering:armor_steel_helmet"
+    ],
+    "resultItems": "immersiveengineering:armor_steel_helmet"
+  }
+]

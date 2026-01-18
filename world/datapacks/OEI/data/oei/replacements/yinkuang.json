@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:ore_silver",
+      "thermal:silver_ore",
+      "unify:silver_ore",
+      "gtceu:silver_ore"
+    ],
+    "resultItems": "gtceu:silver_ore"
+  }
+]

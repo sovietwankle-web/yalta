@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:mercury_lead_ore",
+      "mekanismaaa:mercury_lead_ore",
+      "thermal_and_space:mercury_lead_ore"
+    ],
+    "resultItems": "gtceu:mercury_lead_ore"
+  }
+]

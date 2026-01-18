@@ -1,0 +1,13 @@
+[
+  {
+    "matchItems": [
+      "mekanism:nugget_steel",
+      "thermal:steel_nugget",
+      "gtceu:steel_nugget",
+      "immersiveengineering:nugget_steel",
+      "unify:steel_nugget",
+      "ad_astra:steel_nugget"
+    ],
+    "resultItems": "gtceu:steel_nugget"
+  }
+]

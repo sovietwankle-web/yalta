@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "unify:aluminum_sheet",
+      "gtceu:aluminium_plate",
+      "immersiveengineering:plate_aluminum"
+    ],
+    "resultItems": "gtceu:aluminium_plate"
+  }
+]

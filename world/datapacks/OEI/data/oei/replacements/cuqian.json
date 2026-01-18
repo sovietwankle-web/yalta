@@ -1,0 +1,12 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:raw_lead",
+      "unify:raw_lead",
+      "mekanism:raw_lead",
+      "thermal:raw_lead",
+      "gtceu:raw_lead"
+    ],
+    "resultItems": "gtceu:raw_lead"
+  }
+]

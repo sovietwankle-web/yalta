@@ -1,0 +1,12 @@
+[
+  {
+    "matchItems": [
+      "gtceu:nickel_plate",
+      "unify:nickel_sheet",
+      "immersiveengineering:plate_nickel",
+      "thermal:nickel_plate",
+      "cosmos:nickle_plate"
+    ],
+    "resultItems": "gtceu:nickel_plate"
+  }
+]

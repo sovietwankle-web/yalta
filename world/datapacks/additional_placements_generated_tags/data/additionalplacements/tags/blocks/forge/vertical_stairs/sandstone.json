@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.sandstone_stairs",
+    "additionalplacements:minecraft.red_sandstone_stairs",
+    "additionalplacements:minecraft.smooth_red_sandstone_stairs",
+    "additionalplacements:minecraft.smooth_sandstone_stairs"
+  ]
+}

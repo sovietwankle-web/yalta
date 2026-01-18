@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:pneumaticcraft.reinforced_brick_stairs",
+    "additionalplacements:pneumaticcraft.reinforced_brick_slab",
+    "additionalplacements:pneumaticcraft.reinforced_stone_slab",
+    "additionalplacements:pneumaticcraft.compressed_brick_stairs",
+    "additionalplacements:pneumaticcraft.compressed_brick_slab",
+    "additionalplacements:pneumaticcraft.compressed_stone_slab",
+    "additionalplacements:ae2.sky_stone_stairs",
+    "additionalplacements:ae2.smooth_sky_stone_stairs",
+    "additionalplacements:ae2.sky_stone_brick_stairs",
+    "additionalplacements:ae2.sky_stone_small_brick_stairs",
+    "additionalplacements:ae2.sky_stone_slab",
+    "additionalplacements:ae2.smooth_sky_stone_slab",
+    "additionalplacements:ae2.sky_stone_brick_slab",
+    "additionalplacements:ae2.sky_stone_small_brick_slab",
+    "additionalplacements:advanced_ae.quantum_alloy_stairs",
+    "additionalplacements:advanced_ae.quantum_alloy_slab"
+  ]
+}

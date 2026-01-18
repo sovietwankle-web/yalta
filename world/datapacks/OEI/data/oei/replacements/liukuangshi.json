@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:sulfur_ore",
+      "gtceu:sulfur_ore"
+    ],
+    "resultItems": "gtceu:sulfur_ore"
+  }
+]

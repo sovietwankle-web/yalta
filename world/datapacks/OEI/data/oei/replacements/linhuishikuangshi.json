@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:apatite_ore",
+      "thermal:apatite_ore"
+    ],
+    "resultItems": "gtceu:apatite_ore"
+  }
+]

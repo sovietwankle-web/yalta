@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "create_connected:copycat_box",
+      "copycats:copycat_box"
+    ],
+    "resultItems": "create_connected:copycat_box"
+  }
+]

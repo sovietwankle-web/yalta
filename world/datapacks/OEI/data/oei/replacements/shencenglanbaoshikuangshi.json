@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:deepslate_sapphire_ore",
+      "thermal:deepslate_sapphire_ore"
+    ],
+    "resultItems": "gtceu:deepslate_sapphire_ore"
+  }
+]

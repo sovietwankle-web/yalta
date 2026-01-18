@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "createcafe:coffee_grounds",
+      "flavor_immersed_daily:coffeepowder"
+    ],
+    "resultItems": "createcafe:coffee_grounds"
+  }
+]

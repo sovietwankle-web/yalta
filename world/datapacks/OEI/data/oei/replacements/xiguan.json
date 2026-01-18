@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "industrialforegoing:straw",
+      "createaddition:straw"
+    ],
+    "resultItems": "createaddition:straw"
+  }
+]

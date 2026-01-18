@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:tungsten_rod",
+      "unify:tungsten_rod"
+    ],
+    "resultItems": "gtceu:tungsten_rod"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:deepslate_apatite_ore",
+      "thermal:deepslate_apatite_ore"
+    ],
+    "resultItems": "gtceu:deepslate_apatite_ore"
+  }
+]

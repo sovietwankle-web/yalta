@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:cinnabar_ore",
+      "thermal:cinnabar_ore"
+    ],
+    "resultItems": "gtceu:cinnabar_ore"
+  }
+]

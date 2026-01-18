@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "thermal_and_space:moon_tin_ore",
+      "gtceu:moon_tin_ore",
+      "mekanismaaa:moon_tin_ore"
+    ],
+    "resultItems": "gtceu:moon_tin_ore"
+  }
+]

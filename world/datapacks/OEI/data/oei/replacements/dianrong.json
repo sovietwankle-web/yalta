@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "createaddition:capacitor",
+      "pneumaticcraft:capacitor",
+      "gtceu:capacitor"
+    ],
+    "resultItems": "gtceu:capacitor"
+  }
+]

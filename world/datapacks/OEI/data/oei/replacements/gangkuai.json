@@ -1,0 +1,15 @@
+[
+  {
+    "matchItems": [
+      "gtceu:steel_block",
+      "ad_astra:steel_block",
+      "industrialrenewal:block_steel",
+      "unify:steel_block",
+      "thermal:steel_block",
+      "mekanism:block_steel",
+      "immersiveengineering:storage_steel",
+      "cosmos:steel_block"
+    ],
+    "resultItems": "gtceu:steel_block"
+  }
+]

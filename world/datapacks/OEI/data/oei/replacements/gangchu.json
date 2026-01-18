@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "cosmos:steel_hoe",
+      "gtceu:steel_hoe",
+      "mekanismtools:steel_hoe",
+      "immersiveengineering:hoe_steel"
+    ],
+    "resultItems": "gtceu:steel_hoe"
+  }
+]

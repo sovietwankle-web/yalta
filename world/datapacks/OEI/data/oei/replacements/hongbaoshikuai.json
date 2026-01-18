@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:ruby_block",
+      "gtceu:ruby_block"
+    ],
+    "resultItems": "gtceu:ruby_block"
+  }
+]

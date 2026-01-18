@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:mercury_silver_ore",
+      "thermal_and_space:mercury_silver_ore"
+    ],
+    "resultItems": "gtceu:mercury_silver_ore"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "matchItems": [
+      "create:crushed_raw_platinum",
+      "gtceu:crushed_platinum_ore"
+    ],
+    "resultItems": "create:crushed_raw_platinum"
+  },
+  {
+    "matchItems": [
+      "create:crushed_raw_platinum",
+      "gtceu:crushed_platinum_ore"
+    ],
+    "resultItems": "create:crushed_raw_platinum"
+  }
+]

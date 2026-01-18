@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:stainless_steel_block",
+      "destroy:stainless_steel_block"
+    ],
+    "resultItems": "gtceu:stainless_steel_block"
+  }
+]

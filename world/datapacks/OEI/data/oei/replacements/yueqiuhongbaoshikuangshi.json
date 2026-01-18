@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal_and_space:moon_ruby_ore",
+      "gtceu:moon_ruby_ore"
+    ],
+    "resultItems": "gtceu:moon_ruby_ore"
+  }
+]

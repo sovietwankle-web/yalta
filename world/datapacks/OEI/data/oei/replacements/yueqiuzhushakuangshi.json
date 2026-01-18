@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:moon_cinnabar_ore",
+      "thermal_and_space:moon_cinnabar_ore"
+    ],
+    "resultItems": "gtceu:moon_cinnabar_ore"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "flavor_immersed_daily:rice",
+      "farmersdelight:cooked_rice"
+    ],
+    "resultItems": "farmersdelight:cooked_rice"
+  }
+]

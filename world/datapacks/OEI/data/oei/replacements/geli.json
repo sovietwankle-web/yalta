@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "destroy:chromium_nugget",
+      "gtceu:chromium_nugget"
+    ],
+    "resultItems": "gtceu:chromium_nugget"
+  }
+]

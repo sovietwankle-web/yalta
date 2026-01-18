@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:aluminium_rod",
+      "unify:aluminum_rod",
+      "immersiveengineering:stick_aluminum"
+    ],
+    "resultItems": "gtceu:aluminium_rod"
+  }
+]

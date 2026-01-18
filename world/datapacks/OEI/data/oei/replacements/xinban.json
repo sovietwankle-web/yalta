@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:zinc_plate",
+      "createaddition:zinc_sheet",
+      "destroy:zinc_sheet",
+      "createdeco:zinc_sheet"
+    ],
+    "resultItems": "gtceu:zinc_plate"
+  }
+]

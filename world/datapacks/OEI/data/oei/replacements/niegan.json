@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal_extra:nickel_rod",
+      "unify:nickel_rod"
+    ],
+    "resultItems": "unify:nickel_rod"
+  }
+]

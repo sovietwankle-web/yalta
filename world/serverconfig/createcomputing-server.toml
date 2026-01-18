@@ -1,0 +1,8 @@
+
+[computerized_redstone_link]
+	#These are the items the computerized redstone link cannot use.
+	banned_link_items = ["minecraft:dragon_egg", "minecraft:nether_star"]
+	#This is the maximum amount of concurrent handles one computerized redstone link is allowed ot have.
+	#Range: 1 ~ 9223372036854775807
+	maximum_concurrent_links = 8
+

@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:stripped_rubberwood_log",
+      "gtceu:stripped_rubber_log"
+    ],
+    "resultItems": "gtceu:stripped_rubber_log"
+  }
+]

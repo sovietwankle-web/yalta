@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "mekanism:ingot_uranium",
+      "unify:uranium_ingot",
+      "immersiveengineering:ingot_uranium",
+      "gtceu:uranium_ingot"
+    ],
+    "resultItems": "gtceu:uranium_ingot"
+  }
+]

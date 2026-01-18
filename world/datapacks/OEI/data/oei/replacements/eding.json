@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:osmium_ingot",
+      "mekanism:ingot_osmium"
+    ],
+    "resultItems": "gtceu:osmium_ingot"
+  }
+]

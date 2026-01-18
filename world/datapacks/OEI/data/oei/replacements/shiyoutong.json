@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:oil_bucket",
+      "pneumaticcraft:oil_bucket",
+      "ad_astra:oil_bucket",
+      "thermal:crude_oil_bucket"
+    ],
+    "resultItems": "gtceu:oil_bucket"
+  }
+]

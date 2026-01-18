@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "createdeco:netherite_nugget",
+      "thermal:netherite_nugget"
+    ],
+    "resultItems": "createdeco:netherite_nugget"
+  }
+]

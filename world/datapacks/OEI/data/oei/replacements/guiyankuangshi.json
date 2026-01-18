@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "mekanism_extras:naquadah_ore",
+      "gtceu:naquadah_ore"
+    ],
+    "resultItems": "gtceu:naquadah_ore"
+  }
+]

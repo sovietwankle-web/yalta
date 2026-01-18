@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "destroy:chromium_ingot",
+      "gtceu:chromium_ingot"
+    ],
+    "resultItems": "gtceu:chromium_ingot"
+  }
+]

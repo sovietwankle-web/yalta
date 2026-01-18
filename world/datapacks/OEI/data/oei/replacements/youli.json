@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "unify:uranium_nugget",
+      "mekanism:nugget_uranium",
+      "gtceu:uranium_nugget",
+      "immersiveengineering:nugget_uranium"
+    ],
+    "resultItems": "gtceu:uranium_nugget"
+  }
+]

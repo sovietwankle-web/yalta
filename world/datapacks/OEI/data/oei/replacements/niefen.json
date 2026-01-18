@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:dust_nickel",
+      "thermal:nickel_dust",
+      "destroy:nickel_powder",
+      "gtceu:nickel_dust"
+    ],
+    "resultItems": "gtceu:nickel_dust"
+  }
+]

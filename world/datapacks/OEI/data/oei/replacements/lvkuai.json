@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "unify:aluminum_block",
+      "gtceu:aluminium_block",
+      "immersiveengineering:storage_aluminum"
+    ],
+    "resultItems": "gtceu:aluminium_block"
+  }
+]

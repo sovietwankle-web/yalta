@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:wire_lead",
+      "unify:lead_wire"
+    ],
+    "resultItems": "gtceu:lead_nugget"
+  }
+]

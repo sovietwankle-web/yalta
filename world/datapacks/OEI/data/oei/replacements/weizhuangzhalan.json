@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "copycats:copycat_fence",
+      "create_connected:copycat_fence"
+    ],
+    "resultItems": "create_connected:copycat_fence"
+  }
+]

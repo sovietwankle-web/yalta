@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "thermal:gold_dust",
+      "immersiveengineering:dust_gold",
+      "gtceu:gold_dust",
+      "mekanism:dust_gold"
+    ],
+    "resultItems": "gtceu:gold_dust"
+  }
+]

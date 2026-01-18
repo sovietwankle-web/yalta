@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:salt_block",
+      "mekanism:block_salt"
+    ],
+    "resultItems": "gtceu:salt_block"
+  }
+]

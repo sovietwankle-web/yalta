@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:electrum_rod",
+      "createaddition:electrum_rod",
+      "thermal_extra:electrum_rod"
+    ],
+    "resultItems": "gtceu:electrum_rod"
+  }
+]

@@ -1,0 +1,13 @@
+[
+  {
+    "matchItems": [
+      "ad_astra:iron_plate",
+      "create:iron_sheet",
+      "immersiveengineering:plate_iron",
+      "thermal:iron_plate",
+      "gtceu:iron_plate",
+      "cosmos:iron_plate"
+    ],
+    "resultItems": "create:iron_sheet"
+  }
+]

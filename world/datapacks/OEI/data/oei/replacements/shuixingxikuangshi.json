@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:mercury_tin_ore",
+      "thermal_and_space:mercury_tin_ore"
+    ],
+    "resultItems": "gtceu:mercury_tin_ore"
+  }
+]

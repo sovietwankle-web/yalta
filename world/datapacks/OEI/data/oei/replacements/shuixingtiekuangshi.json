@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "ad_astra:mercury_iron_ore",
+      "gtceu:mercury_iron_ore"
+    ],
+    "resultItems": "gtceu:mercury_iron_ore"
+  }
+]

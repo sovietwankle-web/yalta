@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:copper_ore",
+      "minecraft:copper_ore"
+    ],
+    "resultItems": "minecraft:copper_ore"
+  }
+]

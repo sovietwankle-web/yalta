@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "destroy:deepslate_fluorite_ore",
+      "mekanism:deepslate_fluorite_ore",
+      "gcyr:deepslate_fluorite_ore"
+    ],
+    "resultItems": "gcyr:deepslate_fluorite_ore"
+  }
+]

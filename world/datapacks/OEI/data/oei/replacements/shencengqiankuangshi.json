@@ -1,0 +1,12 @@
+[
+  {
+    "matchItems": [
+      "unify:deepslate_lead_ore",
+      "thermal:deepslate_lead_ore",
+      "mekanism:deepslate_lead_ore",
+      "immersiveengineering:deepslate_ore_lead",
+      "gtceu:deepslate_lead_ore"
+    ],
+    "resultItems": "gtceu:deepslate_lead_ore"
+  }
+]

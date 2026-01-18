@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:mars_iron_ore",
+      "ad_astra:mars_iron_ore"
+    ],
+    "resultItems": "gtceu:mars_iron_ore"
+  }
+]

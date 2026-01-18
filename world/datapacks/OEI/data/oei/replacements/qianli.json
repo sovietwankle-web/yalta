@@ -1,0 +1,12 @@
+[
+  {
+    "matchItems": [
+      "mekanism:nugget_lead",
+      "thermal:lead_nugget",
+      "unify:lead_nugget",
+      "immersiveengineering:nugget_lead",
+      "gtceu:lead_nugget"
+    ],
+    "resultItems": "gtceu:lead_nugget"
+  }
+]

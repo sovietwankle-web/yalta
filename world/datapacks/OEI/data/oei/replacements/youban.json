@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:uranium_plate",
+      "unify:uranium_sheet",
+      "immersiveengineering:plate_uranium"
+    ],
+    "resultItems": "gtceu:uranium_plate"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:tin_nugget",
+      "unify:tin_nugget",
+      "mekanism:nugget_tin",
+      "thermal:tin_nugget"
+    ],
+    "resultItems": "gtceu:tin_nugget"
+  }
+]

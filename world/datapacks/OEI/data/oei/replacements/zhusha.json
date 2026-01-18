@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:cinnabar",
+      "gtceu:cinnabar_gem"
+    ],
+    "resultItems": "gtceu:cinnabar_gem"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "matchItems": [
+      "vs_tournament:balloon_unpowered",
+      "vs_eureka:balloon"
+    ],
+    "resultItems": "vs_eureka:balloon"
+  },
+  {
+    "matchItems": [
+      "vs_tournament:balloon_unpowered",
+      "vs_eureka:balloon"
+    ],
+    "resultItems": "vs_eureka:balloon"
+  }
+]

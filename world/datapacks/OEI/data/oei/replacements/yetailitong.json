@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "mekanism:lithium_bucket",
+      "gtceu:lithium_bucket"
+    ],
+    "resultItems": "gtceu:lithium_bucket"
+  }
+]

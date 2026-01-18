@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:treated_wood_rod",
+      "immersiveengineering:stick_treated"
+    ],
+    "resultItems": "gtceu:treated_wood_rod"
+  }
+]

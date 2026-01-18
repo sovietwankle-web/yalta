@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "unify:constantan_nugget",
+      "thermal:constantan_nugget",
+      "immersiveengineering:nugget_constantan"
+    ],
+    "resultItems": "unify:constantan_nugget"
+  }
+]

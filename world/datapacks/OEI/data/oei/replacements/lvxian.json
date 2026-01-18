@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "unify:aluminum_wire",
+      "immersiveengineering:wire_aluminum"
+    ],
+    "resultItems": "unify:aluminum_wire"
+  }
+]

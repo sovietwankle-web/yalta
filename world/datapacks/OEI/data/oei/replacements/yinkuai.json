@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "gtceu:silver_block",
+      "unify:silver_block",
+      "immersiveengineering:storage_silver",
+      "thermal:silver_block"
+    ],
+    "resultItems": "gtceu:silver_block"
+  }
+]

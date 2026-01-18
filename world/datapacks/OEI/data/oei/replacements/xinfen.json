@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:zinc_dust",
+      "destroy:zinc_powder",
+      "thermal_extra:zinc_dust"
+    ],
+    "resultItems": "gtceu:zinc_dust"
+  }
+]

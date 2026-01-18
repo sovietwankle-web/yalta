@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:saltpeter_ore",
+      "thermal:niter_ore"
+    ],
+    "resultItems": "gtceu:saltpeter_ore"
+  }
+]

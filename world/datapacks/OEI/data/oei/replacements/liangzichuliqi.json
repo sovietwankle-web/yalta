@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:quantum_processor",
+      "advanced_ae:quantum_processor"
+    ],
+    "resultItems": "gtceu:quantum_processor"
+  }
+]

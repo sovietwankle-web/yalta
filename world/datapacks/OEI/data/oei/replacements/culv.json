@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "unify:raw_aluminum",
+      "gtceu:raw_aluminium"
+    ],
+    "resultItems": "gtceu:raw_aluminium"
+  }
+]

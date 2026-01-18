@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:lubricant_bucket",
+      "pneumaticcraft:lubricant_bucket"
+    ],
+    "resultItems": "gtceu:lubricant_bucket"
+  }
+]

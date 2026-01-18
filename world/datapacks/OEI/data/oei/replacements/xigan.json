@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "thermal_extra:tin_rod",
+      "unify:tin_rod",
+      "gtceu:tin_rod"
+    ],
+    "resultItems": "gtceu:tin_rod"
+  }
+]

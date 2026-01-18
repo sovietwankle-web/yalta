@@ -1,0 +1,16 @@
+[
+  {
+    "matchItems": [
+      "thermal:netherite_coin",
+      "createdeco:netherite_coin"
+    ],
+    "resultItems": "createdeco:netherite_coin"
+  },
+  {
+    "matchItems": [
+      "thermal:netherite_coin",
+      "createdeco:netherite_coin"
+    ],
+    "resultItems": "createdeco:netherite_coin"
+  }
+]

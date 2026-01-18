@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:mv_voltage_coil",
+      "immersiveengineering:wirecoil_electrum"
+    ],
+    "resultItems": "gtceu:mv_voltage_coil"
+  }
+]

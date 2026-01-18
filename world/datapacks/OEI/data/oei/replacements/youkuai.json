@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:storage_uranium",
+      "mekanism:block_uranium",
+      "unify:uranium_block",
+      "gtceu:uranium_block"
+    ],
+    "resultItems": "gtceu:uranium_block"
+  }
+]

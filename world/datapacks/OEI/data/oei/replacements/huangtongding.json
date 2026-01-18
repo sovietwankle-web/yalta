@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "create:brass_ingot",
+      "gtceu:brass_ingot"
+    ],
+    "resultItems": "create:brass_ingot"
+  }
+]

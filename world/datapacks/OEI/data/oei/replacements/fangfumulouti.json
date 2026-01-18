@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:stairs_treated_wood_horizontal",
+      "gtceu:treated_wood_stairs"
+    ],
+    "resultItems": "gtceu:treated_wood_stairs"
+  }
+]

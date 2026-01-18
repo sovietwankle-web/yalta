@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:dust_uranium",
+      "mekanism:dust_uranium",
+      "gtceu:uranium_dust"
+    ],
+    "resultItems": "gtceu:uranium_dust"
+  }
+]

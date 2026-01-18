@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "create_connected:copycat_wall",
+      "copycats:copycat_wall"
+    ],
+    "resultItems": "create_connected:copycat_wall"
+  }
+]

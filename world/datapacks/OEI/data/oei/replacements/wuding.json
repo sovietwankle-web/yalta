@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "unify:tungsten_ingot",
+      "gtceu:tungsten_ingot"
+    ],
+    "resultItems": "gtceu:tungsten_ingot"
+  }
+]

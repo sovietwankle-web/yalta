@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:deepslate_niter_ore",
+      "gtceu:deepslate_saltpeter_ore"
+    ],
+    "resultItems": "gtceu:deepslate_saltpeter_ore"
+  }
+]

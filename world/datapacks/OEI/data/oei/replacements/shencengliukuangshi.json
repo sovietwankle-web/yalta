@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:deepslate_sulfur_ore",
+      "gtceu:deepslate_sulfur_ore"
+    ],
+    "resultItems": "gtceu:deepslate_sulfur_ore"
+  }
+]

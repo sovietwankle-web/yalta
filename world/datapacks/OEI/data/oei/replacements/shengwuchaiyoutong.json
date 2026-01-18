@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "createdieselgenerators:biodiesel_bucket",
+      "pneumaticcraft:biodiesel_bucket",
+      "gtceu:bio_diesel_bucket",
+      "immersiveengineering:biodiesel_bucket"
+    ],
+    "resultItems": "gtceu:bio_diesel_bucket"
+  }
+]

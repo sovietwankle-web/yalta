@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "unify:deepslate_aluminum_ore",
+      "immersiveengineering:deepslate_ore_aluminum",
+      "gtceu:deepslate_bauxite_ore"
+    ],
+    "resultItems": "gtceu:deepslate_bauxite_ore"
+  }
+]

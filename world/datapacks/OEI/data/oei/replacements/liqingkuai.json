@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "thermal:bitumen_block",
+      "createdieselgenerators:asphalt_block"
+    ],
+    "resultItems": "thermal:bitumen_block"
+  }
+]

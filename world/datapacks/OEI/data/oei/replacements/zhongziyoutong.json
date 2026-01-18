@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "createaddition:seed_oil_bucket",
+      "gtceu:seed_oil_bucket"
+    ],
+    "resultItems": "gtceu:seed_oil_bucket"
+  }
+]

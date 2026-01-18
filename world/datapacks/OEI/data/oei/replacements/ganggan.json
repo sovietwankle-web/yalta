@@ -1,0 +1,12 @@
+[
+  {
+    "matchItems": [
+      "industrialrenewal:stick_steel",
+      "gtceu:steel_rod",
+      "ad_astra:steel_rod",
+      "immersiveengineering:stick_steel",
+      "unify:steel_rod"
+    ],
+    "resultItems": "gtceu:steel_rod"
+  }
+]

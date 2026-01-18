@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "immersiveengineering:raw_uranium",
+      "unify:raw_uranium",
+      "mekanism:raw_uranium"
+    ],
+    "resultItems": "unify:raw_uranium"
+  }
+]

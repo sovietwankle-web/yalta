@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "gtceu:invar_rod",
+      "thermal_extra:invar_rod"
+    ],
+    "resultItems": "gtceu:invar_rod"
+  }
+]

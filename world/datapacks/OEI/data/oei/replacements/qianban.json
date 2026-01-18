@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "unify:lead_sheet",
+      "thermal:lead_plate",
+      "gtceu:lead_plate",
+      "immersiveengineering:plate_lead"
+    ],
+    "resultItems": "gtceu:lead_plate"
+  }
+]

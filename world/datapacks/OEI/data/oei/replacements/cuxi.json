@@ -1,0 +1,11 @@
+[
+  {
+    "matchItems": [
+      "unify:raw_tin",
+      "thermal:raw_tin",
+      "gtceu:raw_tin",
+      "mekanism:raw_tin"
+    ],
+    "resultItems": "gtceu:raw_tin"
+  }
+]

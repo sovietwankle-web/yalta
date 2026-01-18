@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "copycats:copycat_catwalk",
+      "create_connected:copycat_catwalk"
+    ],
+    "resultItems": "create_connected:copycat_catwalk"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:silver_dust",
+      "immersiveengineering:dust_silver",
+      "thermal:silver_dust"
+    ],
+    "resultItems": "gtceu:silver_dust"
+  }
+]

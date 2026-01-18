@@ -1,0 +1,9 @@
+[
+  {
+    "matchItems": [
+      "industrialforegoing:gold_gear",
+      "thermal:gold_gear"
+    ],
+    "resultItems": "thermal:gold_gear"
+  }
+]

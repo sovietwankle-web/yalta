@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:bauxite_ore",
+      "immersiveengineering:ore_aluminum",
+      "unify:aluminum_ore"
+    ],
+    "resultItems": "gtceu:bauxite_ore"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "thermal:electrum_dust",
+      "gtceu:electrum_dust",
+      "immersiveengineering:dust_electrum"
+    ],
+    "resultItems": "gtceu:electrum_dust"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "matchItems": [
+      "gtceu:iron_drill_head",
+      "immersiveengineering:drillhead_iron",
+      "pneumaticcraft:drill_bit_iron"
+    ],
+    "resultItems": "gtceu:iron_drill_head"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "matchItems": [
+      "gtceu:deepslate_nickel_ore",
+      "immersiveengineering:deepslate_ore_nickel",
+      "destroy:deepslate_nickel_ore",
+      "thermal:deepslate_nickel_ore",
+      "unify:deepslate_nickel_ore"
+    ],
+    "resultItems": "gtceu:deepslate_nickel_ore"
+  }
+]
