@@ -1,14 +1,14 @@
-[2026-01-18 20:59:37] [INFO]: I18nUpdate Mod 3.6.0 is loaded in 1.20.1 with Forge
-[2026-01-18 20:59:37] [DEBUG]: Minecraft path: .
-[2026-01-18 20:59:37] [DEBUG]: Local Storage Pos: C:\Users\lizuo\AppData\Local
-[2026-01-18 20:59:37] [DEBUG]: Local file C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip has been updated recently.
-[2026-01-18 20:59:37] [DEBUG]: Already up to date.
-[2026-01-18 20:59:37] [DEBUG]: Local file C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip has been updated recently.
-[2026-01-18 20:59:37] [DEBUG]: Already up to date.
-[2026-01-18 20:59:37] [DEBUG]: Local file C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip has been updated recently.
-[2026-01-18 20:59:37] [DEBUG]: Already up to date.
-[2026-01-18 20:59:37] [INFO]: Converting: C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip
-[2026-01-18 20:59:37] [INFO]: Converting: C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip
-[2026-01-18 20:59:37] [INFO]: Converting: C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip
-[2026-01-18 20:59:38] [INFO]: Converted: [C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip, C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip, C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip] -> C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.20.1\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip
-[2026-01-18 20:59:38] [INFO]: Synchronized: C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.20.1\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip -> .\resourcepacks\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip
+[2026-01-18 21:10:58] [INFO]: I18nUpdate Mod 3.6.0 is loaded in 1.20.1 with Forge
+[2026-01-18 21:10:58] [DEBUG]: Minecraft path: .
+[2026-01-18 21:10:58] [DEBUG]: Local Storage Pos: C:\Users\lizuo\AppData\Local
+[2026-01-18 21:10:58] [DEBUG]: Local file C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip has been updated recently.
+[2026-01-18 21:10:58] [DEBUG]: Already up to date.
+[2026-01-18 21:10:58] [DEBUG]: Local file C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip has been updated recently.
+[2026-01-18 21:10:58] [DEBUG]: Already up to date.
+[2026-01-18 21:10:58] [DEBUG]: Local file C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip has been updated recently.
+[2026-01-18 21:10:58] [DEBUG]: Already up to date.
+[2026-01-18 21:10:58] [INFO]: Converting: C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip
+[2026-01-18 21:10:58] [INFO]: Converting: C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip
+[2026-01-18 21:10:59] [INFO]: Converting: C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip
+[2026-01-18 21:10:59] [INFO]: Converted: [C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.20\Minecraft-Mod-Language-Modpack-1-20.zip, C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.19\Minecraft-Mod-Language-Modpack-1-19.zip, C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.18\Minecraft-Mod-Language-Modpack-1-18.zip] -> C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.20.1\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip
+[2026-01-18 21:10:59] [INFO]: Synchronized: C:\Users\lizuo\AppData\Local\.i18nupdatemod\1.20.1\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip -> .\resourcepacks\Minecraft-Mod-Language-Modpack-Converted-1.20.1.zip
