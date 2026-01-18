@@ -1,378 +1,251 @@
-[181月2026 17:45:54.166] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[181月2026 17:45:54.224] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.9 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
-[181月2026 17:45:56.056] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[181月2026 17:45:56.062] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
-[181月2026 17:45:56.084] [main/INFO] [mixin-transmog/]: crimes against java were committed
-[181月2026 17:45:56.099] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
-[181月2026 17:45:56.133] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/lizuo/project/mc/yala/mods/Connector-1.0.0-beta.46+1.20.1.jar%23297%23301!/ Service=ModLauncher Env=SERVER
-[181月2026 17:45:58.523] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\project\mc\yala\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.0\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[181月2026 17:45:58.527] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\project\mc\yala\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.0\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[181月2026 17:45:58.531] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\project\mc\yala\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.0\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[181月2026 17:45:58.535] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\project\mc\yala\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.0\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[181月2026 17:45:59.870] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[181月2026 17:45:59.871] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[181月2026 17:45:59.888] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: C:\Users\lizuo\project\mc\yala\mods\cloth-config-11.1.136-forge.jar
-[181月2026 17:45:59.889] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: C:\Users\lizuo\project\mc\yala\mods\architectury-9.2.14-forge.jar
-[181月2026 17:45:59.889] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: oelib. Using Mod File: C:\Users\lizuo\project\mc\yala\mods\OELib-forge-1.20.1-0.0.6.jar
-[181月2026 17:45:59.889] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 99 dependencies adding them to mods collection
-[181月2026 17:46:01.411] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 25 candidates to load
-[181月2026 17:46:08.349] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
-[181月2026 17:46:10.951] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[181月2026 17:46:11.279] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[181月2026 17:46:11.314] [main/WARN] [mixin/]: Reference map 'Kontraption.refmap.json' for kontraption.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:11.474] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
-[181月2026 17:46:11.503] [main/INFO] [C2ME Config Updater/]: Updating config from 0 to 1
-[181月2026 17:46:11.505] [main/INFO] [C2ME Config Updater/]: Updating config from 1 to 2
-[181月2026 17:46:11.506] [main/INFO] [C2ME Config Updater/]: Updating config from 2 to 3
-[181月2026 17:46:11.530] [main/WARN] [mixin/]: Reference map 'ad_astra_rocketed-forge-1.20.1-forge-refmap.json' for ad_astra_rocketed.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:11.532] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
-[181月2026 17:46:11.535] [main/INFO] [C2ME Config System/]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@9.2.14 (*) (defined in c2me)
-[181月2026 17:46:11.536] [main/INFO] [C2ME Modules Manager/]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
-[181月2026 17:46:11.546] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
-[181月2026 17:46:11.707] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 84 options available, 1 override(s) found
-[181月2026 17:46:11.709] [main/WARN] [ModernFix/]: Option 'mixin.perf.thread_priorities' overriden (by mods [smoothboot]) to 'false'
-[181月2026 17:46:11.710] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[181月2026 17:46:11.736] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[181月2026 17:46:11.797] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.base.mixin
-[181月2026 17:46:12.005] [main/INFO] [C2ME Config System/]: Global Executor Parallelism: 3 configured, 3 evaluated, 3 default evaluated
-[181月2026 17:46:12.032] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 320 options available, 3 override(s) found
-[181月2026 17:46:12.145] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.threading.lighting.mixin
-[181月2026 17:46:12.159] [main/WARN] [mixin/]: Reference map 'OELib-common-api-1.20.1-common-api-refmap.json' for oelib.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.170] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
-[181月2026 17:46:12.175] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.scheduling.mixin
-[181月2026 17:46:12.209] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.notickvd.mixin
-[181月2026 17:46:12.263] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.threading.worldgen.mixin
-[181月2026 17:46:12.315] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.325] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.math.mixin
-[181月2026 17:46:12.336] [main/WARN] [mixin/]: Reference map 'Mekanism_Extras.refmap.json' for mekanism_extras.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.338] [main/WARN] [mixin/]: Reference map 'mixins.neon_light.refmap.json' for mixins.neon_light.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.343] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
-[181月2026 17:46:12.352] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
-[181月2026 17:46:12.362] [main/WARN] [mixin/]: Reference map 'cc_vs-forge-refmap.json' for cc_vs.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.375] [main/WARN] [mixin/]: Reference map 'vlib-forge-refmap.json' for vlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.381] [main/WARN] [mixin/]: Reference map 'tisvs-forge-refmap.json' for tisvs.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.384] [main/WARN] [mixin/]: Reference map 'tisvs-common-refmap.json' for tisvs-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.395] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
-[181月2026 17:46:12.407] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.allocs.mixin
-[181月2026 17:46:12.428] [main/WARN] [mixin/]: Reference map 'mixins.trackwork.refmap.json' for trackwork.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.430] [main/WARN] [mixin/]: Reference map 'unify.refmap.json' for unify.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.433] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.527] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.threading.chunkio.mixin
-[181月2026 17:46:12.542] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.chunk_access.mixin
-[181月2026 17:46:12.547] [main/WARN] [mixin/]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.608] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.server.utils.mixin
-[181月2026 17:46:12.618] [main/WARN] [mixin/]: Reference map 'vsch.refmap.json' for vsch.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:12.621] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
-[181月2026 17:46:12.623] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.chunkio.mixin
-[181月2026 17:46:12.711] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
-[181月2026 17:46:13.550] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
-[181月2026 17:46:13.551] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:13.552] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
-[181月2026 17:46:13.558] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[181月2026 17:46:13.560] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:13.560] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
-[181月2026 17:46:13.651] [main/WARN] [mixin/]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca.spottedleaf.starlight.common.thread.SchedulingUtil)
-[181月2026 17:46:13.654] [main/WARN] [mixin/]: Error loading class: net/mcreator/createstuffadditions/procedures/GrapplinWhiskChainsLineProcedure (java.lang.ClassNotFoundException: net.mcreator.createstuffadditions.procedures.GrapplinWhiskChainsLineProcedure)
-[181月2026 17:46:13.655] [main/WARN] [mixin/]: @Mixin target net.mcreator.createstuffadditions.procedures.GrapplinWhiskChainsLineProcedure was not found vsfix.mixins.json:createstuff.GrapplinWhiskChainsLineProceduremixin from mod vsfix
-[181月2026 17:46:13.659] [main/WARN] [mixin/]: Error loading class: net/mcreator/createstuffadditions/procedures/GrapplinWhiskItemInHandTickProcedure (java.lang.ClassNotFoundException: net.mcreator.createstuffadditions.procedures.GrapplinWhiskItemInHandTickProcedure)
-[181月2026 17:46:13.659] [main/WARN] [mixin/]: @Mixin target net.mcreator.createstuffadditions.procedures.GrapplinWhiskItemInHandTickProcedure was not found vsfix.mixins.json:createstuff.GrapplinWhiskItemInHandTickProceduremixin from mod vsfix
-[181月2026 17:46:13.710] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER
-[181月2026 17:46:13.711] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/MultiPlayerGameMode (java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:13.711] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.MultiPlayerGameMode was not found mixins.cofhcore.json:MultiPlayerGameModeMixin from mod cofh_core
-[181月2026 17:46:13.877] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
-[181月2026 17:46:13.924] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
-[181月2026 17:46:13.929] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
-[181月2026 17:46:13.932] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
-[181月2026 17:46:14.155] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[181月2026 17:46:14.161] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER
-[181月2026 17:46:14.161] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/gui/AbstractSimiScreen (java.lang.RuntimeException: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:14.163] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.gui.AbstractSimiScreen was not found create_connected.mixins.json:sequencedgearshift.AbstractSimiScreenAccessor from mod create_connected
-[181月2026 17:46:14.333] [main/WARN] [mixin/]: Error loading class: com/majruszlibrary/item/CustomEnchantment (java.lang.ClassNotFoundException: com.majruszlibrary.item.CustomEnchantment)
-[181月2026 17:46:14.338] [main/WARN] [mixin/]: @Mixin target com.majruszlibrary.item.CustomEnchantment was not found createenchantablemachinery.mixins.json:CustomEnchantmentMixin from mod createenchantablemachinery
-[181月2026 17:46:14.356] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/common/ConfigCommon (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.common.ConfigCommon)
-[181月2026 17:46:14.361] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
-[181月2026 17:46:14.371] [main/WARN] [mixin/]: Error loading class: cjminecraft/doubleslabs/common/config/DSConfig$Common (java.lang.ClassNotFoundException: cjminecraft.doubleslabs.common.config.DSConfig$Common)
-[181月2026 17:46:14.445] [main/WARN] [mixin/]: Error loading class: com/drmangotea/tfmg/recipes/jei/AdvancedDistillationCategory (java.lang.ClassNotFoundException: com.drmangotea.tfmg.recipes.jei.AdvancedDistillationCategory)
-[181月2026 17:46:14.460] [main/WARN] [mixin/]: @Mixin target com.drmangotea.tfmg.recipes.jei.AdvancedDistillationCategory was not found destroy.mixins.json:compat.tfmg.AdvancedDistillationCategoryMixin from mod destroy
-[181月2026 17:46:14.508] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/model/ModelBakery for invalid dist DEDICATED_SERVER
-[181月2026 17:46:14.512] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/resources/model/ModelBakery (java.lang.RuntimeException: Attempted to load class net/minecraft/client/resources/model/ModelBakery for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:14.516] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.resources.model.ModelBakery was not found mixins.aae.json:client.ModelBakeryMixin from mod advanced_ae
-[181月2026 17:46:14.657] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushBlock)
-[181月2026 17:46:14.659] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushBlockMixin from mod create_central_kitchen
-[181月2026 17:46:14.660] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushTopBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushTopBlock)
-[181月2026 17:46:14.662] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushTopBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushTopBlockMixin from mod create_central_kitchen
-[181月2026 17:46:14.664] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeDoubleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock)
-[181月2026 17:46:14.665] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeDoubleStemBlockMixin from mod create_central_kitchen
-[181月2026 17:46:14.673] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeMiddleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock)
-[181月2026 17:46:14.676] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeMiddleStemBlockMixin from mod create_central_kitchen
-[181月2026 17:46:14.679] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeStemBlock)
-[181月2026 17:46:14.680] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeStemBlockMixin from mod create_central_kitchen
-[181月2026 17:46:14.683] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
-[181月2026 17:46:14.688] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin from mod create_central_kitchen
-[181月2026 17:46:14.707] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/SmallTeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.SmallTeaBushBlock)
-[181月2026 17:46:14.709] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.SmallTeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.SmallTeaBushBlockMixin from mod create_central_kitchen
-[181月2026 17:46:14.715] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/TeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.TeaBushBlock)
-[181月2026 17:46:14.719] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.TeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.TeaBushBlockMixin from mod create_central_kitchen
-[181月2026 17:46:14.724] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
-[181月2026 17:46:14.725] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin from mod create_central_kitchen
-[181月2026 17:46:14.730] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[181月2026 17:46:14.732] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor from mod create_central_kitchen
-[181月2026 17:46:14.735] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
-[181月2026 17:46:14.738] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin from mod create_central_kitchen
-[181月2026 17:46:14.743] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/neapolitan/common/item/DrinkItem (java.lang.ClassNotFoundException: com.teamabnormals.neapolitan.common.item.DrinkItem)
-[181月2026 17:46:14.752] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.neapolitan.common.item.DrinkItem was not found create_central_kitchen.mixins.json:common.neapolitan.DrinkItemMixin from mod create_central_kitchen
-[181月2026 17:46:14.757] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
-[181月2026 17:46:14.759] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin from mod create_central_kitchen
-[181月2026 17:46:14.913] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/SimpleAnimatedParticle (java.lang.ClassNotFoundException: net.minecraft.client.particle.SimpleAnimatedParticle)
-[181月2026 17:46:14.935] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER
-[181月2026 17:46:14.941] [main/WARN] [mixin/]: Error loading class: com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData (java.lang.RuntimeException: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:15.013] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/AbstractCommandBlockEditScreen (java.lang.ClassNotFoundException: net.minecraft.client.gui.screens.inventory.AbstractCommandBlockEditScreen)
-[181月2026 17:46:15.018] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.AbstractCommandBlockEditScreen was not found imblocker-forge.mixins.json:AbstractCommandBlockScreenMixin from mod imblocker
-[181月2026 17:46:15.023] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/ChatScreen for invalid dist DEDICATED_SERVER
-[181月2026 17:46:15.025] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/ChatScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/ChatScreen for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:15.028] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.ChatScreen was not found imblocker-forge.mixins.json:ChatScreenMixin from mod imblocker
-[181月2026 17:46:15.033] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/components/AbstractWidget for invalid dist DEDICATED_SERVER
-[181月2026 17:46:15.036] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/components/AbstractWidget (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/components/AbstractWidget for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:15.039] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.components.AbstractWidget was not found imblocker-forge.mixins.json:AbstractWidgetMixin from mod imblocker
-[181月2026 17:46:15.094] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
-[181月2026 17:46:15.098] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/Minecraft (java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:15.102] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.Minecraft was not found imblocker-forge.mixins.json:MinecraftClientMixin from mod imblocker
-[181月2026 17:46:15.103] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/platform/Window for invalid dist DEDICATED_SERVER
-[181月2026 17:46:15.105] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/platform/Window (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/platform/Window for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:15.108] [main/WARN] [mixin/]: @Mixin target com.mojang.blaze3d.platform.Window was not found imblocker-forge.mixins.json:WindowMixin from mod imblocker
-[181月2026 17:46:15.112] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/KeyboardHandler for invalid dist DEDICATED_SERVER
-[181月2026 17:46:15.113] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/KeyboardHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/KeyboardHandler for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:15.117] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.KeyboardHandler was not found imblocker-forge.mixins.json:UnlockIMEKeyListener from mod imblocker
-[181月2026 17:46:15.120] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/KeyboardHandler for invalid dist DEDICATED_SERVER
-[181月2026 17:46:15.121] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/KeyboardHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/KeyboardHandler for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:15.123] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.KeyboardHandler was not found imblocker-forge.mixins.json:KeyboardHandlerAccessor from mod imblocker
-[181月2026 17:46:15.126] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/platform/Window for invalid dist DEDICATED_SERVER
-[181月2026 17:46:15.127] [main/WARN] [mixin/]: Error loading class: com/mojang/blaze3d/platform/Window (java.lang.RuntimeException: Attempted to load class com/mojang/blaze3d/platform/Window for invalid dist DEDICATED_SERVER)
-[181月2026 17:46:15.131] [main/WARN] [mixin/]: @Mixin target com.mojang.blaze3d.platform.Window was not found imblocker-forge.mixins.json:WindowsFullScreenPatch from mod imblocker
-[181月2026 17:46:15.135] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/components/events/AbstractContainerEventHandler (java.lang.ClassNotFoundException: net.minecraft.client.gui.components.events.AbstractContainerEventHandler)
-[181月2026 17:46:15.136] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.components.events.AbstractContainerEventHandler was not found imblocker-forge.mixins.json:AbstractContainerEventHandlerMixin from mod imblocker
-[181月2026 17:46:15.139] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/components/EditBox (java.lang.ClassNotFoundException: net.minecraft.client.gui.components.EditBox)
-[181月2026 17:46:15.142] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.components.EditBox was not found imblocker-forge.mixins.json:TextFieldMixin from mod imblocker
-[181月2026 17:46:15.145] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/components/AbstractScrollWidget (java.lang.ClassNotFoundException: net.minecraft.client.gui.components.AbstractScrollWidget)
-[181月2026 17:46:15.148] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.components.AbstractScrollWidget was not found imblocker-forge.mixins.json:AbstractScrollWidgetMixin from mod imblocker
-[181月2026 17:46:15.151] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/components/MultilineTextField$StringView (java.lang.ClassNotFoundException: net.minecraft.client.gui.components.MultilineTextField$StringView)
-[181月2026 17:46:15.154] [main/WARN] [mixin/]: @Mixin target net/minecraft/client/gui/components/MultilineTextField$StringView was not found imblocker-forge.mixins.json:StringViewAccessor from mod imblocker
-[181月2026 17:46:15.157] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/components/MultilineTextField (java.lang.ClassNotFoundException: net.minecraft.client.gui.components.MultilineTextField)
-[181月2026 17:46:15.160] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.components.MultilineTextField was not found imblocker-forge.mixins.json:MultilineTextFieldMixin from mod imblocker
-[181月2026 17:46:15.163] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/components/MultiLineEditBox (java.lang.ClassNotFoundException: net.minecraft.client.gui.components.MultiLineEditBox)
-[181月2026 17:46:15.164] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.components.MultiLineEditBox was not found imblocker-forge.mixins.json:MultiLineEditBoxMixin from mod imblocker
-[181月2026 17:46:15.218] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[181月2026 17:46:15.646] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
-[181月2026 17:46:15.706] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[181月2026 17:46:16.840] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (25.15 s after launch)
-[181月2026 17:46:17.021] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
-[181月2026 17:46:17.023] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
-[181月2026 17:46:18.402] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1539 milliseconds
-[181月2026 17:46:20.518] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[181月2026 17:46:21.107] [main/INFO] [com.almostreliable.merequester.MERequester/]: Registering content
-[181月2026 17:46:21.444] [modloading-worker-0/INFO] [Star Wars Planets/]: Hello There ✨!
-[181月2026 17:46:21.529] [modloading-worker-0/ERROR] [com.iafenvoy.jupiter.Jupiter/]: Failed to load config: ./config/oei/common.json
-java.io.FileNotFoundException: .\config\oei\common.json (系统找不到指定的路径。)
-	at java.io.FileInputStream.open0(Native Method) ~[?:?]
-	at java.io.FileInputStream.open(FileInputStream.java:213) ~[?:?]
-	at java.io.FileInputStream.<init>(FileInputStream.java:152) ~[?:?]
-	at org.apache.commons.io.FileUtils.openInputStream(FileUtils.java:2388) ~[commons-io-2.11.0.jar%2379!/:2.11.0]
-	at org.apache.commons.io.FileUtils.readFileToString(FileUtils.java:2506) ~[commons-io-2.11.0.jar%2379!/:2.11.0]
-	at com.iafenvoy.jupiter.config.container.FileConfigContainer.load(FileConfigContainer.java:21) ~[Jupiter-2.2.2-forge.jar%23435!/:?]
-	at com.iafenvoy.jupiter.ConfigManager.registerConfigHandler(ConfigManager.java:25) ~[Jupiter-2.2.2-forge.jar%23435!/:?]
-	at com.iafenvoy.jupiter.ConfigManager.registerConfigHandler(ConfigManager.java:29) ~[Jupiter-2.2.2-forge.jar%23435!/:?]
-	at com.mafuyu404.oneenoughitem.init.config.Config.register(Config.java:48) ~[OneEnoughItem-Forge-1.0.5.1.jar%23454!/:?]
-	at com.mafuyu404.oneenoughitem.Oneenoughitem.<init>(Oneenoughitem.java:18) ~[OneEnoughItem-Forge-1.0.5.1.jar%23454!/:?]
-	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
-	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.0.jar%23501!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1310) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[181月2026 17:46:21.571] [modloading-worker-0/INFO] [LowDragLib/]: LowDragLib is initializing on platform: Forge
-[181月2026 17:46:21.590] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\lizuo\project\mc\yala\config\jeresources.toml is not correct. Correcting
-[181月2026 17:46:21.584] [modloading-worker-0/INFO] [Star Wars Planets/]: Hello There !
-[181月2026 17:46:21.580] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[181月2026 17:46:21.600] [modloading-worker-0/INFO] [LowDragLib/]: create ldlib config folder
-[181月2026 17:46:21.620] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerColumn was corrected from null to its default, 4. 
-[181月2026 17:46:21.619] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: embeddium, class me.jellysquid.mods.sodium.client.SodiumClientMod
-java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:1.0]
-	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	at java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?]
-	at java.lang.Class.privateGetDeclaredConstructors(Class.java:3551) ~[?:?]
-	at java.lang.Class.getConstructor0(Class.java:3756) ~[?:?]
-	at java.lang.Class.getDeclaredConstructor(Class.java:2932) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.0.jar%23501!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1310) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[181月2026 17:46:21.622] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerRow was corrected from null to its default, 4. 
-[181月2026 17:46:21.681] [modloading-worker-0/WARN] [Additional Placements/]: During block registration you may recieve several reports of "Potentially Dangerous alternative prefix `additionalplacements`". Ignore these, they are intended.
-[181月2026 17:46:21.673] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for industrialforegoing
-[181月2026 17:46:21.725] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[181月2026 17:46:21.724] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key diyData was corrected from null to its default, true. 
-[181月2026 17:46:21.742] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: oculus, class net.irisshaders.iris.Iris
-java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:1.0]
-	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	at java.lang.Class.getDeclaredConstructors0(Native Method) ~[?:?]
-	at java.lang.Class.privateGetDeclaredConstructors(Class.java:3551) ~[?:?]
-	at java.lang.Class.getConstructor0(Class.java:3756) ~[?:?]
-	at java.lang.Class.getDeclaredConstructor(Class.java:2932) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.0.jar%23501!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1310) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[181月2026 17:46:21.747] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key showDevData was corrected from null to its default, false. 
-[181月2026 17:46:21.759] [modloading-worker-0/INFO] [PluginManager/]: Found FeaturePluginInstance for class PatchouliPlugin for plugin patchouli
-[181月2026 17:46:21.761] [modloading-worker-0/INFO] [PluginManager/]: Found FeaturePluginInstance for class CuriosPlugin for plugin curios
-[181月2026 17:46:21.761] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantsBlacklist was corrected from null to its default, [flimflam, soulBound]. 
-[181月2026 17:46:21.763] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hiddenTabs was corrected from null to its default, []. 
-[181月2026 17:46:21.784] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
-[181月2026 17:46:21.765] [modloading-worker-0/INFO] [PluginManager/]: Constructed class PatchouliPlugin for plugin patchouli for mod industrialforegoing
-[181月2026 17:46:21.795] [modloading-worker-0/INFO] [PluginManager/]: Constructed class CuriosPlugin for plugin curios for mod industrialforegoing
-[181月2026 17:46:21.793] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dimensionsBlacklist was corrected from null to its default, [-11]. 
-[181月2026 17:46:21.797] [modloading-worker-0/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class PatchouliPlugin
-[181月2026 17:46:21.802] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableLootManagerReloading was corrected from null to its default, false. 
-[181月2026 17:46:21.815] [modloading-worker-0/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class CuriosPlugin
-[181月2026 17:46:21.831] [modloading-worker-0/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class PatchouliPlugin
-[181月2026 17:46:21.838] [modloading-worker-0/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class CuriosPlugin
-[181月2026 17:46:22.147] [modloading-worker-0/INFO] [mixin/]: create_interactive-common.mixins.json:AbstractContraptionEntityAccessor from mod create_interactive->@Accessor[FIELD_GETTER]::getStalled()Lnet/minecraft/network/syncher/EntityDataAccessor; should be static as its target is
-[181月2026 17:46:22.302] [modloading-worker-0/INFO] [PluginManager/]: Executing phase INIT for plugin class PatchouliPlugin
-[181月2026 17:46:22.307] [modloading-worker-0/INFO] [PluginManager/]: Executing phase INIT for plugin class CuriosPlugin
-[181月2026 17:46:22.336] [modloading-worker-0/INFO] [oelib/]: Data registry initialized with 0 registered types
-[181月2026 17:46:22.375] [modloading-worker-0/INFO] [oelib/]: No datapack data loaded yet; deferring expression engine initialization
-[181月2026 17:46:22.419] [modloading-worker-0/INFO] [com.verr1.controlcraft.ControlCraft/]: Registering Creative Tabs
-[181月2026 17:46:22.427] [modloading-worker-0/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class PatchouliPlugin
-[181月2026 17:46:22.434] [modloading-worker-0/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class CuriosPlugin
-[181月2026 17:46:22.447] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
-[181月2026 17:46:22.460] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
-[181月2026 17:46:23.036] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[181月2026 17:46:23.202] [modloading-worker-0/WARN] [AlmostUnified/]: Creating config: startup
-[181月2026 17:46:23.509] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
-[181月2026 17:46:23.534] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
-[181月2026 17:46:23.561] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
-[181月2026 17:46:23.534] [modloading-worker-0/ERROR] [org.arbor.extrasounds.ExtraSounds/]: [ExtraSounds] Unexpected error has caught
-java.lang.NullPointerException: Cannot invoke "Object.getClass()" because the return value of "java.lang.reflect.Field.get(Object)" is null
-	at org.arbor.extrasounds.ExtraSounds.initCategoryLoader(ExtraSounds.java:136) ~[extrasounds-1.20.1-forge-1.3.jar%23412!/:?]
-	at org.arbor.extrasounds.ExtraSounds.<init>(ExtraSounds.java:64) ~[extrasounds-1.20.1-forge-1.3.jar%23412!/:?]
-	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
-	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.0.jar%23501!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1310) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-[181月2026 17:46:23.652] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
-[181月2026 17:46:23.657] [modloading-worker-0/ERROR] [structurize/]: ----------------------------------------------------------------- 
+[181月2026 18:03:22.595] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[181月2026 18:03:22.602] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.9 by Oracle Corporation; OS Windows 11 arch amd64 version 10.0
+[181月2026 18:03:25.791] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[181月2026 18:03:25.801] [main/INFO] [mixin-transmog/]: Mixin Transmogrifier is definitely up to no good...
+[181月2026 18:03:25.836] [main/INFO] [mixin-transmog/]: crimes against java were committed
+[181月2026 18:03:25.856] [main/INFO] [mixin-transmog/]: Original mixin transformation service successfully crobbed by mixin-transmogrifier!
+[181月2026 18:03:25.967] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/lizuo/project/mc/yala/mods/Connector-1.0.0-beta.46+1.20.1.jar%23292%23296!/ Service=ModLauncher Env=SERVER
+[181月2026 18:03:30.526] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\project\mc\yala\libraries\net\minecraftforge\fmlcore\1.20.1-47.3.0\fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[181月2026 18:03:30.528] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\project\mc\yala\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.3.0\javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[181月2026 18:03:30.531] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\project\mc\yala\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.3.0\lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[181月2026 18:03:30.535] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\lizuo\project\mc\yala\libraries\net\minecraftforge\mclanguage\1.20.1-47.3.0\mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[181月2026 18:03:31.820] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[181月2026 18:03:31.820] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[181月2026 18:03:31.821] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: cloth_config. Using Mod File: C:\Users\lizuo\project\mc\yala\mods\cloth-config-11.1.136-forge.jar
+[181月2026 18:03:31.821] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: architectury. Using Mod File: C:\Users\lizuo\project\mc\yala\mods\architectury-9.2.14-forge.jar
+[181月2026 18:03:31.821] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: oelib. Using Mod File: C:\Users\lizuo\project\mc\yala\mods\OELib-forge-1.20.1-0.0.6.jar
+[181月2026 18:03:31.823] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 98 dependencies adding them to mods collection
+[181月2026 18:03:33.273] [main/INFO] [org.sinytra.connector.locator.DependencyResolver/]: Dependency resolution found 25 candidates to load
+[181月2026 18:03:36.329] [main/INFO] [org.sinytra.connector.service.hacks.ModuleLayerMigrator/]: Successfully made module authlib transformable
+[181月2026 18:03:43.364] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[181月2026 18:03:43.898] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[181月2026 18:03:43.971] [main/WARN] [mixin/]: Reference map 'Kontraption.refmap.json' for kontraption.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:44.192] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.worldgen.threading_issues.mixin
+[181月2026 18:03:44.233] [main/WARN] [mixin/]: Reference map 'ad_astra_rocketed-forge-1.20.1-forge-refmap.json' for ad_astra_rocketed.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:44.237] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.rewrites.chunk_serializer.mixin
+[181月2026 18:03:44.244] [main/INFO] [C2ME Config System/]: Disabling config ioSystem.gcFreeChunkSerializer: Incompatible with architectury@9.2.14 (*) (defined in c2me)
+[181月2026 18:03:44.245] [main/INFO] [C2ME Modules Manager/]: Disabling com.ishland.c2me.rewrites.chunk_serializer.mixin
+[181月2026 18:03:44.253] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.general.threading_issues.mixin
+[181月2026 18:03:44.466] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 84 options available, 1 override(s) found
+[181月2026 18:03:44.471] [main/WARN] [ModernFix/]: Option 'mixin.perf.thread_priorities' overriden (by mods [smoothboot]) to 'false'
+[181月2026 18:03:44.476] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[181月2026 18:03:44.712] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[181月2026 18:03:44.793] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.base.mixin
+[181月2026 18:03:44.889] [main/INFO] [C2ME Config System/]: Global Executor Parallelism: 3 configured, 3 evaluated, 3 default evaluated
+[181月2026 18:03:44.907] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.threading.lighting.mixin
+[181月2026 18:03:44.913] [main/WARN] [mixin/]: Reference map 'OELib-common-api-1.20.1-common-api-refmap.json' for oelib.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:44.922] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.worldgen.vanilla.mixin
+[181月2026 18:03:44.927] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.scheduling.mixin
+[181月2026 18:03:44.960] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.notickvd.mixin
+[181月2026 18:03:44.992] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.threading.worldgen.mixin
+[181月2026 18:03:45.011] [main/WARN] [mixin/]: Reference map 'eureka-1201-forge-refmap.json' for vs_eureka.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.043] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.math.mixin
+[181月2026 18:03:45.050] [main/WARN] [mixin/]: Reference map 'Mekanism_Extras.refmap.json' for mekanism_extras.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.051] [main/WARN] [mixin/]: Reference map 'mixins.neon_light.refmap.json' for mixins.neon_light.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.053] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.worldgen.vanilla_bugs.mixin
+[181月2026 18:03:45.062] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.fixes.chunkio.threading_issues.mixin
+[181月2026 18:03:45.070] [main/WARN] [mixin/]: Reference map 'cc_vs-forge-refmap.json' for cc_vs.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.093] [main/WARN] [mixin/]: Reference map 'vlib-forge-refmap.json' for vlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.100] [main/WARN] [mixin/]: Reference map 'tisvs-forge-refmap.json' for tisvs.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.102] [main/WARN] [mixin/]: Reference map 'tisvs-common-refmap.json' for tisvs-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.111] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.rewrites.chunkio.mixin
+[181月2026 18:03:45.123] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.allocs.mixin
+[181月2026 18:03:45.156] [main/WARN] [mixin/]: Reference map 'mixins.trackwork.refmap.json' for trackwork.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.160] [main/WARN] [mixin/]: Reference map 'unify.refmap.json' for unify.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.163] [main/WARN] [mixin/]: Reference map 'createdeco-forge-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.205] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.threading.chunkio.mixin
+[181月2026 18:03:45.300] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.chunk_access.mixin
+[181月2026 18:03:45.316] [main/WARN] [mixin/]: Reference map 'cookingforblockheads.refmap.json' for cookingforblockheads.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.356] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.server.utils.mixin
+[181月2026 18:03:45.359] [main/WARN] [mixin/]: Reference map 'vsch.refmap.json' for vsch.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:45.362] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.worldgen.general.mixin
+[181月2026 18:03:45.363] [main/INFO] [C2ME Modules Manager/]: Initializing com.ishland.c2me.opts.chunkio.mixin
+[181月2026 18:03:45.422] [main/WARN] [mixin/]: Reference map '' for adapter.init.mixins.json could not be read. If this is a development environment you can ignore this message
+[181月2026 18:03:46.949] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER
+[181月2026 18:03:46.950] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/MouseHandler (java.lang.RuntimeException: Attempted to load class net/minecraft/client/MouseHandler for invalid dist DEDICATED_SERVER)
+[181月2026 18:03:46.951] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.MouseHandler was not found fabric-screen-api-v1.mixins.json:MouseMixin from mod fabric_screen_api_v1
+[181月2026 18:03:46.952] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[181月2026 18:03:46.953] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/Screen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER)
+[181月2026 18:03:46.954] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.Screen was not found fabric-screen-api-v1.mixins.json:ScreenAccessor from mod fabric_screen_api_v1
+[181月2026 18:03:47.159] [main/WARN] [mixin/]: Error loading class: ca/spottedleaf/starlight/common/thread/SchedulingUtil (java.lang.ClassNotFoundException: ca.spottedleaf.starlight.common.thread.SchedulingUtil)
+[181月2026 18:03:47.162] [main/WARN] [mixin/]: Error loading class: net/mcreator/createstuffadditions/procedures/GrapplinWhiskChainsLineProcedure (java.lang.ClassNotFoundException: net.mcreator.createstuffadditions.procedures.GrapplinWhiskChainsLineProcedure)
+[181月2026 18:03:47.165] [main/WARN] [mixin/]: @Mixin target net.mcreator.createstuffadditions.procedures.GrapplinWhiskChainsLineProcedure was not found vsfix.mixins.json:createstuff.GrapplinWhiskChainsLineProceduremixin from mod vsfix
+[181月2026 18:03:47.169] [main/WARN] [mixin/]: Error loading class: net/mcreator/createstuffadditions/procedures/GrapplinWhiskItemInHandTickProcedure (java.lang.ClassNotFoundException: net.mcreator.createstuffadditions.procedures.GrapplinWhiskItemInHandTickProcedure)
+[181月2026 18:03:47.169] [main/WARN] [mixin/]: @Mixin target net.mcreator.createstuffadditions.procedures.GrapplinWhiskItemInHandTickProcedure was not found vsfix.mixins.json:createstuff.GrapplinWhiskItemInHandTickProceduremixin from mod vsfix
+[181月2026 18:03:47.235] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER
+[181月2026 18:03:47.236] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/MultiPlayerGameMode (java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/MultiPlayerGameMode for invalid dist DEDICATED_SERVER)
+[181月2026 18:03:47.237] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.MultiPlayerGameMode was not found mixins.cofhcore.json:MultiPlayerGameModeMixin from mod cofh_core
+[181月2026 18:03:47.776] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[181月2026 18:03:47.782] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[181月2026 18:03:47.785] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[181月2026 18:03:47.788] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[181月2026 18:03:48.045] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[181月2026 18:03:48.055] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER
+[181月2026 18:03:48.057] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/foundation/gui/AbstractSimiScreen (java.lang.RuntimeException: Attempted to load class com/simibubi/create/foundation/gui/AbstractSimiScreen for invalid dist DEDICATED_SERVER)
+[181月2026 18:03:48.087] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.foundation.gui.AbstractSimiScreen was not found create_connected.mixins.json:sequencedgearshift.AbstractSimiScreenAccessor from mod create_connected
+[181月2026 18:03:48.314] [main/WARN] [mixin/]: Error loading class: com/majruszlibrary/item/CustomEnchantment (java.lang.ClassNotFoundException: com.majruszlibrary.item.CustomEnchantment)
+[181月2026 18:03:48.314] [main/WARN] [mixin/]: @Mixin target com.majruszlibrary.item.CustomEnchantment was not found createenchantablemachinery.mixins.json:CustomEnchantmentMixin from mod createenchantablemachinery
+[181月2026 18:03:48.331] [main/WARN] [mixin/]: Error loading class: com/firemerald/additionalplacements/common/ConfigCommon (java.lang.ClassNotFoundException: com.firemerald.additionalplacements.common.ConfigCommon)
+[181月2026 18:03:48.334] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/lithium/common/ai/pathing/PathNodeDefaults (java.lang.ClassNotFoundException: me.jellysquid.mods.lithium.common.ai.pathing.PathNodeDefaults)
+[181月2026 18:03:48.337] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache)
+[181月2026 18:03:48.341] [main/WARN] [mixin/]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: me.jellysquid.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer)
+[181月2026 18:03:48.355] [main/WARN] [mixin/]: Error loading class: cjminecraft/doubleslabs/common/config/DSConfig$Common (java.lang.ClassNotFoundException: cjminecraft.doubleslabs.common.config.DSConfig$Common)
+[181月2026 18:03:48.473] [main/WARN] [mixin/]: Error loading class: com/drmangotea/tfmg/recipes/jei/AdvancedDistillationCategory (java.lang.ClassNotFoundException: com.drmangotea.tfmg.recipes.jei.AdvancedDistillationCategory)
+[181月2026 18:03:48.475] [main/WARN] [mixin/]: @Mixin target com.drmangotea.tfmg.recipes.jei.AdvancedDistillationCategory was not found destroy.mixins.json:compat.tfmg.AdvancedDistillationCategoryMixin from mod destroy
+[181月2026 18:03:48.589] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/model/ModelBakery for invalid dist DEDICATED_SERVER
+[181月2026 18:03:48.591] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/resources/model/ModelBakery (java.lang.RuntimeException: Attempted to load class net/minecraft/client/resources/model/ModelBakery for invalid dist DEDICATED_SERVER)
+[181月2026 18:03:48.597] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.resources.model.ModelBakery was not found mixins.aae.json:client.ModelBakeryMixin from mod advanced_ae
+[181月2026 18:03:48.912] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushBlock)
+[181月2026 18:03:48.913] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushBlockMixin from mod create_central_kitchen
+[181月2026 18:03:48.914] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeBushTopBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeBushTopBlock)
+[181月2026 18:03:48.915] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeBushTopBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeBushTopBlockMixin from mod create_central_kitchen
+[181月2026 18:03:48.918] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeDoubleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock)
+[181月2026 18:03:48.922] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeDoubleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeDoubleStemBlockMixin from mod create_central_kitchen
+[181月2026 18:03:48.926] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeMiddleStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock)
+[181月2026 18:03:48.926] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeMiddleStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeMiddleStemBlockMixin from mod create_central_kitchen
+[181月2026 18:03:48.927] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/CoffeeStemBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.CoffeeStemBlock)
+[181月2026 18:03:48.928] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.CoffeeStemBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.CoffeeStemBlockMixin from mod create_central_kitchen
+[181月2026 18:03:48.928] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/entity/KettleBlockEntity (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.entity.KettleBlockEntity)
+[181月2026 18:03:48.928] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.entity.KettleBlockEntity was not found create_central_kitchen.mixins.json:common.farmersrespite.KettleBlockEntityMixin from mod create_central_kitchen
+[181月2026 18:03:48.930] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/SmallTeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.SmallTeaBushBlock)
+[181月2026 18:03:48.930] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.SmallTeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.SmallTeaBushBlockMixin from mod create_central_kitchen
+[181月2026 18:03:48.931] [main/WARN] [mixin/]: Error loading class: umpaz/farmersrespite/common/block/TeaBushBlock (java.lang.ClassNotFoundException: umpaz.farmersrespite.common.block.TeaBushBlock)
+[181月2026 18:03:48.933] [main/WARN] [mixin/]: @Mixin target umpaz.farmersrespite.common.block.TeaBushBlock was not found create_central_kitchen.mixins.json:common.farmersrespite.TeaBushBlockMixin from mod create_central_kitchen
+[181月2026 18:03:48.933] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/copper_pot/CopperPotBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity)
+[181月2026 18:03:48.935] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.copper_pot.CopperPotBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.CopperPotBlockEntityMixin from mod create_central_kitchen
+[181月2026 18:03:48.939] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[181月2026 18:03:48.942] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityAccessor from mod create_central_kitchen
+[181月2026 18:03:48.943] [main/WARN] [mixin/]: Error loading class: com/sammy/minersdelight/content/block/sticky_basket/StickyBasketBlockEntity (java.lang.ClassNotFoundException: com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity)
+[181月2026 18:03:48.945] [main/WARN] [mixin/]: @Mixin target com.sammy.minersdelight.content.block.sticky_basket.StickyBasketBlockEntity was not found create_central_kitchen.mixins.json:common.minersdelight.StickyBasketBlockEntityMixin from mod create_central_kitchen
+[181月2026 18:03:48.947] [main/WARN] [mixin/]: Error loading class: com/teamabnormals/neapolitan/common/item/DrinkItem (java.lang.ClassNotFoundException: com.teamabnormals.neapolitan.common.item.DrinkItem)
+[181月2026 18:03:48.947] [main/WARN] [mixin/]: @Mixin target com.teamabnormals.neapolitan.common.item.DrinkItem was not found create_central_kitchen.mixins.json:common.neapolitan.DrinkItemMixin from mod create_central_kitchen
+[181月2026 18:03:48.950] [main/WARN] [mixin/]: Error loading class: net/orcinus/overweightfarming/blocks/CropFullBlock (java.lang.ClassNotFoundException: net.orcinus.overweightfarming.blocks.CropFullBlock)
+[181月2026 18:03:48.951] [main/WARN] [mixin/]: @Mixin target net.orcinus.overweightfarming.blocks.CropFullBlock was not found create_central_kitchen.mixins.json:common.overweightfarming.CropFullBlockMixin from mod create_central_kitchen
+[181月2026 18:03:49.065] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/SimpleAnimatedParticle (java.lang.ClassNotFoundException: net.minecraft.client.particle.SimpleAnimatedParticle)
+[181月2026 18:03:49.089] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER
+[181月2026 18:03:49.091] [main/WARN] [mixin/]: Error loading class: com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData (java.lang.RuntimeException: Attempted to load class com/tacz/guns/api/modifier/IAttachmentModifier$DiagramsData for invalid dist DEDICATED_SERVER)
+[181月2026 18:03:49.298] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[181月2026 18:03:50.484] [main/INFO] [Smooth Boot (Reloaded)/]: Smooth Boot (Reloaded) config initialized
+[181月2026 18:03:50.591] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_216202_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagOrElementLocationMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[181月2026 18:03:52.487] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (32.05 s after launch)
+[181月2026 18:03:52.923] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[181月2026 18:03:52.936] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin from mod modernfix should be final
+[181月2026 18:03:55.997] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3502 milliseconds
+[181月2026 18:04:01.202] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[181月2026 18:04:02.185] [main/INFO] [com.almostreliable.merequester.MERequester/]: Registering content
+[181月2026 18:04:02.711] [modloading-worker-0/INFO] [Star Wars Planets/]: Hello There ✨!
+[181月2026 18:04:03.179] [modloading-worker-0/INFO] [LowDragLib/]: LowDragLib is initializing on platform: Forge
+[181月2026 18:04:03.233] [modloading-worker-0/INFO] [Star Wars Planets/]: Hello There !
+[181月2026 18:04:03.261] [modloading-worker-0/WARN] [Additional Placements/]: During block registration you may recieve several reports of "Potentially Dangerous alternative prefix `additionalplacements`". Ignore these, they are intended.
+[181月2026 18:04:03.269] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for industrialforegoing
+[181月2026 18:04:03.281] [modloading-worker-0/INFO] [PluginManager/]: Found FeaturePluginInstance for class PatchouliPlugin for plugin patchouli
+[181月2026 18:04:03.282] [modloading-worker-0/INFO] [PluginManager/]: Found FeaturePluginInstance for class CuriosPlugin for plugin curios
+[181月2026 18:04:03.285] [modloading-worker-0/INFO] [PluginManager/]: Constructed class PatchouliPlugin for plugin patchouli for mod industrialforegoing
+[181月2026 18:04:03.285] [modloading-worker-0/INFO] [PluginManager/]: Constructed class CuriosPlugin for plugin curios for mod industrialforegoing
+[181月2026 18:04:03.287] [modloading-worker-0/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class PatchouliPlugin
+[181月2026 18:04:03.296] [modloading-worker-0/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class CuriosPlugin
+[181月2026 18:04:03.309] [modloading-worker-0/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class PatchouliPlugin
+[181月2026 18:04:03.309] [modloading-worker-0/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class CuriosPlugin
+[181月2026 18:04:03.326] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[181月2026 18:04:03.685] [modloading-worker-0/INFO] [PluginManager/]: Executing phase INIT for plugin class PatchouliPlugin
+[181月2026 18:04:03.686] [modloading-worker-0/INFO] [PluginManager/]: Executing phase INIT for plugin class CuriosPlugin
+[181月2026 18:04:03.794] [modloading-worker-0/INFO] [mixin/]: create_interactive-common.mixins.json:AbstractContraptionEntityAccessor from mod create_interactive->@Accessor[FIELD_GETTER]::getStalled()Lnet/minecraft/network/syncher/EntityDataAccessor; should be static as its target is
+[181月2026 18:04:03.878] [modloading-worker-0/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class PatchouliPlugin
+[181月2026 18:04:03.879] [modloading-worker-0/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class CuriosPlugin
+[181月2026 18:04:03.997] [modloading-worker-0/INFO] [oelib/]: Data registry initialized with 0 registered types
+[181月2026 18:04:04.040] [modloading-worker-0/INFO] [com.verr1.controlcraft.ControlCraft/]: Registering Creative Tabs
+[181月2026 18:04:04.050] [modloading-worker-0/INFO] [oelib/]: No datapack data loaded yet; deferring expression engine initialization
+[181月2026 18:04:04.062] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[181月2026 18:04:04.062] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[181月2026 18:04:04.808] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[181月2026 18:04:05.034] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[181月2026 18:04:05.034] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[181月2026 18:04:05.034] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[181月2026 18:04:05.200] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[181月2026 18:04:05.204] [modloading-worker-0/ERROR] [structurize/]: ----------------------------------------------------------------- 
  Invalid DataFixer detected, schematics might not paste correctly! 
 The following DataFixer was added: class org.embeddedt.modernfix.dfu.LazyDataFixer
 -----------------------------------------------------------------
-[181月2026 17:46:24.110] [modloading-worker-0/INFO] [Advanced Peripherals/]: AdvancedPeripherals says hello!
-[181月2026 17:46:24.176] [modloading-worker-0/INFO] [pneumaticcraft/]: Thirdparty integration activated for [cofh_core,immersiveengineering,computercraft,jei,mekanism,curios,patchouli,create]
-[181月2026 17:46:24.219] [modloading-worker-0/INFO] [Advanced Peripherals/]: powah not loaded, skip integration loading
-[181月2026 17:46:24.223] [modloading-worker-0/WARN] [Advanced Peripherals/]: Failed to load integration for powah
-[181月2026 17:46:24.230] [modloading-worker-0/WARN] [Advanced Peripherals/]: Successfully loaded integration for create
-[181月2026 17:46:24.240] [modloading-worker-0/INFO] [cn.dancingsnow.bigger_ae2.BiggerAE2Mod/]: Base
-[181月2026 17:46:24.245] [modloading-worker-0/WARN] [Advanced Peripherals/]: Successfully loaded integration for mekanism
-[181月2026 17:46:24.275] [modloading-worker-0/INFO] [Advanced Peripherals/]: botania not loaded, skip integration loading
-[181月2026 17:46:24.285] [modloading-worker-0/WARN] [Advanced Peripherals/]: Failed to load integration for botania
-[181月2026 17:46:24.386] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[181月2026 17:46:24.391] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[181月2026 17:46:24.393] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[181月2026 17:46:24.401] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[181月2026 17:46:24.407] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[181月2026 17:46:24.414] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[181月2026 17:46:24.414] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[181月2026 17:46:24.422] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
-[181月2026 17:46:24.457] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
-[181月2026 17:46:26.375] [modloading-worker-0/INFO] [Create: Interiors/]: Create: Interiors v0.5.6 initializing! Create version: 0.5.1h on platform: Forge
-[181月2026 17:46:27.473] [modloading-worker-0/INFO] [VLib/]: VLib init
-[181月2026 17:46:27.525] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[181月2026 17:46:27.569] [modloading-worker-0/INFO] [vs_sails_common/]: Common Init
-[181月2026 17:46:27.653] [modloading-worker-0/INFO] [vs_sails_common/]: Sailing time.
-[181月2026 17:46:27.668] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock from mod valkyrienskies::handler$bak000$valkyrienskies$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[181月2026 17:46:27.675] [modloading-worker-0/INFO] [vs_sails_common/]: Registering sounds for vs_sails
-[181月2026 17:46:27.769] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
-[181月2026 17:46:27.776] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
-[181月2026 17:46:27.794] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
-[181月2026 17:46:27.823] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
-[181月2026 17:46:27.824] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block: computerized_display_source
-[181月2026 17:46:27.876] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin does not load on server side, skipping
-[181月2026 17:46:27.887] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block item: computerized_display_source
-[181月2026 17:46:27.896] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
-[181月2026 17:46:27.905] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing tile: computerized_display_source
-[181月2026 17:46:27.913] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source ldlib
-[181月2026 17:46:27.919] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block: computerized_display_target
-[181月2026 17:46:27.924] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source gcyr
-[181月2026 17:46:27.926] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block item: computerized_display_target
-[181月2026 17:46:27.933] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source tacz
-[181月2026 17:46:27.938] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing tile: computerized_display_target
-[181月2026 17:46:27.946] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source gtceu
-[181月2026 17:46:27.951] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block: computerized_redstone_link
-[181月2026 17:46:27.954] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block item: computerized_redstone_link
-[181月2026 17:46:27.959] [modloading-worker-0/INFO] [KubeJS/]: Done in 164.6 ms
-[181月2026 17:46:27.962] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing tile: computerized_redstone_link
-[181月2026 17:46:27.981] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block: train_network_observer
-[181月2026 17:46:27.985] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block item: train_network_observer
-[181月2026 17:46:27.989] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing tile: train_network_observer
-[181月2026 17:46:27.992] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Registering all registries.
-[181月2026 17:46:27.994] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
-[181月2026 17:46:27.997] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Registered all registries.
-[181月2026 17:46:29.075] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\lizuo\project\mc\yala\config\create_central_kitchen-common.toml is not correct. Correcting
-[181月2026 17:46:29.088] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key integration.enableHarvesterSupportForFarmersRespite was corrected from null to its default, true. 
-[181月2026 17:46:29.677] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
-[181月2026 17:46:29.699] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
-[181月2026 17:46:29.810] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
-[181月2026 17:46:29.832] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_rendering_data_request_data
-[181月2026 17:46:29.821] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
-[181月2026 17:46:29.939] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_rendering_data_request_part
-[181月2026 17:46:29.898] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
-[181月2026 17:46:30.243] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
-[181月2026 17:46:30.256] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
-[181月2026 17:46:30.295] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
-[181月2026 17:46:30.308] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-[181月2026 17:46:30.349] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: petrolpark, class com.petrolpark.Petrolpark
+[181月2026 18:04:05.228] [modloading-worker-0/ERROR] [org.arbor.extrasounds.ExtraSounds/]: [ExtraSounds] Unexpected error has caught
+java.lang.NullPointerException: Cannot invoke "Object.getClass()" because the return value of "java.lang.reflect.Field.get(Object)" is null
+	at org.arbor.extrasounds.ExtraSounds.initCategoryLoader(ExtraSounds.java:136) ~[extrasounds-1.20.1-forge-1.3.jar%23404!/:?]
+	at org.arbor.extrasounds.ExtraSounds.<init>(ExtraSounds.java:64) ~[extrasounds-1.20.1-forge-1.3.jar%23404!/:?]
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.0.jar%23491!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.0.jar%23490!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1310) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
+[181月2026 18:04:05.793] [modloading-worker-0/INFO] [Advanced Peripherals/]: AdvancedPeripherals says hello!
+[181月2026 18:04:05.813] [modloading-worker-0/INFO] [pneumaticcraft/]: Thirdparty integration activated for [cofh_core,immersiveengineering,computercraft,jei,mekanism,curios,patchouli,create]
+[181月2026 18:04:05.941] [modloading-worker-0/INFO] [Advanced Peripherals/]: powah not loaded, skip integration loading
+[181月2026 18:04:05.942] [modloading-worker-0/WARN] [Advanced Peripherals/]: Failed to load integration for powah
+[181月2026 18:04:05.944] [modloading-worker-0/WARN] [Advanced Peripherals/]: Successfully loaded integration for create
+[181月2026 18:04:05.950] [modloading-worker-0/WARN] [Advanced Peripherals/]: Successfully loaded integration for mekanism
+[181月2026 18:04:05.950] [modloading-worker-0/INFO] [cn.dancingsnow.bigger_ae2.BiggerAE2Mod/]: Base
+[181月2026 18:04:05.970] [modloading-worker-0/INFO] [Advanced Peripherals/]: botania not loaded, skip integration loading
+[181月2026 18:04:05.970] [modloading-worker-0/WARN] [Advanced Peripherals/]: Failed to load integration for botania
+[181月2026 18:04:06.111] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[181月2026 18:04:06.112] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[181月2026 18:04:06.113] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[181月2026 18:04:06.114] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[181月2026 18:04:06.115] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[181月2026 18:04:06.115] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[181月2026 18:04:06.115] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[181月2026 18:04:06.119] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.3 has initialized, ready to support your Create add-ons!
+[181月2026 18:04:06.196] [modloading-worker-0/INFO] [Railways/]: Steam 'n' Rails v1.6.7 initializing! Commit hash: 0a7cc000d6c7a1419919bc3e315bc62932287eb9 on Create version: 0.5.1j on platform: Forge
+[181月2026 18:04:06.722] [modloading-worker-0/INFO] [Create: Interiors/]: Create: Interiors v0.5.6 initializing! Create version: 0.5.1h on platform: Forge
+[181月2026 18:04:07.337] [modloading-worker-0/INFO] [VLib/]: VLib init
+[181月2026 18:04:07.358] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[181月2026 18:04:07.399] [modloading-worker-0/INFO] [vs_sails_common/]: Common Init
+[181月2026 18:04:07.475] [modloading-worker-0/INFO] [vs_sails_common/]: Sailing time.
+[181月2026 18:04:07.479] [modloading-worker-0/INFO] [vs_sails_common/]: Registering sounds for vs_sails
+[181月2026 18:04:07.579] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock from mod valkyrienskies::handler$bak000$valkyrienskies$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[181月2026 18:04:07.596] [modloading-worker-0/INFO] [KubeJS/]: Loaded common.properties
+[181月2026 18:04:07.599] [modloading-worker-0/INFO] [KubeJS/]: Loaded dev.properties
+[181月2026 18:04:07.618] [modloading-worker-0/INFO] [KubeJS/]: Looking for KubeJS plugins...
+[181月2026 18:04:07.625] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source kubejs
+[181月2026 18:04:07.633] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin does not load on server side, skipping
+[181月2026 18:04:07.633] [modloading-worker-0/WARN] [KubeJS/]: Plugin dev.latvian.mods.kubejs.integration.forge.gamestages.GameStagesIntegration does not have required mod gamestages loaded, skipping
+[181月2026 18:04:07.633] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source ldlib
+[181月2026 18:04:07.637] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source gcyr
+[181月2026 18:04:07.642] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source tacz
+[181月2026 18:04:07.643] [modloading-worker-0/INFO] [KubeJS/]: Found plugin source gtceu
+[181月2026 18:04:07.657] [modloading-worker-0/INFO] [KubeJS/]: Done in 38.54 ms
+[181月2026 18:04:07.798] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block: computerized_display_source
+[181月2026 18:04:07.799] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block item: computerized_display_source
+[181月2026 18:04:07.801] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing tile: computerized_display_source
+[181月2026 18:04:07.808] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block: computerized_display_target
+[181月2026 18:04:07.809] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block item: computerized_display_target
+[181月2026 18:04:07.810] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing tile: computerized_display_target
+[181月2026 18:04:07.813] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block: computerized_redstone_link
+[181月2026 18:04:07.813] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block item: computerized_redstone_link
+[181月2026 18:04:07.817] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing tile: computerized_redstone_link
+[181月2026 18:04:07.821] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block: train_network_observer
+[181月2026 18:04:07.827] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing block item: train_network_observer
+[181月2026 18:04:07.828] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Queuing tile: train_network_observer
+[181月2026 18:04:07.829] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Registering all registries.
+[181月2026 18:04:07.829] [modloading-worker-0/INFO] [de.saschat.createcomputing.CreateComputingMod/]: Registered all registries.
+[181月2026 18:04:08.112] [modloading-worker-0/INFO] [Create Deco/]: Registering items for Create Deco
+[181月2026 18:04:08.119] [modloading-worker-0/INFO] [create_new_age/]: Hello 1.20.1 Create!
+[181月2026 18:04:08.132] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_rendering_data_request_data
+[181月2026 18:04:08.134] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_rendering_data_request_part
+[181月2026 18:04:08.140] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading Rhino Minecraft remapper...
+[181月2026 18:04:08.145] [modloading-worker-0/INFO] [dev.latvian.mods.rhino.mod.util.RhinoProperties/]: Rhino properties loaded.
+[181月2026 18:04:08.146] [modloading-worker-0/INFO] [Create Deco/]: Registering blocks for Create Deco
+[181月2026 18:04:08.149] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Loading mappings for 1.20.1
+[181月2026 18:04:08.207] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[181月2026 18:04:08.279] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.137 s
+[181月2026 18:04:08.461] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
+[181月2026 18:04:08.462] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: petrolpark, class com.petrolpark.Petrolpark
 java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
-	at com.petrolpark.Petrolpark.<clinit>(Petrolpark.java:115) ~[%5BPetrolpark%20的库%5D%20petrolpark-1.20.1-1.4.2-all.jar%23310!/:1.4.2]
+	at com.petrolpark.Petrolpark.<clinit>(Petrolpark.java:115) ~[%5BPetrolpark%20的库%5D%20petrolpark-1.20.1-1.4.2-all.jar%23305!/:1.4.2]
 	at jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method) ~[?:?]
 	at jdk.internal.misc.Unsafe.ensureClassInitialized(Unsafe.java:1160) ~[?:?]
 	at jdk.internal.reflect.MethodHandleAccessorFactory.ensureClassInitialized(MethodHandleAccessorFactory.java:300) ~[?:?]
@@ -381,8 +254,8 @@ java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load cl
 	at java.lang.reflect.Constructor.acquireConstructorAccessor(Constructor.java:549) ~[?:?]
 	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
 	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.0.jar%23501!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.0.jar%23491!/:?]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.0.jar%23490!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
 	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
 	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
@@ -402,52 +275,73 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
 	... 18 more
-[181月2026 17:46:30.890] [modloading-worker-0/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_215924_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagEntryMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[181月2026 17:46:30.811] [modloading-worker-0/INFO] [Rhino Script Remapper/]: Done in 0.558 s
-[181月2026 17:46:31.218] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_save_schem_stream_request_data
-[181月2026 17:46:31.226] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_save_schem_stream_request_part
-[181月2026 17:46:31.251] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_load_schem_stream_request_failure
-[181月2026 17:46:31.262] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_load_schem_stream_send_part
-[181月2026 17:46:31.266] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_schem_networking_load_schematic
-[181月2026 17:46:31.380] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_gravity_settings_request_gravity_vectors
-[181月2026 17:46:31.435] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_gravity_settings_try_update_gravity_vectors
-[181月2026 17:46:31.444] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 0 milliseconds
-[181月2026 17:46:31.451] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_roles_settings_request_role_data
-[181月2026 17:46:31.461] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_roles_settings_try_update_roles_settings
-[181月2026 17:46:31.467] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
-[181月2026 17:46:31.473] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_roles_settings_try_remove_role
-[181月2026 17:46:31.474] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
-[181月2026 17:46:31.474] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_roles_settings_try_add_new_role
-[181月2026 17:46:31.494] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
-[181月2026 17:46:31.502] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
-[181月2026 17:46:31.503] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_role_manager_request_players_roles_data
-[181月2026 17:46:31.504] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
-[181月2026 17:46:31.505] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_role_manager_try_change_player_role
-[181月2026 17:46:31.505] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
-[181月2026 17:46:31.508] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_simple_messager_requset_state
-[181月2026 17:46:31.510] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
-[181月2026 17:46:31.520] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
-[181月2026 17:46:31.521] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_simple_messager_send_state_update
-[181月2026 17:46:31.527] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
-[181月2026 17:46:31.533] [modloading-worker-0/INFO] [GregTechCEu/]: GregTechCEu is initializing on platform: Forge
-[181月2026 17:46:31.573] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_limits_request_server_limits
-[181月2026 17:46:31.576] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_limits_send_updated_server_limits
-[181月2026 17:46:31.645] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/GuiGraphics for invalid dist DEDICATED_SERVER
-[181月2026 17:46:31.648] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_connection_mode_primary_connection
-[181月2026 17:46:31.652] [modloading-worker-0/INFO] [Configuration/FileWatching]: Registered gtceu config for auto-sync function
-[181月2026 17:46:31.652] [modloading-worker-0/INFO] [Configuration/FileWatching]: Registered gcyr config for auto-sync function
-[181月2026 17:46:31.658] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/GuiGraphics for invalid dist DEDICATED_SERVER
-[181月2026 17:46:31.654] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_connection_mode_secondary_connection
-[181月2026 17:46:31.672] [modloading-worker-0/INFO] [GregTechCEu/]: High-Tier is Disabled.
-[181月2026 17:46:31.672] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for titanium
-[181月2026 17:46:31.683] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_rope_mode_primary_connection
-[181月2026 17:46:31.690] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/lowdragmc/lowdraglib/client/scene/WorldSceneRenderer for invalid dist DEDICATED_SERVER
-[181月2026 17:46:31.727] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_hydraulics_mode_primary_connection
-[181月2026 17:46:31.728] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_hydraulics_mode_secondary_connection
-[181月2026 17:46:31.745] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_phys_rope_mode_primary_connection
-[181月2026 17:46:31.764] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_slider_mode_primary_connection
-[181月2026 17:46:31.780] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_sync_rotation_mode_primary_connection
-[181月2026 17:46:31.799] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Starting Minecraft with arguments:
+[181月2026 18:04:08.593] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[181月2026 18:04:08.604] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[181月2026 18:04:08.819] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_save_schem_stream_request_data
+[181月2026 18:04:08.819] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_save_schem_stream_request_part
+[181月2026 18:04:08.822] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_load_schem_stream_request_failure
+[181月2026 18:04:08.830] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:tr_load_schem_stream_send_part
+[181月2026 18:04:08.839] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_schem_networking_load_schematic
+[181月2026 18:04:08.901] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_gravity_settings_request_gravity_vectors
+[181月2026 18:04:08.905] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_gravity_settings_try_update_gravity_vectors
+[181月2026 18:04:08.921] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_roles_settings_request_role_data
+[181月2026 18:04:08.923] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_roles_settings_try_update_roles_settings
+[181月2026 18:04:08.934] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_roles_settings_try_remove_role
+[181月2026 18:04:08.938] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_roles_settings_try_add_new_role
+[181月2026 18:04:08.946] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_role_manager_request_players_roles_data
+[181月2026 18:04:08.949] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_player_role_manager_try_change_player_role
+[181月2026 18:04:08.953] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_simple_messager_requset_state
+[181月2026 18:04:08.957] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_simple_messager_send_state_update
+[181月2026 18:04:09.028] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_limits_request_server_limits
+[181月2026 18:04:09.032] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_limits_send_updated_server_limits
+[181月2026 18:04:09.076] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/GuiGraphics for invalid dist DEDICATED_SERVER
+[181月2026 18:04:09.081] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/GuiGraphics for invalid dist DEDICATED_SERVER
+[181月2026 18:04:09.093] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_connection_mode_primary_connection
+[181月2026 18:04:09.097] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_connection_mode_secondary_connection
+[181月2026 18:04:09.115] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/lowdragmc/lowdraglib/client/scene/WorldSceneRenderer for invalid dist DEDICATED_SERVER
+[181月2026 18:04:09.123] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_rope_mode_primary_connection
+[181月2026 18:04:09.143] [modloading-worker-0/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_215924_ in modernfix-forge.mixins.json:perf.tag_id_caching.TagEntryMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[181月2026 18:04:09.156] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_hydraulics_mode_primary_connection
+[181月2026 18:04:09.158] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_hydraulics_mode_secondary_connection
+[181月2026 18:04:09.174] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_phys_rope_mode_primary_connection
+[181月2026 18:04:09.185] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_slider_mode_primary_connection
+[181月2026 18:04:09.194] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_sync_rotation_mode_primary_connection
+[181月2026 18:04:09.205] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_thruster_mode_primary_connection
+[181月2026 18:04:09.211] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_grav_changer_mode_primary_connection
+[181月2026 18:04:09.211] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_grav_changer_mode_secondary_connection
+[181月2026 18:04:09.219] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_disable_connections_mode_primary_connection
+[181月2026 18:04:09.220] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_disable_connections_mode_secondary_connection
+[181月2026 18:04:09.230] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_schem_mode_primary_connection
+[181月2026 18:04:09.230] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_schem_mode_secondary_connection
+[181月2026 18:04:09.235] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_scale_mode_primary_connection
+[181月2026 18:04:09.241] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_strip_mode_primary_connection
+[181月2026 18:04:09.248] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_ship_remover_primary_connection
+[181月2026 18:04:09.256] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_toolgun_request_remove_last_constraint
+[181月2026 18:04:09.260] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_toolgun_toolgun_was_reset
+[181月2026 18:04:09.262] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_toolgun_ask_if_i_have_access
+[181月2026 18:04:09.269] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_physgun_state_changed
+[181月2026 18:04:09.667] [modloading-worker-0/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 0 Datafixer optimizations took 3 milliseconds
+[181月2026 18:04:09.698] [modloading-worker-0/INFO] [GregTechCEu/]: GregTechCEu is initializing on platform: Forge
+[181月2026 18:04:09.701] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[181月2026 18:04:09.705] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[181月2026 18:04:09.708] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[181月2026 18:04:09.710] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[181月2026 18:04:09.713] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[181月2026 18:04:09.717] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Nature's Spirit
+[181月2026 18:04:09.721] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[181月2026 18:04:09.726] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[181月2026 18:04:09.729] [modloading-worker-0/INFO] [Railways/]: Registering tracks for TerraFirmaCraft
+[181月2026 18:04:09.745] [modloading-worker-0/INFO] [KubeJS/]: Added bindings for script type STARTUP from mod 'almostunified': [AlmostUnified]
+[181月2026 18:04:09.850] [modloading-worker-0/INFO] [Configuration/FileWatching]: Registered gtceu config for auto-sync function
+[181月2026 18:04:09.862] [modloading-worker-0/INFO] [KubeJS Startup/]: example.js#5: Hello, World! (Loaded startup scripts)
+[181月2026 18:04:09.862] [modloading-worker-0/INFO] [GregTechCEu/]: High-Tier is Disabled.
+[181月2026 18:04:09.865] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:example.js in 0.11 s
+[181月2026 18:04:09.872] [modloading-worker-0/INFO] [Configuration/FileWatching]: Registered gcyr config for auto-sync function
+[181月2026 18:04:09.873] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 1.586 s with 0 errors and 0 warnings
+[181月2026 18:04:09.904] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for titanium
+[181月2026 18:04:09.970] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
+[181月2026 18:04:09.983] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
+[181月2026 18:04:10.033] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Starting Minecraft with arguments:
 --module-path=libraries/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar;libraries/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar;libraries/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar;libraries/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar;libraries/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar;libraries/org/ow2/asm/asm/9.7/asm-9.7.jar;libraries/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar
 --add-modules=ALL-MODULE-PATH
 --add-opens=java.base/java.util.jar=cpw.mods.securejarhandler
@@ -458,193 +352,58 @@ Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/cli
 -DignoreList=bootstraplauncher-1.1.2.jar,securejarhandler-2.1.10.jar,asm-commons-9.7.jar,asm-util-9.7.jar,asm-analysis-9.7.jar,asm-tree-9.7.jar,asm-9.7.jar,JarJarFileSystems-0.3.19.jar
 -DlibraryDirectory=libraries
 -DlegacyClassPath=libraries/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar;libraries/org/ow2/asm/asm/9.7/asm-9.7.jar;libraries/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar;libraries/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar;libraries/org/ow2/asm/asm-util/9.7/asm-util-9.7.jar;libraries/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar;libraries/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar;libraries/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar;libraries/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar;libraries/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar;libraries/net/minecraftforge/coremods/5.1.6/coremods-5.1.6.jar;libraries/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar;libraries/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar;libraries/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar;libraries/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar;libraries/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar;libraries/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar;libraries/net/jodah/typetools/0.6.3/typetools-0.6.3.jar;libraries/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar;libraries/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar;libraries/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar;libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar;libraries/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar;libraries/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar;libraries/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar;libraries/net/minecraftforge/fmlloader/1.20.1-47.3.0/fmlloader-1.20.1-47.3.0.jar;libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-extra.jar;libraries/com/github/oshi/oshi-core/6.2.2/oshi-core-6.2.2.jar;libraries/com/google/code/gson/gson/2.10/gson-2.10.jar;libraries/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar;libraries/com/google/guava/guava/31.1-jre/guava-31.1-jre.jar;libraries/com/mojang/authlib/4.0.43/authlib-4.0.43.jar;libraries/com/mojang/brigadier/1.1.8/brigadier-1.1.8.jar;libraries/com/mojang/datafixerupper/6.0.8/datafixerupper-6.0.8.jar;libraries/com/mojang/logging/1.1.1/logging-1.1.1.jar;libraries/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar;libraries/io/netty/netty-buffer/4.1.82.Final/netty-buffer-4.1.82.Final.jar;libraries/io/netty/netty-codec/4.1.82.Final/netty-codec-4.1.82.Final.jar;libraries/io/netty/netty-common/4.1.82.Final/netty-common-4.1.82.Final.jar;libraries/io/netty/netty-handler/4.1.82.Final/netty-handler-4.1.82.Final.jar;libraries/io/netty/netty-resolver/4.1.82.Final/netty-resolver-4.1.82.Final.jar;libraries/io/netty/netty-transport/4.1.82.Final/netty-transport-4.1.82.Final.jar;libraries/io/netty/netty-transport-classes-epoll/4.1.82.Final/netty-transport-classes-epoll-4.1.82.Final.jar;libraries/io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-x86_64.jar;libraries/io/netty/netty-transport-native-epoll/4.1.82.Final/netty-transport-native-epoll-4.1.82.Final-linux-aarch_64.jar;libraries/io/netty/netty-transport-native-unix-common/4.1.82.Final/netty-transport-native-unix-common-4.1.82.Final.jar;libraries/it/unimi/dsi/fastutil/8.5.9/fastutil-8.5.9.jar;libraries/net/java/dev/jna/jna/5.12.1/jna-5.12.1.jar;libraries/net/java/dev/jna/jna-platform/5.12.1/jna-platform-5.12.1.jar;libraries/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar;libraries/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar;libraries/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar;libraries/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar;libraries/org/apache/logging/log4j/log4j-slf4j2-impl/2.19.0/log4j-slf4j2-impl-2.19.0.jar;libraries/org/joml/joml/1.10.5/joml-1.10.5.jar;libraries/org/slf4j/slf4j-api/2.0.1/slf4j-api-2.0.1.jar
-[181月2026 17:46:31.799] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_thruster_mode_primary_connection
-[181月2026 17:46:31.808] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :  __  __     _                                                __    _     
-[181月2026 17:46:31.810] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_grav_changer_mode_primary_connection
-[181月2026 17:46:31.821] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |  \/  |   (_)    _ _      ___     __       _ _   __ _      / _|  | |_   
-[181月2026 17:46:31.825] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_grav_changer_mode_secondary_connection
-[181月2026 17:46:31.825] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : | |\/| |   | |   | ' \    / -_)   / _|     | '_| / _` |    |  _|  |  _|  
-[181月2026 17:46:31.827] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |_|__|_|  _|_|_  |_||_|   \___|   \__|_   _|_|_  \__,_|   _|_|_   _\__|  
-[181月2026 17:46:31.828] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_disable_connections_mode_primary_connection
-[181月2026 17:46:31.829] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""| 
-[181月2026 17:46:31.830] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_disable_connections_mode_secondary_connection
-[181月2026 17:46:31.830] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' 
-[181月2026 17:46:31.836] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :   _____                                     _      _                     
-[181月2026 17:46:31.836] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_schem_mode_primary_connection
-[181月2026 17:46:31.839] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :  |_   _|    _ _   __ _    _ _      ___     (_)    | |_                   
-[181月2026 17:46:31.840] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_schem_mode_secondary_connection
-[181月2026 17:46:31.842] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :    | |     | '_| / _` |  | ' \    (_-<     | |    |  _|                  
-[181月2026 17:46:31.848] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :   _|_|_   _|_|_  \__,_|  |_||_|   /__/_   _|_|_   _\__|                  
-[181月2026 17:46:31.844] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_scale_mode_primary_connection
-[181月2026 17:46:31.849] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|                 
-[181月2026 17:46:31.851] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_strip_mode_primary_connection
-[181月2026 17:46:31.854] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'                 
-[181月2026 17:46:31.856] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :    ___              _       _                      _  _                  
-[181月2026 17:46:31.856] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :   | _ \   __ _     (_)     | |   __ __ __ __ _    | || |                 
-[181月2026 17:46:31.856] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :   |   /  / _` |    | |     | |   \ V  V // _` |    \_, |                 
-[181月2026 17:46:31.858] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :   |_|_\  \__,_|   _|_|_   _|_|_   \_/\_/ \__,_|   _|__/                  
-[181月2026 17:46:31.858] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_toolgun_command_ship_remover_primary_connection
-[181月2026 17:46:31.862] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : _|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_|"""""|_| """"|                 
-[181月2026 17:46:31.862] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : "`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-'"`-0-0-' (4.0.0-beta.16+1.20.1) 
-[181月2026 17:46:31.864] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_toolgun_request_remove_last_constraint
-[181月2026 17:46:31.873] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :                                                                          
-[181月2026 17:46:31.886] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_toolgun_toolgun_was_reset
-[181月2026 17:46:31.915] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_toolgun_ask_if_i_have_access
-[181月2026 17:46:31.925] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id valkyrien_mod:c2s_server_physgun_state_changed
-[181月2026 17:46:31.977] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for functionalstorage
-[181月2026 17:46:31.984] [modloading-worker-0/INFO] [com.liberty.mekanism.addon.adastra.ForgeMod/]: Registered 16 items from the mod
-[181月2026 17:46:32.000] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: jecharacters, class me.towdium.jecharacters.forge.JustEnoughCharactersForge
-java.lang.NoClassDefFoundError: net/minecraft/client/searchtree/SuffixArray
-	at me.towdium.jecharacters.forge.JustEnoughCharactersForge.<init>(JustEnoughCharactersForge.java:25) ~[jecharacters-1.20.1-forge-4.5.6.jar%23432!/:4.5.6]
-	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
-	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.0.jar%23501!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1310) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-Caused by: java.lang.ClassNotFoundException: net.minecraft.client.searchtree.SuffixArray
-	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	... 13 more
-[181月2026 17:46:32.028] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
-[181月2026 17:46:32.039] [modloading-worker-0/INFO] [AE2 MEGA Things/]: Initializing integration with appmek
-[181月2026 17:46:32.049] [modloading-worker-0/INFO] [MEGA Cells/]: Initialised items.
-[181月2026 17:46:32.078] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway blocks
-[181月2026 17:46:32.095] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file C:\Users\lizuo\project\mc\yala\config\createaddition-common.toml is not correct. Correcting
-[181月2026 17:46:32.092] [modloading-worker-0/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/KeyMapping for invalid dist DEDICATED_SERVER
-[181月2026 17:46:32.098] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
-[181月2026 17:46:32.101] [modloading-worker-0/INFO] [MEGA Cells/]: Initialised blocks.
-[181月2026 17:46:32.098] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: imblocker, class io.github.reserveword.imblocker.IMBlocker
-java.lang.ExceptionInInitializerError: null
-	at jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method) ~[?:?]
-	at jdk.internal.misc.Unsafe.ensureClassInitialized(Unsafe.java:1160) ~[?:?]
-	at jdk.internal.reflect.MethodHandleAccessorFactory.ensureClassInitialized(MethodHandleAccessorFactory.java:300) ~[?:?]
-	at jdk.internal.reflect.MethodHandleAccessorFactory.newConstructorAccessor(MethodHandleAccessorFactory.java:103) ~[?:?]
-	at jdk.internal.reflect.ReflectionFactory.newConstructorAccessor(ReflectionFactory.java:200) ~[?:?]
-	at java.lang.reflect.Constructor.acquireConstructorAccessor(Constructor.java:549) ~[?:?]
-	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499) ~[?:?]
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
-	at net.minecraftforge.fml.javafmlmod.FMLModContainer.constructMod(FMLModContainer.java:70) ~[javafmllanguage-1.20.1-47.3.0.jar%23501!/:?]
-	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:124) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:387) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1310) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1841) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1806) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) ~[?:?]
-Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/KeyMapping for invalid dist DEDICATED_SERVER
-	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:1.0]
-	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
-	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
-	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
-	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
-	at io.github.reserveword.imblocker.IMBlocker.<clinit>(IMBlocker.java:28) ~[%5B输入法冲突修复%5D%20IMBlocker-5.4.6-forge+1.17-1.20.4.jar%23344!/:5.4.6]
-	... 17 more
-[181月2026 17:46:32.102] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.fe_at_max_rpm was corrected from null to its default, 480. 
-[181月2026 17:46:32.111] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.max_stress was corrected from null to its default, 16384. 
-[181月2026 17:46:32.112] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.audio_enabled was corrected from null to its default, true. 
-[181月2026 17:46:32.113] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key electric_motor was corrected from null to its default, SimpleCommentedConfig:{}. 
-[181月2026 17:46:32.115] [modloading-worker-0/INFO] [MEGA Cells/]: Initialised block entities.
-[181月2026 17:46:32.116] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key electric_motor.motor_rpm_range was corrected from null to its default, 256. 
-[181月2026 17:46:32.122] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key electric_motor.motor_min_consumption was corrected from null to its default, 8. 
-[181月2026 17:46:32.124] [modloading-worker-0/INFO] [MEGA Cells/]: Initialised Applied Mekanistics integration.
-[181月2026 17:46:32.124] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key electric_motor.motor_max_input was corrected from null to its default, 5000. 
-[181月2026 17:46:32.126] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key electric_motor.motor_capacity was corrected from null to its default, 5000. 
-[181月2026 17:46:32.130] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key alternator was corrected from null to its default, SimpleCommentedConfig:{}. 
-[181月2026 17:46:32.134] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway items
-[181月2026 17:46:32.135] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key alternator.generator_max_output was corrected from null to its default, 5000. 
-[181月2026 17:46:32.136] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key alternator.generator_capacity was corrected from null to its default, 5000. 
-[181月2026 17:46:32.137] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key alternator.generator_efficiency was corrected from null to its default, 0.75. 
-[181月2026 17:46:32.148] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key rolling_mill was corrected from null to its default, SimpleCommentedConfig:{}. 
-[181月2026 17:46:32.150] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key rolling_mill.rolling_mill_processing_duration was corrected from null to its default, 120. 
-[181月2026 17:46:32.152] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key rolling_mill.rolling_mill_stress was corrected from null to its default, 8. 
-[181月2026 17:46:32.155] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires was corrected from null to its default, SimpleCommentedConfig:{}. 
-[181月2026 17:46:32.158] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.small_connector_max_input was corrected from null to its default, 1000. 
-[181月2026 17:46:32.158] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.small_connector_max_output was corrected from null to its default, 1000. 
-[181月2026 17:46:32.160] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.small_connector_wire_length was corrected from null to its default, 16. 
-[181月2026 17:46:32.161] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.small_light_connector_consumption was corrected from null to its default, 1. 
-[181月2026 17:46:32.163] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.large_connector_max_input was corrected from null to its default, 5000. 
-[181月2026 17:46:32.163] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.large_connector_max_output was corrected from null to its default, 5000. 
-[181月2026 17:46:32.163] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.large_connector_wire_length was corrected from null to its default, 32. 
-[181月2026 17:46:32.164] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.connector_ignore_face_check was corrected from null to its default, true. 
-[181月2026 17:46:32.167] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wires.connector_allow_passive_io was corrected from null to its default, true. 
-[181月2026 17:46:32.171] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator was corrected from null to its default, SimpleCommentedConfig:{}. 
-[181月2026 17:46:32.174] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator.accumulator_max_input was corrected from null to its default, 5000. 
-[181月2026 17:46:32.176] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator.accumulator_max_output was corrected from null to its default, 5000. 
-[181月2026 17:46:32.177] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator.accumulator_capacity was corrected from null to its default, 2000000. 
-[181月2026 17:46:32.180] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator.accumulator_max_height was corrected from null to its default, 5. 
-[181月2026 17:46:32.183] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key accumulator.accumulator_max_width was corrected from null to its default, 3. 
-[181月2026 17:46:32.186] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key portable_energy_interface was corrected from null to its default, SimpleCommentedConfig:{}. 
-[181月2026 17:46:32.187] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key portable_energy_interface.pei_max_input was corrected from null to its default, 5000. 
-[181月2026 17:46:32.187] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key portable_energy_interface.pei_max_output was corrected from null to its default, 5000. 
-[181月2026 17:46:32.189] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil was corrected from null to its default, SimpleCommentedConfig:{}. 
-[181月2026 17:46:32.190] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_max_input was corrected from null to its default, 10000. 
-[181月2026 17:46:32.190] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_charge_rate was corrected from null to its default, 5000. 
-[181月2026 17:46:32.191] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_recipe_charge_rate was corrected from null to its default, 2000. 
-[181月2026 17:46:32.191] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_capacity was corrected from null to its default, 40000. 
-[181月2026 17:46:32.192] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_hurt_energy_required was corrected from null to its default, 1000. 
-[181月2026 17:46:32.193] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_hurt_range was corrected from null to its default, 3. 
-[181月2026 17:46:32.194] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_hurt_mob was corrected from null to its default, 3. 
-[181月2026 17:46:32.194] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_effect_time_mob was corrected from null to its default, 20. 
-[181月2026 17:46:32.195] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_hurt_player was corrected from null to its default, 2. 
-[181月2026 17:46:32.195] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_effect_time_player was corrected from null to its default, 20. 
-[181月2026 17:46:32.196] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key tesla_coil.tesla_coil_fire_cooldown was corrected from null to its default, 20. 
-[181月2026 17:46:32.197] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc was corrected from null to its default, SimpleCommentedConfig:{}. 
-[181月2026 17:46:32.198] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.diamond_grit_sandpaper_uses was corrected from null to its default, 1024. 
-[181月2026 17:46:32.200] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway block entity types
-[181月2026 17:46:32.200] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key misc.barbed_wire_damage was corrected from null to its default, 2.0. 
-[181月2026 17:46:32.203] [modloading-worker-0/INFO] [KubeJS/]: Added bindings for script type STARTUP from mod 'almostunified': [AlmostUnified]
-[181月2026 17:46:32.215] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway entity types
-[181月2026 17:46:32.215] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway creative mode tabs
-[181月2026 17:46:32.217] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway sound events
-[181月2026 17:46:32.218] [modloading-worker-0/INFO] [MinecraftMappings/]: Minecraft Mappings logging enabled
-[181月2026 17:46:32.245] [modloading-worker-0/INFO] [KubeJS Startup/]: example.js#5: Hello, World! (Loaded startup scripts)
-[181月2026 17:46:32.247] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded script startup_scripts:example.js in 0.042 s
-[181月2026 17:46:32.250] [modloading-worker-0/INFO] [KubeJS Startup/]: Loaded 1/1 KubeJS startup scripts in 1.306 s with 0 errors and 0 warnings
-[181月2026 17:46:32.276] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:send_data_from_client
-[181月2026 17:46:32.278] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id kubejs:first_click
-[181月2026 17:46:41.194] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 5 errors found
-[181月2026 17:46:41.482] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 5281a02f-c722-4b1c-b68c-e0c8dd05bbca
-[181月2026 17:46:41.483] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to .\crash-reports\crash-2026-01-18_17.46.41-fml.txt
-[181月2026 17:46:41.492] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 4dff5166-0a15-4972-9dac-de1a2373dab0
-[181月2026 17:46:41.495] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+[181月2026 18:04:10.037] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :  __  __ _                            __ _    
+[181月2026 18:04:10.037] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |  \/  (_)                          / _| |   
+[181月2026 18:04:10.037] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : | \  / |_ _ __   ___  ___ _ __ __ _| |_| |_  
+[181月2026 18:04:10.037] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : | |\/| | | '_ \ / _ \/ __| '__/ _` |  _| __| 
+[181月2026 18:04:10.038] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : | |  | | | | | |  __/ (__| | | (_| | | | |_  
+[181月2026 18:04:10.038] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |_|__|_|_|_| |_|\___|\___|_|_ \__,_|_|  \__| 
+[181月2026 18:04:10.038] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |__   __|                (_) |               
+[181月2026 18:04:10.038] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :    | |_ __ __ _ _ __  ___ _| |_              
+[181月2026 18:04:10.038] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :    | | '__/ _` | '_ \/ __| | __|             
+[181月2026 18:04:10.039] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :    | | | | (_| | | | \__ \ | |_              
+[181月2026 18:04:10.039] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :    |_|_|  \__,_|_| |_|___/_|\__|             
+[181月2026 18:04:10.041] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :  _____       _ _                             
+[181月2026 18:04:10.041] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |  __ \     (_) |                            
+[181月2026 18:04:10.041] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : | |__) |__ _ _| |_      ____ _ _   _         
+[181月2026 18:04:10.041] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |  _  // _` | | \ \ /\ / / _` | | | |        
+[181月2026 18:04:10.042] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : | | \ \ (_| | | |\ V  V / (_| | |_| |        
+[181月2026 18:04:10.042] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: : |_|  \_\__,_|_|_| \_/\_/ \__,_|\__, |        
+[181月2026 18:04:10.042] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :                                 __/ |        
+[181月2026 18:04:10.042] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :                                |___/ (4.0.0-beta.16+1.20.1) 
+[181月2026 18:04:10.042] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: :                                              
+[181月2026 18:04:10.181] [modloading-worker-0/INFO] [com.liberty.mekanism.addon.adastra.ForgeMod/]: Registered 16 items from the mod
+[181月2026 18:04:10.188] [modloading-worker-0/INFO] [PluginManager/]: Scanning classes for functionalstorage
+[181月2026 18:04:10.217] [modloading-worker-0/INFO] [AE2 MEGA Things/]: Initializing integration with appmek
+[181月2026 18:04:10.244] [modloading-worker-0/INFO] [MEGA Cells/]: Initialised items.
+[181月2026 18:04:10.273] [modloading-worker-0/INFO] [MEGA Cells/]: Initialised blocks.
+[181月2026 18:04:10.282] [modloading-worker-0/INFO] [MEGA Cells/]: Initialised block entities.
+[181月2026 18:04:10.293] [modloading-worker-0/INFO] [MEGA Cells/]: Initialised Applied Mekanistics integration.
+[181月2026 18:04:10.325] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway blocks
+[181月2026 18:04:10.370] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway items
+[181月2026 18:04:10.438] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway block entity types
+[181月2026 18:04:10.453] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway entity types
+[181月2026 18:04:10.455] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway creative mode tabs
+[181月2026 18:04:10.458] [modloading-worker-0/INFO] [MinecraftTransitRailway/]: Registering Minecraft Transit Railway sound events
+[181月2026 18:04:10.458] [modloading-worker-0/INFO] [MinecraftMappings/]: Minecraft Mappings logging enabled
+[181月2026 18:04:10.569] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
+[181月2026 18:04:10.746] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 93195899-8c56-4e96-8c55-a00cded0b8c8
+[181月2026 18:04:10.747] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to .\crash-reports\crash-2026-01-18_18.04.10-fml.txt
+[181月2026 18:04:10.759] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 1f887dac-4971-46c3-a52b-a5fed7bad490
+[181月2026 18:04:10.763] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
 net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
-	Embeddium (embeddium) has failed to load correctly
-§7java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER,
-	Oculus (oculus) has failed to load correctly
-§7java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER,
 	Petrolpark's Library (petrolpark) has failed to load correctly
-§7java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER,
-	Just Enough Characters (jecharacters) has failed to load correctly
-§7java.lang.NoClassDefFoundError: net/minecraft/client/searchtree/SuffixArray,
-	IMBlocker (imblocker) has failed to load correctly
-§7java.lang.ExceptionInInitializerError: null
+§7java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/Screen for invalid dist DEDICATED_SERVER
 ]
-	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:246) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
-	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$20(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
+	at net.minecraftforge.fml.ModLoader.waitForTransition(ModLoader.java:246) ~[fmlcore-1.20.1-47.3.0.jar%23490!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$dispatchAndHandleError$20(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.0.jar%23490!/:?]
 	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
-	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
-	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
+	at net.minecraftforge.fml.ModLoader.dispatchAndHandleError(ModLoader.java:210) ~[fmlcore-1.20.1-47.3.0.jar%23490!/:?]
+	at net.minecraftforge.fml.ModLoader.lambda$gatherAndInitializeMods$13(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.0.jar%23490!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.0.jar%23500!/:?]
-	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.0-universal.jar%23504!/:?]
-	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23499!/:?]
+	at net.minecraftforge.fml.ModLoader.gatherAndInitializeMods(ModLoader.java:183) ~[fmlcore-1.20.1-47.3.0.jar%23490!/:?]
+	at net.minecraftforge.server.loading.ServerModLoader.load(ServerModLoader.java:30) ~[forge-1.20.1-47.3.0-universal.jar%23494!/:?]
+	at net.minecraft.server.Main.main(Main.java:125) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
 	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
 	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
 	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:?]
