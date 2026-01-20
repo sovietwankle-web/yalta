@@ -388,71 +388,6 @@ extendedInventorySafeMode = true
 		#Range: 0.0 ~ 1.0
 		hangoverDamageVoiceThreshold = 1.0
 		#.
-		#The volume threshold for sounds from the source Extrasounds$master to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$masterThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$inventory to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$inventoryThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$action to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$actionThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$chat to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$chatThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$chat_mention to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$chat_mentionThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$effects to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$effectsThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$hotbar to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$hotbarThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$typing to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$typingThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$item_drop to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$item_dropThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$empty_hotbar to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$empty_hotbarThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$enabled_footstep to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$enabled_footstepThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$enabled_effects to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$enabled_effectsThreshold" = 1.0
-		#.
-		#The volume threshold for sounds from the source Extrasounds$enabled_poof to damage entities with hangovers
-		#[1 will disable damage for that sound source]
-		#Range: 0.0 ~ 1.0
-		"hangoverDamageExtrasounds$enabled_poofThreshold" = 1.0
-		#.
 		#The damage done by sounds from the source Master to entities with hangovers
 		#Range: 0.0 ~ 3.4028234663852886E38
 		hangoverDamageMaster = 1.0
@@ -492,58 +427,6 @@ extendedInventorySafeMode = true
 		#The damage done by sounds from the source Voice to entities with hangovers
 		#Range: 0.0 ~ 3.4028234663852886E38
 		hangoverDamageVoice = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$master to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$master" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$inventory to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$inventory" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$action to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$action" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$chat to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$chat" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$chat_mention to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$chat_mention" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$effects to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$effects" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$hotbar to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$hotbar" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$typing to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$typing" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$item_drop to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$item_drop" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$empty_hotbar to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$empty_hotbar" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$enabled_footstep to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$enabled_footstep" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$enabled_effects to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$enabled_effects" = 1.0
-		#.
-		#The damage done by sounds from the source Extrasounds$enabled_poof to entities with hangovers
-		#Range: 0.0 ~ 3.4028234663852886E38
-		"hangoverDamageExtrasounds$enabled_poof" = 1.0
 		#.
 		#[in blocks]
 		#The square radius away from a noise which will be checked for entities with hangovers

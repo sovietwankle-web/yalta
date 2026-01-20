@@ -1,0 +1,92 @@
+[23:47:19] [Server thread/INFO] [minecraft/MinecraftServer]: Sailor2568 joined the game
+[23:47:20] [Server thread/INFO] [oelib/]: Sending Replacements data: 380 entries, 54501 bytes
+[23:47:20] [Server thread/INFO] [oelib/]: Splitting Replacements data into 2 chunks for session fc6c93b0-2306-46de-9b34-5fc754312324
+[23:47:20] [Server thread/INFO] [minecraft/MinecraftServer]: Sailor2568 has reached the goal [The fireworks in the world touch the hearts of mortals the most.]
+[23:47:20] [Server thread/INFO] [Jade/]: Syncing config to Sailor2568 (870293fd-9723-302d-8652-4157e97a9012)
+[23:47:21] [Server thread/WARN] [minecraft/MinecraftServer]: Can't keep up! Is the server overloaded? Running 14451ms or 289 ticks behind
+[23:47:42] [Server thread/ERROR] [ne.mi.fm.lo.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen$ItemPickerMenu for invalid dist DEDICATED_SERVER
+[23:47:42] [Server thread/ERROR] [ne.mi.ev.EventBus/EVENTBUS]: Exception caught during firing event: Attempted to load class net/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen$ItemPickerMenu for invalid dist DEDICATED_SERVER
+	Index: 6
+	Listeners:
+		0: NORMAL
+		1: net.minecraftforge.eventbus.EventBus$$Lambda/0x000002053a7f2240@330edc6e
+		2: ASM: class me.desht.pneumaticcraft.common.debug.DroneDebugger$Listener onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		3: ASM: com.github.alexthe666.citadel.server.CitadelEvents@8890769 onEntityUpdateDebug(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		4: net.minecraftforge.eventbus.EventBus$$Lambda/0x000002053a7f2240@5905845d
+		5: ASM: class org.valkyrienskies.clockwork.forge.ClockworkEvents onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		6: ASM: class uwu.lopyluna.unify.event.UnifyEvent onLivingEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		7: ASM: ad_astra_giselle_addon.common.compat.pneumaticcraft.PneumaticCraftProofProvidingHandler@5a9adf39 onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		8: ASM: class com.simibubi.create.foundation.events.CommonEvents onUpdateLivingEntity(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		9: ASM: class com.simibubi.create.content.equipment.extendoGrip.ExtendoGripItem holdingExtendoGripIncreasesRange(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		10: ASM: class com.simibubi.create.content.equipment.armor.DivingHelmetItem breatheUnderwater(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		11: ASM: class com.simibubi.create.content.equipment.armor.DivingBootsItem accellerateDescentUnderwater(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		12: ASM: class com.gregtechceu.gtceu.forge.ForgeCommonEventListener stepAssistHandler(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		13: ASM: top.theillusivec4.curios.common.event.CuriosEventHandler@362228d9 tick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		14: ASM: blusunrize.immersiveengineering.common.EventHandler@3d3cc927 onLivingUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		15: ASM: mekanism.common.lib.radiation.RadiationManager@67c40d9e onLivingTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		16: ASM: class uwu.lopyluna.unify.event.UnifyEvent onEntityTick(Lnet/minecraftforge/event/entity/EntityEvent;)V
+java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen$ItemPickerMenu for invalid dist DEDICATED_SERVER
+	at MC-BOOTSTRAP/fmlloader@1.20.1-47.3.0/net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
+	at MC-BOOTSTRAP/cpw.mods.modlauncher@10.0.9/cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219)
+	at cpw.mods.securejarhandler/cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+	at TRANSFORMER/unify@1.0a.Release/uwu.lopyluna.unify.event.UnifyEvent.onLivingEntityTick(UnifyEvent.java:106)
+	at TRANSFORMER/unify@1.0a.Release/uwu.lopyluna.unify.event.__UnifyEvent_onLivingEntityTick_LivingTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.0/net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:241)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[23:47:43] [Server thread/WARN] [minecraft/ServerConnectionListener]: Failed to handle packet for /[2408:8210:243c:8390:95e:7f04:87ad:892d]:51385
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/inventory/CreativeModeInventoryScreen$ItemPickerMenu for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[fmlloader-1.20.1-47.3.0.jar%2369!/:1.0]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at uwu.lopyluna.unify.event.UnifyEvent.onLivingEntityTick(UnifyEvent.java:106) ~[Create-Unify-1.20.1-1.0a.Release.jar%23377!/:1.0a.Release]
+	at uwu.lopyluna.unify.event.__UnifyEvent_onLivingEntityTick_LivingTickEvent.invoke(.dynamic) ~[Create-Unify-1.20.1-1.0a.Release.jar%23377!/:1.0a.Release]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264) ~[forge-1.20.1-47.3.0-universal.jar%23484!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23479!/:?]
+	... 9 more
+[23:47:45] [Server thread/INFO] [minecraft/ServerGamePacketListenerImpl]: Sailor2568 lost connection: Internal server error
+[23:47:45] [Server thread/INFO] [minecraft/MinecraftServer]: Sailor2568 left the game

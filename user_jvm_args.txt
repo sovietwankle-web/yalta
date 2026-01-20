@@ -4,7 +4,7 @@
 # For example, to set the maximum to 3GB: -Xmx3G
 # To set the minimum to 2.5GB: -Xms2500M
 
--DKMT_D=[a]
+-DKMT_D=a
 -DKAF-FixTFMGDestroy=true
 # A good default for a modded server is 4GB.
 # Uncomment the next line to set it.
