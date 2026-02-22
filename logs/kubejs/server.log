@@ -1,12 +1,12 @@
-[03:26:50] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[03:26:50] [INIT] Loaded plugins:
-[03:26:50] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[03:26:50] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[03:26:50] [INIT] - argent_matter.gcyr.integration.kjs.GCYRKubeJSPlugin
-[03:26:50] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
-[03:26:50] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[03:26:51] [INFO] example.js#5: Hello, World! (Loaded server scripts)
-[03:26:51] [INFO] Loaded script server_scripts:example.js in 0.004 s
-[03:26:51] [INFO] Loaded 1/1 KubeJS server scripts in 0.053 s with 0 errors and 0 warnings
-[03:26:51] [INFO] Scripts loaded
-[03:27:21] [INFO] Server resource reload complete!
+[19:10:44] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[19:10:44] [INIT] Loaded plugins:
+[19:10:44] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[19:10:44] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[19:10:44] [INIT] - argent_matter.gcyr.integration.kjs.GCYRKubeJSPlugin
+[19:10:44] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[19:10:44] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[19:10:44] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[19:10:44] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[19:10:44] [INFO] Loaded 1/1 KubeJS server scripts in 0.013 s with 0 errors and 0 warnings
+[19:10:44] [INFO] Scripts loaded
+[19:11:07] [INFO] Server resource reload complete!
