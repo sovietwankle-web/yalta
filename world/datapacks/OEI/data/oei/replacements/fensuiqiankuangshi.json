@@ -1,9 +1,0 @@
-[
-  {
-    "matchItems": [
-      "create:crushed_raw_lead",
-      "gtceu:crushed_lead_ore"
-    ],
-    "resultItems": "create:crushed_raw_lead"
-  }
-]

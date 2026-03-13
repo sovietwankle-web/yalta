@@ -1,9 +1,0 @@
-[
-  {
-    "matchItems": [
-      "create:crushed_raw_tin",
-      "gtceu:crushed_tin_ore"
-    ],
-    "resultItems": "create:crushed_raw_tin"
-  }
-]

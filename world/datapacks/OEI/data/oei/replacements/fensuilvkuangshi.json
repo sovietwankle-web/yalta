@@ -1,9 +1,0 @@
-[
-  {
-    "matchItems": [
-      "gtceu:crushed_aluminium_ore",
-      "create:crushed_raw_aluminum"
-    ],
-    "resultItems": "create:crushed_raw_aluminum"
-  }
-]

@@ -1,9 +1,0 @@
-[
-  {
-    "matchItems": [
-      "create:crushed_raw_nickel",
-      "gtceu:crushed_nickel_ore"
-    ],
-    "resultItems": "create:crushed_raw_nickel"
-  }
-]
