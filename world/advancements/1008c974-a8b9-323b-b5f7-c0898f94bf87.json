@@ -7521,15 +7521,15 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/appliances/filter_clear": {
-    "criteria": {
-      "has_item": "2026-03-07 15:36:33 +0800"
-    },
-    "done": true
-  },
   "create_connected:recipes/crafting/kinetics/encased_chain_cogwheel": {
     "criteria": {
       "has_item": "2026-03-07 15:35:09 +0800"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/filter_clear": {
+    "criteria": {
+      "has_item": "2026-03-07 15:36:33 +0800"
     },
     "done": true
   },

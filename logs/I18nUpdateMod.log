@@ -1,8 +1,8 @@
-[2026-03-13 02:52:06] [INFO]: I18nUpdate Mod 3.6.0 is loaded in 1.20.1 with Forge
-[2026-03-13 02:52:06] [DEBUG]: Minecraft path: .
-[2026-03-13 02:52:06] [DEBUG]: Local Storage Pos: /root/.local/share
-[2026-03-13 02:52:06] [DEBUG]: Both temp and current file not found
-[2026-03-13 02:52:06] [DEBUG]: Local file /root/.local/share/.i18nupdatemod/1.20/Minecraft-Mod-Language-Modpack-1-20.zip not exist.
-[2026-03-13 02:52:06] [INFO]: Downloading: http://downloader1.meitangdehulu.com:22943/Minecraft-Mod-Language-Modpack-1-20.zip -> /root/.local/share/.i18nupdatemod/1.20/Minecraft-Mod-Language-Modpack-1-20.zip.tmp
-[2026-03-13 02:52:07] [WARNING]: Error while downloading: java.net.ConnectException: Connection refused
-[2026-03-13 02:52:07] [WARNING]: Failed to update resource pack: java.io.FileNotFoundException: Tmp file not found.
+[2026-03-14 21:56:58] [INFO]: I18nUpdate Mod 3.6.0 is loaded in 1.20.1 with Forge
+[2026-03-14 21:56:59] [DEBUG]: Minecraft path: .
+[2026-03-14 21:56:59] [DEBUG]: Local Storage Pos: /root/.local/share
+[2026-03-14 21:56:59] [DEBUG]: Both temp and current file not found
+[2026-03-14 21:56:59] [DEBUG]: Local file /root/.local/share/.i18nupdatemod/1.20/Minecraft-Mod-Language-Modpack-1-20.zip not exist.
+[2026-03-14 21:56:59] [INFO]: Downloading: http://downloader1.meitangdehulu.com:22943/Minecraft-Mod-Language-Modpack-1-20.zip -> /root/.local/share/.i18nupdatemod/1.20/Minecraft-Mod-Language-Modpack-1-20.zip.tmp
+[2026-03-14 21:56:59] [WARNING]: Error while downloading: java.net.ConnectException: Connection refused
+[2026-03-14 21:56:59] [WARNING]: Failed to update resource pack: java.io.FileNotFoundException: Tmp file not found.

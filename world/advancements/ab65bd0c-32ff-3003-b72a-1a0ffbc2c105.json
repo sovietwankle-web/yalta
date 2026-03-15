@@ -9010,5 +9010,89 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix_clean": {
+    "criteria": {
+      "has_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_light_gray": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_brown": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_orange": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_gray": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_cyan": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_magenta": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_light_blue": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_purple": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_pink": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_fluix_smart_dense_cable": "2026-03-14 03:11:50 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

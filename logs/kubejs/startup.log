@@ -1,10 +1,10 @@
-[02:52:20] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[02:52:20] [INIT] Loaded plugins:
-[02:52:20] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[02:52:20] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[02:52:20] [INIT] - argent_matter.gcyr.integration.kjs.GCYRKubeJSPlugin
-[02:52:20] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
-[02:52:20] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[02:52:21] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
-[02:52:21] [INFO] Loaded script startup_scripts:example.js in 0.017 s
-[02:52:21] [INFO] Loaded 1/1 KubeJS startup scripts in 0.483 s with 0 errors and 0 warnings
+[21:57:09] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[21:57:09] [INIT] Loaded plugins:
+[21:57:09] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[21:57:09] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[21:57:09] [INIT] - argent_matter.gcyr.integration.kjs.GCYRKubeJSPlugin
+[21:57:09] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[21:57:09] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[21:57:10] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[21:57:10] [INFO] Loaded script startup_scripts:example.js in 0.016 s
+[21:57:10] [INFO] Loaded 1/1 KubeJS startup scripts in 0.512 s with 0 errors and 0 warnings
